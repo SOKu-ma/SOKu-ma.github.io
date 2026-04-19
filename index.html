@@ -4,62 +4,55 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>SO-KUMA Labs</title>
-  <meta name="description" content="SO-KUMA Labs の公開サイトです。">
-  <style>
-    :root {
-      color-scheme: light;
-      --bg: #f7f3eb;
-      --surface: #fffdf9;
-      --text: #2c241f;
-      --muted: #64584f;
-      --line: #e4d9c9;
-      --accent: #8a3f22;
-    }
-
-    * { box-sizing: border-box; }
-
-    body {
-      margin: 0;
-      font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Yu Gothic", sans-serif;
-      background: linear-gradient(180deg, #fbf7f1 0%, var(--bg) 100%);
-      color: var(--text);
-    }
-
-    main {
-      width: min(720px, calc(100% - 32px));
-      margin: 48px auto;
-      padding: 32px;
-      background: var(--surface);
-      border: 1px solid var(--line);
-      border-radius: 20px;
-    }
-
-    h1 {
-      margin: 0 0 12px;
-      font-size: clamp(2rem, 6vw, 3.2rem);
-      line-height: 1.1;
-    }
-
-    p {
-      margin: 12px 0 0;
-      line-height: 1.8;
-      color: var(--muted);
-    }
-
-    .accent {
-      color: var(--accent);
-      font-weight: 700;
-      letter-spacing: 0.08em;
-      text-transform: uppercase;
-      font-size: 0.82rem;
-    }
-  </style>
+  <meta name="description" content="SO-KUMA Labs の公式公開サイトです。アプリ・サービス案内、サポート窓口、プライバシーポリシーを掲載しています。">
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <main>
-    <p class="accent">SO-KUMA Labs</p>
-    <h1>準備中です</h1>
-    <p>公開サイトを整備中です。必要な情報は順次追加します。</p>
-  </main>
+  <div class="page-shell">
+    <header class="site-header">
+      <a class="brand" href="./">
+        <span class="brand-mark">SK</span>
+        <span class="brand-text">SO-KUMA Labs</span>
+      </a>
+      <nav class="site-nav" aria-label="主要リンク">
+        <a href="./">Home</a>
+        <a href="privacy/">Privacy</a>
+        <a href="support/">Support</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero card">
+        <p class="eyebrow">Official Site</p>
+        <h1>SO-KUMA Labs</h1>
+        <p class="lead">
+          SO-KUMA Labs の公式サイトです。運営者情報、サポート窓口、プライバシーポリシーを掲載しています。
+        </p>
+      </section>
+
+      <section class="card info-card">
+        <h2>運営者情報</h2>
+        <dl class="meta-list">
+          <div>
+            <dt>屋号</dt>
+            <dd>SO-KUMA Labs</dd>
+          </div>
+          <div>
+            <dt>住所</dt>
+            <dd>160-0023 東京都新宿区⻄新宿三丁⽬3番13号 ⻄新宿⽔間ビル6階</dd>
+          </div>
+        </dl>
+        <h2>連絡先</h2>
+        <address class="contact-list">
+          <p>メール: <a href="mailto:sokumaeng2020@gmail.com">sokumaeng2020@gmail.com</a></p>
+          <p>電話: <a href="tel:09065668120">09065668120</a></p>
+        </address>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>© SO-KUMA Labs</p>
+    </footer>
+  </div>
 </body>
 </html>
