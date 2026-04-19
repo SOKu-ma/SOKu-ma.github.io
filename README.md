@@ -1,17 +1,19 @@
 # SO-KUMA Labs Pages
 
-GitHub Pages 用の最小公開サイトです。
+SO-KUMA Labs の公式サイトを公開するための GitHub Pages リポジトリです。
 
-## Files
+公開URL:
 
-- `index.html`: 公開トップ
+- [https://www.so-kuma.com](https://www.so-kuma.com)
+
+## Structure
+
+- `index.html`: トップページ
 - `privacy/index.html`: プライバシーポリシー
-- `support/index.html`: サポート案内
+- `support/index.html`: サポートページ
 - `styles.css`: 共通スタイル
+- `favicon.svg`: サイトアイコン
 
-## Next
+## Deployment
 
-公開前に次を確認してください。
-
-- アプリ / サービスの正式な説明
-- 独自ドメイン設定後の Search Console 所有確認
+このリポジトリは GitHub Pages の `main` ブランチ `/ (root)` から配信する前提です。
