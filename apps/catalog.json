@@ -21,9 +21,8 @@
   },
   "ui": {
     "ja": {
-      "title": "好きなことを、もっと。",
-      "intro": "日々の記録から、次のプレーまで。スポーツを楽しむための、小さな道具たち。",
-      "collection": "アプリコレクション",
+      "title": "SO-KUMAのアプリ",
+      "collection": "アプリ一覧",
       "language": "言語",
       "explore": "アプリを見る",
       "count": "{n} 個のアプリ",
@@ -46,15 +45,14 @@
       "imageFallback": "この言語の画像がないため、英語の画像を表示しています。",
       "copyFallback": "この言語の紹介文がないため、英語を表示しています。",
       "sourceHeading": "いま使っているアプリ",
-      "otherApps": "ほかのアプリも、どうぞ。"
+      "otherApps": "その他のアプリ"
     },
     "en": {
-      "title": "More of what you love.",
-      "intro": "From everyday practice to your next game. Thoughtful little tools for the sports you love.",
-      "collection": "The app collection",
+      "title": "SO-KUMA Apps",
+      "collection": "All apps",
       "language": "Language",
       "explore": "Explore the apps",
-      "count": "{n} apps to explore",
+      "count": "{n} apps",
       "preview": "Screen preview",
       "support": "Support",
       "privacy": "Privacy",
@@ -74,11 +72,10 @@
       "imageFallback": "English images: localized previews unavailable.",
       "copyFallback": "English description: translation unavailable.",
       "sourceHeading": "Your app",
-      "otherApps": "More apps to explore"
+      "otherApps": "Other apps"
     },
     "es": {
-      "title": "Más de lo que te gusta.",
-      "intro": "De la práctica diaria al próximo partido. Pequeñas herramientas para disfrutar del deporte.",
+      "title": "Aplicaciones de SO-KUMA",
       "collection": "Colección de apps",
       "language": "Idioma",
       "explore": "Explorar las apps",
@@ -102,11 +99,10 @@
       "imageFallback": "Imágenes en inglés: no hay vistas localizadas.",
       "copyFallback": "Descripción en inglés: traducción no disponible.",
       "sourceHeading": "Tu app",
-      "otherApps": "Más apps para descubrir"
+      "otherApps": "Otras aplicaciones"
     },
     "ko": {
-      "title": "좋아하는 것을 더 즐겁게.",
-      "intro": "매일의 연습부터 다음 경기까지. 스포츠를 즐기는 작은 도구들.",
+      "title": "SO-KUMA 앱",
       "collection": "앱 컬렉션",
       "language": "언어",
       "explore": "앱 둘러보기",
@@ -130,11 +126,10 @@
       "imageFallback": "번역된 이미지가 없어 영어 이미지를 표시합니다.",
       "copyFallback": "번역된 소개가 없어 영어로 표시합니다.",
       "sourceHeading": "사용 중인 앱",
-      "otherApps": "다른 앱도 둘러보세요"
+      "otherApps": "다른 앱"
     },
     "zh-TW": {
-      "title": "讓喜愛的事，更有樂趣。",
-      "intro": "從日常練習到下一場比賽。享受運動的小工具。",
+      "title": "SO-KUMA 的應用程式",
       "collection": "應用程式精選",
       "language": "語言",
       "explore": "探索應用程式",
@@ -158,11 +153,10 @@
       "imageFallback": "此語言的圖片尚未提供，因此顯示英文圖片。",
       "copyFallback": "此語言的介紹尚未提供，因此顯示英文。",
       "sourceHeading": "您正在使用的應用程式",
-      "otherApps": "探索更多應用程式"
+      "otherApps": "其他應用程式"
     },
     "de": {
-      "title": "Mehr von dem, was du liebst.",
-      "intro": "Vom täglichen Training bis zum nächsten Spiel. Kleine Helfer für deinen Sport.",
+      "title": "Apps von SO-KUMA",
       "collection": "Die App-Sammlung",
       "language": "Sprache",
       "explore": "Apps entdecken",
@@ -186,11 +180,10 @@
         "VIDEO ANALYSIS": "VIDEOANALYSE"
       },
       "sourceHeading": "Deine App",
-      "otherApps": "Weitere Apps entdecken"
+      "otherApps": "Weitere Apps"
     },
     "fr": {
-      "title": "Plus de ce que vous aimez.",
-      "intro": "De l’entraînement quotidien au prochain match. De petits outils pour votre sport.",
+      "title": "Les applications SO-KUMA",
       "collection": "La collection d’apps",
       "language": "Langue",
       "explore": "Découvrir les apps",
@@ -214,11 +207,10 @@
         "VIDEO ANALYSIS": "ANALYSE VIDÉO"
       },
       "sourceHeading": "Votre app",
-      "otherApps": "D’autres apps à découvrir"
+      "otherApps": "D’autres applications"
     },
     "it": {
-      "title": "Più di ciò che ami.",
-      "intro": "Dall’allenamento quotidiano alla prossima partita. Piccoli strumenti per il tuo sport.",
+      "title": "Le app di SO-KUMA",
       "collection": "La raccolta di app",
       "language": "Lingua",
       "explore": "Esplora le app",
@@ -242,11 +234,10 @@
         "VIDEO ANALYSIS": "ANALISI VIDEO"
       },
       "sourceHeading": "La tua app",
-      "otherApps": "Altre app da scoprire"
+      "otherApps": "Altre app"
     },
     "pt": {
-      "title": "Mais do que adora.",
-      "intro": "Do treino diário ao próximo jogo. Pequenas ferramentas para o seu desporto.",
+      "title": "Aplicações SO-KUMA",
       "collection": "Coleção de aplicações",
       "language": "Idioma",
       "explore": "Explorar aplicações",
@@ -270,11 +261,10 @@
         "VIDEO ANALYSIS": "ANÁLISE DE VÍDEO"
       },
       "sourceHeading": "A sua aplicação",
-      "otherApps": "Descubra outras aplicações"
+      "otherApps": "Outras aplicações"
     },
     "pt-BR": {
-      "title": "Mais do que você ama.",
-      "intro": "Do treino diário ao próximo jogo. Pequenas ferramentas para o seu esporte.",
+      "title": "Apps da SO-KUMA",
       "collection": "Coleção de apps",
       "language": "Idioma",
       "explore": "Explorar os apps",
@@ -298,11 +288,10 @@
         "VIDEO ANALYSIS": "ANÁLISE DE VÍDEO"
       },
       "sourceHeading": "Seu app",
-      "otherApps": "Descubra outros apps"
+      "otherApps": "Outros apps"
     },
     "zh-CN": {
-      "title": "让喜爱的事，更有乐趣。",
-      "intro": "从日常练习到下一场比赛。享受运动的小工具。",
+      "title": "SO-KUMA 的应用",
       "collection": "应用精选",
       "language": "语言",
       "explore": "探索应用",
@@ -326,11 +315,10 @@
         "VIDEO ANALYSIS": "视频分析"
       },
       "sourceHeading": "您正在使用的应用",
-      "otherApps": "探索更多应用"
+      "otherApps": "其他应用"
     },
     "ar": {
-      "title": "المزيد مما تحب.",
-      "intro": "من التدريب اليومي إلى المباراة القادمة. أدوات صغيرة للاستمتاع بالرياضة.",
+      "title": "تطبيقات SO-KUMA",
       "collection": "مجموعة التطبيقات",
       "language": "اللغة",
       "explore": "استكشف التطبيقات",
@@ -354,11 +342,10 @@
         "VIDEO ANALYSIS": "تحليل الفيديو"
       },
       "sourceHeading": "تطبيقك",
-      "otherApps": "تطبيقات أخرى لاستكشافها"
+      "otherApps": "تطبيقات أخرى"
     },
     "bn": {
-      "title": "পছন্দের কাজে আরও আনন্দ।",
-      "intro": "প্রতিদিনের অনুশীলন থেকে পরের ম্যাচ। খেলাধুলা উপভোগ করার ছোট সরঞ্জাম।",
+      "title": "SO-KUMA-এর অ্যাপ",
       "collection": "অ্যাপ সংগ্রহ",
       "language": "ভাষা",
       "explore": "অ্যাপ দেখুন",
@@ -382,11 +369,10 @@
         "VIDEO ANALYSIS": "ভিডিও বিশ্লেষণ"
       },
       "sourceHeading": "আপনার অ্যাপ",
-      "otherApps": "আরও অ্যাপ দেখুন"
+      "otherApps": "অন্যান্য অ্যাপ"
     },
     "id": {
-      "title": "Lebih banyak hal yang Anda sukai.",
-      "intro": "Dari latihan harian hingga pertandingan berikutnya. Alat kecil untuk menikmati olahraga.",
+      "title": "Aplikasi SO-KUMA",
       "collection": "Koleksi aplikasi",
       "language": "Bahasa",
       "explore": "Jelajahi aplikasi",
@@ -410,11 +396,10 @@
         "VIDEO ANALYSIS": "ANALISIS VIDEO"
       },
       "sourceHeading": "Aplikasi Anda",
-      "otherApps": "Jelajahi aplikasi lainnya"
+      "otherApps": "Aplikasi lainnya"
     },
     "tr": {
-      "title": "Sevdiğiniz şeylerden daha fazlası.",
-      "intro": "Günlük antrenmandan sonraki maça. Sporun tadını çıkarmak için küçük araçlar.",
+      "title": "SO-KUMA uygulamaları",
       "collection": "Uygulama koleksiyonu",
       "language": "Dil",
       "explore": "Uygulamaları keşfet",
@@ -438,11 +423,10 @@
         "VIDEO ANALYSIS": "VİDEO ANALİZİ"
       },
       "sourceHeading": "Uygulamanız",
-      "otherApps": "Diğer uygulamaları keşfedin"
+      "otherApps": "Diğer uygulamalar"
     },
     "nl": {
-      "title": "Meer van wat je leuk vindt.",
-      "intro": "Van dagelijkse training tot je volgende wedstrijd. Kleine hulpmiddelen voor je sport.",
+      "title": "Apps van SO-KUMA",
       "collection": "De appcollectie",
       "language": "Taal",
       "explore": "Ontdek de apps",
@@ -466,11 +450,10 @@
         "VIDEO ANALYSIS": "VIDEOANALYSE"
       },
       "sourceHeading": "Jouw app",
-      "otherApps": "Ontdek meer apps"
+      "otherApps": "Andere apps"
     },
     "pl": {
-      "title": "Więcej tego, co lubisz.",
-      "intro": "Od codziennego treningu do kolejnego meczu. Małe narzędzia dla Twojego sportu.",
+      "title": "Aplikacje SO-KUMA",
       "collection": "Kolekcja aplikacji",
       "language": "Język",
       "explore": "Odkryj aplikacje",
@@ -494,15 +477,14 @@
         "VIDEO ANALYSIS": "ANALIZA WIDEO"
       },
       "sourceHeading": "Twoja aplikacja",
-      "otherApps": "Odkryj inne aplikacje"
+      "otherApps": "Inne aplikacje"
     },
     "en-GB": {
-      "title": "More of what you love.",
-      "intro": "From everyday practice to your next game. Thoughtful little tools for the sports you love.",
-      "collection": "The app collection",
+      "title": "SO-KUMA Apps",
+      "collection": "All apps",
       "language": "Language",
       "explore": "Explore the apps",
-      "count": "{n} apps to explore",
+      "count": "{n} apps",
       "preview": "Screen preview",
       "support": "Support",
       "privacy": "Privacy",
@@ -522,7 +504,7 @@
         "VIDEO ANALYSIS": "VIDEO ANALYSIS"
       },
       "sourceHeading": "Your app",
-      "otherApps": "More apps to explore"
+      "otherApps": "Other apps"
     }
   },
   "apps": [
@@ -621,13 +603,13 @@
       },
       "copy": {
         "ja": {
-          "name": "ダーツログ - 練習・スコア分析",
-          "description": "盤面をタップして記録。 成績・着弾・推移を振り返れます。",
+          "name": "ダーツログ",
+          "description": "着弾位置とスコアを記録し、ダーツの練習結果を分析できます。",
           "source": "repository:dartlog/lib/l10n/app_ja.arb"
         },
         "en": {
           "name": "DartLog - Practice & Scoring",
-          "description": "Tap where each dart lands. Track your accuracy, misses and progress.",
+          "description": "Record dart scores and landing positions to review practice results.",
           "source": "repository:dartlog/lib/l10n/app_en.arb"
         },
         "es": {
@@ -647,7 +629,7 @@
         },
         "en-GB": {
           "name": "DartLog - Practice & Scoring",
-          "description": "Darts scorer & training tracker: X01, checkout, doubles, cricket, grouping stats"
+          "description": "Record dart scores and landing positions to review practice results."
         },
         "zh-CN": {
           "name": "DartLog - 练习与成绩分析",
@@ -745,12 +727,12 @@
       },
       "copy": {
         "ja": {
-          "name": "野球打率ノート - 試合記録・打撃成績管理",
-          "description": "打席を記録して、打率や成績の変化を振り返ろう。"
+          "name": "野球打率ノート",
+          "description": "打席の結果を記録し、打率などの打撃成績を確認できます。"
         },
         "en": {
           "name": "Baseball Batting Log & Stats",
-          "description": "Log at-bats and practice; auto-track AVG, OPS, OBP, SLG, spray charts & trends."
+          "description": "Record at-bats and view batting averages and other stats."
         },
         "es": {
           "name": "Registro de Bateo",
@@ -766,7 +748,7 @@
         },
         "en-GB": {
           "name": "Baseball Batting Log & Stats",
-          "description": "Log at-bats and practice; auto-track AVG, OPS, OBP, SLG, spray charts & trends."
+          "description": "Record at-bats and view batting averages and other stats."
         },
         "zh-CN": {
           "name": "Baseball Batting Log & Stats",
@@ -829,11 +811,11 @@
       "copy": {
         "ja": {
           "name": "野球オーダー表",
-          "description": "打順・スタメン表をすばやく作成して共有できます"
+          "description": "打順・スタメン表を作成して共有できます。"
         },
         "en": {
           "name": "Baseball Lineup Maker",
-          "description": "Quickly build and share lineup cards and batting orders."
+          "description": "Create and share batting orders and starting lineups."
         },
         "es": {
           "name": "Creador de lineups de béisbol",
@@ -849,7 +831,7 @@
         },
         "en-GB": {
           "name": "Baseball Lineup Maker",
-          "description": "Quickly build and share lineup cards and batting orders."
+          "description": "Create and share batting orders and starting lineups."
         },
         "zh-CN": {
           "name": "Baseball Lineup Maker",
@@ -911,7 +893,7 @@
       "copy": {
         "ja": {
           "name": "サッカーフォーメーションボード",
-          "description": "スタメン表や戦術ボードを作成し、見やすい画像でかんたん共有。",
+          "description": "スタメン表や戦術ボードを作成し、画像で共有できます。",
           "source": "repository:soccer_lineup_board/release_notes/2.4.0/store_text.md#ja"
         },
         "en": {
@@ -1056,12 +1038,12 @@
       },
       "copy": {
         "ja": {
-          "name": "モーションタグ：フォーム動画分析",
-          "description": "動画比較やスロー再生でスポーツのフォームを分析できます"
+          "name": "モーションタグ",
+          "description": "動画の比較とスロー再生で、フォームを分析できます。"
         },
         "en": {
           "name": "MotionTagger: Video Form Coach",
-          "description": "Analyze sports technique with video comparison and slow motion."
+          "description": "Compare videos and use slow motion to analyze technique."
         },
         "es": {
           "name": "Motion Tag: análisis de vídeo de técnica",
@@ -1077,7 +1059,7 @@
         },
         "en-GB": {
           "name": "MotionTagger: Video Form Coach",
-          "description": "Analyze sports technique with video comparison and slow motion."
+          "description": "Compare videos and use slow motion to analyze technique."
         },
         "zh-CN": {
           "name": "MotionTagger：动作视频分析",

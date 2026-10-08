@@ -38,12 +38,12 @@ try {
     const link = node('a',platform === state.platform ? 'store preferred' : 'store', name+' ↗'); link.href=href; link.setAttribute('aria-label',format(ui.store,{name:copy.name,store:name}));
     stores.append(link);
    }
-   if(!isSource)details.append(stores);
+
    const figure=node('figure','visual'); const gallery=node('div','gallery'); gallery.tabIndex=0; gallery.setAttribute('role','group'); gallery.setAttribute('aria-label',copy.name+' — '+ui.preview);
    for(const [i,path] of images.paths.entries()) {
     const image=node('img','screen'); image.src=path;image.alt=`${copy.name} — ${ui.preview} ${i+1}`;image.loading=index===0 ? 'eager':'lazy';image.decoding='async';image.width=640;image.height=1138;gallery.append(image);
    }
-   const caption=node('figcaption',null,format(ui.screens,{language:catalog.languages[images.language] || images.language}));if(images.fallback)caption.append(node('span','fallback-note',ui.imageFallback));figure.append(gallery,caption);article.append(details,figure);(isSource ? sourceFragment : fragment).append(article);
+   const caption=node('figcaption',null,format(ui.screens,{language:catalog.languages[images.language] || images.language}));if(images.fallback)caption.append(node('span','fallback-note',ui.imageFallback));figure.append(gallery,caption);article.append(details,figure);if(!isSource)article.append(stores);(isSource ? sourceFragment : fragment).append(article);
   }
   if (!visible.length) fragment.append(node('p',null,ui.empty));
   document.querySelector("#source-card").replaceChildren(sourceFragment);
