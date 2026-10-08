@@ -1,0 +1,1 @@
+{"name":"so-kuma-pages","private":true,"type":"module","scripts":{"build":"node scripts/build.mjs","test":"node --test tests/state.test.mjs","preview":"python3 -m http.server 5190 --bind 127.0.0.1 --directory dist"}}

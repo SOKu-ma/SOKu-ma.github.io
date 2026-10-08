@@ -1,0 +1,70 @@
+{
+  "baseball-order": {
+    "name": "Baseball Lineup Maker",
+    "description": "Create lineups, manage rosters, check positions, and share clean images fast.",
+    "url": "https://play.google.com/store/apps/details/Baseball_Lineup_Maker?id=com.sokuma.baseballordermaker&hl=en",
+    "icon": "https://play-lh.googleusercontent.com/UsYuSbcHL10MXOBl4BZJlwdqgm8ls6qUntBMtlyk1E2QiGG1d9KyagalKyUJxCTdYz8jwrAGpQVwlaRrXAjlSaY",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/ena65sEIAW1MaTnISVP8Ms1iutN_50LSh-DyCuV44y6ozU6Eh4NPQqKNPFAyppLIdKfMF2WmTWUE2GOrnLgJG9s",
+      "https://play-lh.googleusercontent.com/tCWT7sxgWD68-u2pHdmPjTHfIwH1DuBt7xc1UWDw_BzDOtddcPrrBH0GhGZMCOoou3hnPm3YrXKm4noosn2wR-w"
+    ],
+    "verified": "2026-10-07",
+    "iosName": "Baseball Lineup Maker",
+    "iosUrl": "https://apps.apple.com/us/app/baseball-lineup-maker/id6754637753?uo=4",
+    "jaName": "野球オーダー表"
+  },
+  "motiontag": {
+    "name": "MotionTagger: Sports Analysis",
+    "description": "Record practice, compare two clips, and inspect every frame in slow motion.",
+    "url": "https://play.google.com/store/apps/details/MotionTagger_Sports_Analysis?id=com.sokuma.motiontag&hl=en",
+    "icon": "https://play-lh.googleusercontent.com/px1IwJDPcUkE8yxXJQ7Fz3wzCOi_qwHPS9AYtH7cvO24Js06ABFfYRcC9QRdXqMghX7qgdv1XTB2v44V7f3muQ",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/h6V9BdSAIW5MNZKkEujmEwBPO1ib-UIA3XKkb4bncq6Go3ZyLjLT55N7-JJr_X04XBP-c6ciYTeKHg_rkdge",
+      "https://play-lh.googleusercontent.com/bfybXYqBZoM-h9E2iKkDhWUvP03awswtHJtUQ1mRCqw7lwESJvBkrzQV9g3M6TviTtx6mENxUl1K2NPxubdg7PQ"
+    ],
+    "verified": "2026-10-07",
+    "iosName": "MotionTagger: Video Form Coach",
+    "iosUrl": "https://apps.apple.com/us/app/motiontagger-video-form-coach/id6796528948?uo=4",
+    "jaName": "モーションタグ：フォーム動画分析"
+  },
+  "batting-log": {
+    "name": "Baseball Batting Log & Stats",
+    "description": "Log at-bats and practice; auto-track AVG, OPS, OBP, SLG, spray charts & trends.",
+    "url": "https://play.google.com/store/apps/details/Baseball_Batting_Log_Stats?id=com.sokuma.battinglogapp&hl=en",
+    "icon": "https://play-lh.googleusercontent.com/6NqKTyXAtTGr8iD3YvpndAnSDTCAAv15Qg7aaQsVpiV48dDgYAmK-gWLd2VAtlv95SKOX7FzfkuSyt5vUQCcpkw",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/sFL4wW4xuLxjKUV5GQ4Tk2kSRg6t4TufJBp-c28rWOo_LOoBkdjzmw60Ld1tk9Wmga4jpVg07SFrNtDUHydUVw0",
+      "https://play-lh.googleusercontent.com/Fkusn6dism5PLoHCz8qpfLxuLQ-0dQ01fnOguj4n9c96VidUg5FoolbqKDEU1b6wn3F4g5WdBZ0Nv5dDGpjf"
+    ],
+    "verified": "2026-10-07",
+    "iosName": "Baseball Batting Log & Stats",
+    "iosUrl": "https://apps.apple.com/us/app/baseball-batting-log-stats/id6761696678?uo=4",
+    "jaName": "野球打率ノート - 試合記録・打撃成績管理"
+  },
+  "starting-xi": {
+    "name": "Soccer Lineup & Tactics",
+    "description": "Create soccer lineups and tactics boards, then share them as images.",
+    "url": "https://play.google.com/store/apps/details/Soccer_Lineup_Tactics?id=com.sokuma.soccerlineupboard&hl=en",
+    "icon": "https://play-lh.googleusercontent.com/ZcDLkyGYC9J2YQcHgpPkl5VoahNpRlFXvmFgRZyw_ZwvxOAXHrnKPUAFLlnAKKN68qp_cxddlCj0qeYsyq8KiQ",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/V6J7KfpByQzSFJnZ_LrxzxRK6AaOFuTV2GgU1kD3MfoEX5DmxZRKYf9_YCIuc2M6OMbMZq6S9a6huqBi86YOag",
+      "https://play-lh.googleusercontent.com/a3o-pIaOGb_vsrmx2D6Yt9k7SW9-0wCXUE3E_oh8BSjd-OICvVXwZAWwnwf0JCZwlojo94QsAJxE-JIbgqE"
+    ],
+    "verified": "2026-10-07",
+    "iosName": "Soccer Lineup: Starting XI",
+    "iosUrl": "https://apps.apple.com/us/app/soccer-lineup-starting-xi/id6768674146?uo=4",
+    "jaName": "サッカーフォーメーションボード"
+  },
+  "dartlog": {
+    "name": "DartLog - Practice & Scoring",
+    "description": "Darts scorer & training tracker: X01, checkout, doubles, cricket, grouping stats",
+    "url": "https://play.google.com/store/apps/details/DartLog_Practice_Scoring?id=com.sokuma.dartlog&hl=en",
+    "icon": "https://play-lh.googleusercontent.com/Y5Tcw3In21lCLM39xJMz4hL8uNim4kncYaNlhIOw3AI_-S5rOsOP4DTSqeEdI10-NlKX8V4K213EqeLbdA3yqg",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/qBNKtSZ7LeKm_IY7QJfPalvjevBOAUz1MDRiU2XFMi8bGY0GBrsK54B3Xe9aPLwIKiLo-6sgOXZMg0TvPKmmZjk",
+      "https://play-lh.googleusercontent.com/dNXlXed1-UJM_0sE2xO3Z-6xYpWpzVL8hP7FnaaRj4cOxqEUNA2LfXvWJ8XsfFAik7cdlHhVXRVdg_mwvNHK"
+    ],
+    "verified": "2026-10-07",
+    "jaName": "ダーツログ - 練習・スコア分析"
+  }
+}

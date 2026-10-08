@@ -1,0 +1,912 @@
+{
+  "dartlog": {
+    "en-GB": {
+      "name": "DartLog - Practice & Scoring",
+      "description": "Darts scorer & training tracker: X01, checkout, doubles, cricket, grouping stats",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/qBNKtSZ7LeKm_IY7QJfPalvjevBOAUz1MDRiU2XFMi8bGY0GBrsK54B3Xe9aPLwIKiLo-6sgOXZMg0TvPKmmZjk",
+        "https://play-lh.googleusercontent.com/dNXlXed1-UJM_0sE2xO3Z-6xYpWpzVL8hP7FnaaRj4cOxqEUNA2LfXvWJ8XsfFAik7cdlHhVXRVdg_mwvNHK"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.dartlog&hl=en_GB",
+      "verified": "2026-10-07"
+    },
+    "zh-CN": {
+      "name": "DartLog - 练习与成绩分析",
+      "description": "飞镖计分与练习记录：X01、Cricket、COUNT-UP，按目标分析落点与命中率",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/qBNKtSZ7LeKm_IY7QJfPalvjevBOAUz1MDRiU2XFMi8bGY0GBrsK54B3Xe9aPLwIKiLo-6sgOXZMg0TvPKmmZjk",
+        "https://play-lh.googleusercontent.com/dNXlXed1-UJM_0sE2xO3Z-6xYpWpzVL8hP7FnaaRj4cOxqEUNA2LfXvWJ8XsfFAik7cdlHhVXRVdg_mwvNHK"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.dartlog&hl=zh_CN",
+      "verified": "2026-10-07"
+    },
+    "ko": {
+      "name": "DartLog - 연습·스코어 분석",
+      "description": "하드다트 점수계산과 다트연습 기록. X01·크리켓·카운트업, 조준별 적중 분석",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/qBNKtSZ7LeKm_IY7QJfPalvjevBOAUz1MDRiU2XFMi8bGY0GBrsK54B3Xe9aPLwIKiLo-6sgOXZMg0TvPKmmZjk",
+        "https://play-lh.googleusercontent.com/dNXlXed1-UJM_0sE2xO3Z-6xYpWpzVL8hP7FnaaRj4cOxqEUNA2LfXvWJ8XsfFAik7cdlHhVXRVdg_mwvNHK"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.dartlog&hl=ko",
+      "verified": "2026-10-07"
+    },
+    "es": {
+      "name": "DartLog - Entreno y puntuación",
+      "description": "Marcador de dardos y entrenamiento: 501, checkout, dobles, cricket, estadísticas",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/Y7o-GLYtyYaUxSu0leRviaVKt3CXUaL42Qmj95-5fw9RNd0L2ZylZxmUy5Sc_3bTw-hjXS9pg9-oc4B2LM1FdC0",
+        "https://play-lh.googleusercontent.com/rCaMsG2EDRbEp2OMSfIJzFtkSH-sUwRebkzUu2KtgUfDaKUo439Vhtt72SyFDrVqArLQzk8hsUNXMk1f_Hgi"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.dartlog&hl=es",
+      "verified": "2026-10-07"
+    },
+    "en": {
+      "name": "DartLog - Practice & Scoring",
+      "description": "Darts scorer & training tracker: X01, checkout, doubles, cricket, grouping stats",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/qBNKtSZ7LeKm_IY7QJfPalvjevBOAUz1MDRiU2XFMi8bGY0GBrsK54B3Xe9aPLwIKiLo-6sgOXZMg0TvPKmmZjk",
+        "https://play-lh.googleusercontent.com/dNXlXed1-UJM_0sE2xO3Z-6xYpWpzVL8hP7FnaaRj4cOxqEUNA2LfXvWJ8XsfFAik7cdlHhVXRVdg_mwvNHK"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.dartlog&hl=en",
+      "verified": "2026-10-07"
+    },
+    "ar": {
+      "name": "DartLog - Practice & Scoring",
+      "description": "مسجل نقاط لعبة رمي السهام ومتتبع التدريب: X01، إنهاء المباراة، الزوجي، الكريكيت، إحصائيات التجميع",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/qBNKtSZ7LeKm_IY7QJfPalvjevBOAUz1MDRiU2XFMi8bGY0GBrsK54B3Xe9aPLwIKiLo-6sgOXZMg0TvPKmmZjk",
+        "https://play-lh.googleusercontent.com/dNXlXed1-UJM_0sE2xO3Z-6xYpWpzVL8hP7FnaaRj4cOxqEUNA2LfXvWJ8XsfFAik7cdlHhVXRVdg_mwvNHK"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.dartlog&hl=ar",
+      "verified": "2026-10-07"
+    },
+    "ja": {
+      "name": "ダーツログ - 練習・スコア分析",
+      "description": "ハードダーツの練習記録と点数計算。01・クリケット・カウントアップ、狙い別の着弾分析",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/2uGcVZDC_77hk71fiF--K0Nad412N2OI6DXpK7BcqGrPcCQfUJRP5SAeablDkNWSlJa8HJBHWSg97ckIPIqeBw",
+        "https://play-lh.googleusercontent.com/C29EcvBrM9J4kmx3YyE7Xfngqt_9-rVMtUwNjeVCCHnMMnhgBcuO0b4Ebgy5ggoNFJuu_vIg5Cn8FKMJHZ3R"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.dartlog&hl=ja",
+      "verified": "2026-10-07"
+    },
+    "zh-TW": {
+      "name": "DartLog - 練習與成績分析",
+      "description": "飛鏢計分與練習紀錄：X01、Cricket、Count-up，依目標分析落點與命中率",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/qBNKtSZ7LeKm_IY7QJfPalvjevBOAUz1MDRiU2XFMi8bGY0GBrsK54B3Xe9aPLwIKiLo-6sgOXZMg0TvPKmmZjk",
+        "https://play-lh.googleusercontent.com/dNXlXed1-UJM_0sE2xO3Z-6xYpWpzVL8hP7FnaaRj4cOxqEUNA2LfXvWJ8XsfFAik7cdlHhVXRVdg_mwvNHK"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.dartlog&hl=zh_TW",
+      "verified": "2026-10-07"
+    },
+    "de": {
+      "name": "DartLog - Training & Scores",
+      "description": "Dart Zähler & Training: X01, Checkout, Doppel, Cricket, Average & Trefferbild",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/nlu7bKg-gu-SH1M0rT8DeewoIq53I19PR-zpxedBy_PU8TxqKq6aglHkB8aBBzj6uPFfnnY8_MDUzAFl4a18Sgc",
+        "https://play-lh.googleusercontent.com/aR5FmYQ7yHNaN1UvDxlCVW6sOlMJC1D04jIYzdjvCUfMa9bTr9WwuLAkLlx9ybfo_HuJEm7FH9B4Dr3YfA2ijVY"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.dartlog&hl=de",
+      "verified": "2026-10-07"
+    },
+    "bn": {
+      "name": "DartLog - Practice & Scoring",
+      "description": "ডার্টস স্কোরার ও প্রশিক্ষণ ট্র্যাকার: X01, চেকআউট, ডাবলস, ক্রিকেট, গ্রুপিং পরিসংখ্যান",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/qBNKtSZ7LeKm_IY7QJfPalvjevBOAUz1MDRiU2XFMi8bGY0GBrsK54B3Xe9aPLwIKiLo-6sgOXZMg0TvPKmmZjk",
+        "https://play-lh.googleusercontent.com/dNXlXed1-UJM_0sE2xO3Z-6xYpWpzVL8hP7FnaaRj4cOxqEUNA2LfXvWJ8XsfFAik7cdlHhVXRVdg_mwvNHK"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.dartlog&hl=bn",
+      "verified": "2026-10-07"
+    },
+    "id": {
+      "name": "DartLog - Practice & Scoring",
+      "description": "Pencatat skor dan pelacak latihan dart: X01, checkout, ganda, kriket, statistik pengelompokan",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/qBNKtSZ7LeKm_IY7QJfPalvjevBOAUz1MDRiU2XFMi8bGY0GBrsK54B3Xe9aPLwIKiLo-6sgOXZMg0TvPKmmZjk",
+        "https://play-lh.googleusercontent.com/dNXlXed1-UJM_0sE2xO3Z-6xYpWpzVL8hP7FnaaRj4cOxqEUNA2LfXvWJ8XsfFAik7cdlHhVXRVdg_mwvNHK"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.dartlog&hl=id",
+      "verified": "2026-10-07"
+    },
+    "fr": {
+      "name": "DartLog - Entraînement & score",
+      "description": "Compteur fléchettes & entraînement : 501, checkout, doubles, cricket, stats",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/h6b2gnStu9kyMkAD1nmUpkzZkZBO1oXSAdDsykTSsa4wDgkzu3QeIaJ5SBXGtnIXlSUgRutJZW1faVNvd2Om",
+        "https://play-lh.googleusercontent.com/Z_yC97Pj2SvaQan7Hs9t9k3h85pCXRhHMRBa9l1Q_usr0IzsxxhaCKv0fnaGlIHFSTsUiRtKymPVYIq8-avm"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.dartlog&hl=fr",
+      "verified": "2026-10-07"
+    },
+    "it": {
+      "name": "DartLog - Allenamento e score",
+      "description": "Segnapunti freccette e allenamento: 501, checkout, doppi, cricket e statistiche",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/1B5p4Nw5sXH2p6YTCzsYiJF3Ue3VY3a3rlhSxwyVRwmW-30e1NwB88TOt8IkKNEB-bY-dnHyZN0y5DMQEcC9",
+        "https://play-lh.googleusercontent.com/vPsDxAxedUC5yl-LxbQzVsHLLDax1_ZYYxvCMhJ_om_r7ms7eVo19DSq3iqRt5DPl795Zcqwq1Uwyp4cGpz5Ng"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.dartlog&hl=it",
+      "verified": "2026-10-07"
+    },
+    "pt": {
+      "name": "DartLog - Treino e pontuação",
+      "description": "Marcador de dardos e treino: 501, checkout, duplos, cricket e estatísticas",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/HtPWK8vCTrKkt76Q0fT1iUc9n98ElsyJ2UhnIXuUMQ3Xe62xSqHzPXEnUu59NPEBsHFNIxEaAQ-J_kZzdIhj",
+        "https://play-lh.googleusercontent.com/LLogOt5hL7H1qPezBph7fg-3m-TY51Rot6kqQQk5rBo85MK8GHGUCP0Pcvgp5vPXc0UfXfYFJY5w35tDMO-Aqw"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.dartlog&hl=pt",
+      "verified": "2026-10-07"
+    },
+    "nl": {
+      "name": "DartLog - Training en scores",
+      "description": "Darts teller & training: 501, uitgooien, dubbels, cricket en statistieken",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/22sZjDl1b7XC9nM4G-g0EkluulxfHidugeyE2HweG5FOLFlxWUycW0EV6F3Fxm7oC3CDhnCx4eEilPRwBiRX5tU",
+        "https://play-lh.googleusercontent.com/sLnwA-lss0Aej-UlrM4pPo8cAV_8Xwt4BAIet1W1BbVPZk6ZGwMxpOUOUsvEwDWEkMRZtwhJ7LtnfHF9cuAumg"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.dartlog&hl=nl",
+      "verified": "2026-10-07"
+    },
+    "tr": {
+      "name": "DartLog - Practice & Scoring",
+      "description": "Dart skorlama ve antrenman takip uygulaması: X01, bitiriş, çiftler, kriket, gruplama istatistikleri",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/qBNKtSZ7LeKm_IY7QJfPalvjevBOAUz1MDRiU2XFMi8bGY0GBrsK54B3Xe9aPLwIKiLo-6sgOXZMg0TvPKmmZjk",
+        "https://play-lh.googleusercontent.com/dNXlXed1-UJM_0sE2xO3Z-6xYpWpzVL8hP7FnaaRj4cOxqEUNA2LfXvWJ8XsfFAik7cdlHhVXRVdg_mwvNHK"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.dartlog&hl=tr",
+      "verified": "2026-10-07"
+    },
+    "pt-BR": {
+      "name": "DartLog - Treino e pontuação",
+      "description": "Marcador de dardos e treino: 501, checkout, duplos, cricket e estatísticas",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/HtPWK8vCTrKkt76Q0fT1iUc9n98ElsyJ2UhnIXuUMQ3Xe62xSqHzPXEnUu59NPEBsHFNIxEaAQ-J_kZzdIhj",
+        "https://play-lh.googleusercontent.com/LLogOt5hL7H1qPezBph7fg-3m-TY51Rot6kqQQk5rBo85MK8GHGUCP0Pcvgp5vPXc0UfXfYFJY5w35tDMO-Aqw"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.dartlog&hl=pt_BR",
+      "verified": "2026-10-07"
+    },
+    "pl": {
+      "name": "DartLog - Trening i wyniki",
+      "description": "Licznik do darta i trening: 501, checkout, podwójne, cricket, statystyki",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/dTWXD38wjgYruU6SJ2c65OVFklZKolOXWlGcKKxIPiaG66Pcenb2quTuBOzmUskiO6joKYj-TP0BUgW9PfWZ",
+        "https://play-lh.googleusercontent.com/3HevSLfA35Xk6JC30Szw1SllfqYkkp2C4lyhzZH8tHxttTB_C5s870qL4EiCJ0UtJ4aTaZTHU3TdI0DvqAyh328"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.dartlog&hl=pl",
+      "verified": "2026-10-07"
+    }
+  },
+  "batting-log": {
+    "en": {
+      "name": "Baseball Batting Log & Stats",
+      "description": "Log at-bats and practice; auto-track AVG, OPS, OBP, SLG, spray charts & trends.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/sFL4wW4xuLxjKUV5GQ4Tk2kSRg6t4TufJBp-c28rWOo_LOoBkdjzmw60Ld1tk9Wmga4jpVg07SFrNtDUHydUVw0",
+        "https://play-lh.googleusercontent.com/Fkusn6dism5PLoHCz8qpfLxuLQ-0dQ01fnOguj4n9c96VidUg5FoolbqKDEU1b6wn3F4g5WdBZ0Nv5dDGpjf"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.battinglogapp&hl=en",
+      "verified": "2026-10-07"
+    },
+    "en-GB": {
+      "name": "Baseball Batting Log & Stats",
+      "description": "Log at-bats and practice; auto-track AVG, OPS, OBP, SLG, spray charts & trends.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/sFL4wW4xuLxjKUV5GQ4Tk2kSRg6t4TufJBp-c28rWOo_LOoBkdjzmw60Ld1tk9Wmga4jpVg07SFrNtDUHydUVw0",
+        "https://play-lh.googleusercontent.com/Fkusn6dism5PLoHCz8qpfLxuLQ-0dQ01fnOguj4n9c96VidUg5FoolbqKDEU1b6wn3F4g5WdBZ0Nv5dDGpjf"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.battinglogapp&hl=en_GB",
+      "verified": "2026-10-07"
+    },
+    "es": {
+      "name": "Béisbol: registro y stats",
+      "description": "Registra turnos y práctica; calcula promedio, OPS, OBP, filtros y tendencias.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/sFL4wW4xuLxjKUV5GQ4Tk2kSRg6t4TufJBp-c28rWOo_LOoBkdjzmw60Ld1tk9Wmga4jpVg07SFrNtDUHydUVw0",
+        "https://play-lh.googleusercontent.com/Fkusn6dism5PLoHCz8qpfLxuLQ-0dQ01fnOguj4n9c96VidUg5FoolbqKDEU1b6wn3F4g5WdBZ0Nv5dDGpjf"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.battinglogapp&hl=es",
+      "verified": "2026-10-07"
+    },
+    "ko": {
+      "name": "야구 타율 노트 - 경기 기록·성적 관리",
+      "description": "타석과 연습을 기록하고 타율, OPS, 출루율, 장타율, 타구 방향, 스프레이차트, 상대/타순/포지션/대회별 성적과 흐름을 자동 집계하고 관리.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/sFL4wW4xuLxjKUV5GQ4Tk2kSRg6t4TufJBp-c28rWOo_LOoBkdjzmw60Ld1tk9Wmga4jpVg07SFrNtDUHydUVw0",
+        "https://play-lh.googleusercontent.com/Fkusn6dism5PLoHCz8qpfLxuLQ-0dQ01fnOguj4n9c96VidUg5FoolbqKDEU1b6wn3F4g5WdBZ0Nv5dDGpjf"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.battinglogapp&hl=ko",
+      "verified": "2026-10-07"
+    },
+    "ja": {
+      "name": "野球打率ノート - 試合記録・打撃成績管理",
+      "description": "打席と練習を記録。打率・OPS・出塁率・長打率・打球方向・スプレーチャート・相手/打順/守備位置別の打撃成績と傾向を少年野球から草野球まで対応し詳細に自動集計",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/QZpjThUZf9W2delQFLbkOxTMf9ThRRyojCMejbMWfUspAexJZPPRTCtwhvyQ9OJ5uA-C1MI1mCYAumS2vi01dg8",
+        "https://play-lh.googleusercontent.com/JGNBNeRtWvqBQ0l_gcGgyw29wMKwqUpFm06DNVc1lYyd1wiYcKDC9oL8u-WuR6xzK1h0aEpPKUGFhVzjDYVq"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.battinglogapp&hl=ja",
+      "verified": "2026-10-07"
+    },
+    "zh-CN": {
+      "name": "Baseball Batting Log & Stats",
+      "description": "记录击球和练习情况；自动跟踪平均击球率、OPS、上垒率、长打率、击球分布图和趋势。",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/sFL4wW4xuLxjKUV5GQ4Tk2kSRg6t4TufJBp-c28rWOo_LOoBkdjzmw60Ld1tk9Wmga4jpVg07SFrNtDUHydUVw0",
+        "https://play-lh.googleusercontent.com/Fkusn6dism5PLoHCz8qpfLxuLQ-0dQ01fnOguj4n9c96VidUg5FoolbqKDEU1b6wn3F4g5WdBZ0Nv5dDGpjf"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.battinglogapp&hl=zh_CN",
+      "verified": "2026-10-07"
+    },
+    "ar": {
+      "name": "Baseball Batting Log & Stats",
+      "description": "سجل عدد مرات الضرب والتدريب؛ تتبع تلقائي لمتوسط ​​الضرب، ومعدل الضرب، ونسبة الوصول إلى القاعدة، ونسبة الضربات القوية، ومخططات الانتشار والاتجاهات.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/sFL4wW4xuLxjKUV5GQ4Tk2kSRg6t4TufJBp-c28rWOo_LOoBkdjzmw60Ld1tk9Wmga4jpVg07SFrNtDUHydUVw0",
+        "https://play-lh.googleusercontent.com/Fkusn6dism5PLoHCz8qpfLxuLQ-0dQ01fnOguj4n9c96VidUg5FoolbqKDEU1b6wn3F4g5WdBZ0Nv5dDGpjf"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.battinglogapp&hl=ar",
+      "verified": "2026-10-07"
+    },
+    "zh-TW": {
+      "name": "棒球打率筆記－比賽紀錄與成績管理",
+      "description": "記錄打席與練習，自動統計打率、OPS、上壘率、長打率、打球方向、擊球分布圖、對手/打順/守備位置/賽事/球場別成績，適合少棒到業餘球隊、教練、家長與球員。",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/sFL4wW4xuLxjKUV5GQ4Tk2kSRg6t4TufJBp-c28rWOo_LOoBkdjzmw60Ld1tk9Wmga4jpVg07SFrNtDUHydUVw0",
+        "https://play-lh.googleusercontent.com/Fkusn6dism5PLoHCz8qpfLxuLQ-0dQ01fnOguj4n9c96VidUg5FoolbqKDEU1b6wn3F4g5WdBZ0Nv5dDGpjf"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.battinglogapp&hl=zh_TW",
+      "verified": "2026-10-07"
+    },
+    "de": {
+      "name": "Baseball Batting Log & Stats",
+      "description": "Protokolliert Schlagversuche und Trainingseinheiten; automatische Verfolgung von AVG, OPS, OBP, SLG, Streudiagrammen und Trends.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/sFL4wW4xuLxjKUV5GQ4Tk2kSRg6t4TufJBp-c28rWOo_LOoBkdjzmw60Ld1tk9Wmga4jpVg07SFrNtDUHydUVw0",
+        "https://play-lh.googleusercontent.com/Fkusn6dism5PLoHCz8qpfLxuLQ-0dQ01fnOguj4n9c96VidUg5FoolbqKDEU1b6wn3F4g5WdBZ0Nv5dDGpjf"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.battinglogapp&hl=de",
+      "verified": "2026-10-07"
+    },
+    "fr": {
+      "name": "Baseball Batting Log & Stats",
+      "description": "Enregistrement des passages au bâton et des entraînements ; suivi automatique de la moyenne au bâton, de l'OPS, de l'OBP, du SLG, des graphiques de dispersion et des tendances.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/sFL4wW4xuLxjKUV5GQ4Tk2kSRg6t4TufJBp-c28rWOo_LOoBkdjzmw60Ld1tk9Wmga4jpVg07SFrNtDUHydUVw0",
+        "https://play-lh.googleusercontent.com/Fkusn6dism5PLoHCz8qpfLxuLQ-0dQ01fnOguj4n9c96VidUg5FoolbqKDEU1b6wn3F4g5WdBZ0Nv5dDGpjf"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.battinglogapp&hl=fr",
+      "verified": "2026-10-07"
+    },
+    "it": {
+      "name": "Baseball Batting Log & Stats",
+      "description": "Registra turni in battuta e allenamenti; traccia automaticamente AVG, OPS, OBP, SLG, grafici di dispersione e tendenze.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/sFL4wW4xuLxjKUV5GQ4Tk2kSRg6t4TufJBp-c28rWOo_LOoBkdjzmw60Ld1tk9Wmga4jpVg07SFrNtDUHydUVw0",
+        "https://play-lh.googleusercontent.com/Fkusn6dism5PLoHCz8qpfLxuLQ-0dQ01fnOguj4n9c96VidUg5FoolbqKDEU1b6wn3F4g5WdBZ0Nv5dDGpjf"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.battinglogapp&hl=it",
+      "verified": "2026-10-07"
+    },
+    "id": {
+      "name": "Baseball Batting Log & Stats",
+      "description": "Catat setiap pukulan dan latihan; lacak secara otomatis AVG, OPS, OBP, SLG, grafik sebaran & tren.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/sFL4wW4xuLxjKUV5GQ4Tk2kSRg6t4TufJBp-c28rWOo_LOoBkdjzmw60Ld1tk9Wmga4jpVg07SFrNtDUHydUVw0",
+        "https://play-lh.googleusercontent.com/Fkusn6dism5PLoHCz8qpfLxuLQ-0dQ01fnOguj4n9c96VidUg5FoolbqKDEU1b6wn3F4g5WdBZ0Nv5dDGpjf"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.battinglogapp&hl=id",
+      "verified": "2026-10-07"
+    },
+    "bn": {
+      "name": "Baseball Batting Log & Stats",
+      "description": "ব্যাটিং ও অনুশীলনের হিসাব রাখুন; স্বয়ংক্রিয়ভাবে গড়, ওপিএস, ওবিপি, এসএলজি ট্র্যাক করুন এবং চার্ট ও ট্রেন্ড প্রদর্শন করুন।",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/sFL4wW4xuLxjKUV5GQ4Tk2kSRg6t4TufJBp-c28rWOo_LOoBkdjzmw60Ld1tk9Wmga4jpVg07SFrNtDUHydUVw0",
+        "https://play-lh.googleusercontent.com/Fkusn6dism5PLoHCz8qpfLxuLQ-0dQ01fnOguj4n9c96VidUg5FoolbqKDEU1b6wn3F4g5WdBZ0Nv5dDGpjf"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.battinglogapp&hl=bn",
+      "verified": "2026-10-07"
+    },
+    "tr": {
+      "name": "Baseball Batting Log & Stats",
+      "description": "Vuruşları ve antrenmanları kaydedin; ortalama, OPS, OBP, SLG, vuruş dağılım grafikleri ve trendlerini otomatik olarak takip edin.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/sFL4wW4xuLxjKUV5GQ4Tk2kSRg6t4TufJBp-c28rWOo_LOoBkdjzmw60Ld1tk9Wmga4jpVg07SFrNtDUHydUVw0",
+        "https://play-lh.googleusercontent.com/Fkusn6dism5PLoHCz8qpfLxuLQ-0dQ01fnOguj4n9c96VidUg5FoolbqKDEU1b6wn3F4g5WdBZ0Nv5dDGpjf"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.battinglogapp&hl=tr",
+      "verified": "2026-10-07"
+    },
+    "pt": {
+      "name": "Baseball Batting Log & Stats",
+      "description": "Registre as rebatidas e os treinos; acompanhe automaticamente AVG, OPS, OBP, SLG, gráficos de dispersão e tendências.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/sFL4wW4xuLxjKUV5GQ4Tk2kSRg6t4TufJBp-c28rWOo_LOoBkdjzmw60Ld1tk9Wmga4jpVg07SFrNtDUHydUVw0",
+        "https://play-lh.googleusercontent.com/Fkusn6dism5PLoHCz8qpfLxuLQ-0dQ01fnOguj4n9c96VidUg5FoolbqKDEU1b6wn3F4g5WdBZ0Nv5dDGpjf"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.battinglogapp&hl=pt",
+      "verified": "2026-10-07"
+    },
+    "pt-BR": {
+      "name": "Baseball Batting Log & Stats",
+      "description": "Registre as rebatidas e os treinos; acompanhe automaticamente AVG, OPS, OBP, SLG, gráficos de dispersão e tendências.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/sFL4wW4xuLxjKUV5GQ4Tk2kSRg6t4TufJBp-c28rWOo_LOoBkdjzmw60Ld1tk9Wmga4jpVg07SFrNtDUHydUVw0",
+        "https://play-lh.googleusercontent.com/Fkusn6dism5PLoHCz8qpfLxuLQ-0dQ01fnOguj4n9c96VidUg5FoolbqKDEU1b6wn3F4g5WdBZ0Nv5dDGpjf"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.battinglogapp&hl=pt_BR",
+      "verified": "2026-10-07"
+    },
+    "pl": {
+      "name": "Baseball Batting Log & Stats",
+      "description": "Rejestruj podejścia do pałki i ćwiczenia; automatycznie śledź AVG, OPS, OBP, SLG, wykresy i trendy dotyczące rozpylania.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/sFL4wW4xuLxjKUV5GQ4Tk2kSRg6t4TufJBp-c28rWOo_LOoBkdjzmw60Ld1tk9Wmga4jpVg07SFrNtDUHydUVw0",
+        "https://play-lh.googleusercontent.com/Fkusn6dism5PLoHCz8qpfLxuLQ-0dQ01fnOguj4n9c96VidUg5FoolbqKDEU1b6wn3F4g5WdBZ0Nv5dDGpjf"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.battinglogapp&hl=pl",
+      "verified": "2026-10-07"
+    },
+    "nl": {
+      "name": "Baseball Batting Log & Stats",
+      "description": "Registreer slagbeurten en trainingen; automatische tracking van AVG, OPS, OBP, SLG, slagpatronen en trends.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/sFL4wW4xuLxjKUV5GQ4Tk2kSRg6t4TufJBp-c28rWOo_LOoBkdjzmw60Ld1tk9Wmga4jpVg07SFrNtDUHydUVw0",
+        "https://play-lh.googleusercontent.com/Fkusn6dism5PLoHCz8qpfLxuLQ-0dQ01fnOguj4n9c96VidUg5FoolbqKDEU1b6wn3F4g5WdBZ0Nv5dDGpjf"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.battinglogapp&hl=nl",
+      "verified": "2026-10-07"
+    }
+  },
+  "baseball-order": {
+    "ja": {
+      "name": "野球オーダー表",
+      "description": "草野球・少年野球のスタメン作成、守備位置確認、メンバー管理、画像共有、試合予定、助っ人・ベンチ管理まで、監督・コーチの試合前準備をスマホでサポートします",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/HDrEAJW6i3TFiqlcKQZDYBhOBs_4NFTzt-BwqNrG2RR_lPNmGoXtHiH9Ig-kht4G-lIfwXv_Nnsq5kQmnaPklw",
+        "https://play-lh.googleusercontent.com/SyZ87WvVbnpWgVpFkleDdGr0cCOywwplJ4wjPSkviq5zjWFVPUFsJg3_54__LMkMkoFJi4Ny_7rUxhcps4cn1A"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.baseballordermaker&hl=ja",
+      "verified": "2026-10-07"
+    },
+    "en": {
+      "name": "Baseball Lineup Maker",
+      "description": "Create lineups, manage rosters, check positions, and share clean images fast.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/ena65sEIAW1MaTnISVP8Ms1iutN_50LSh-DyCuV44y6ozU6Eh4NPQqKNPFAyppLIdKfMF2WmTWUE2GOrnLgJG9s",
+        "https://play-lh.googleusercontent.com/tCWT7sxgWD68-u2pHdmPjTHfIwH1DuBt7xc1UWDw_BzDOtddcPrrBH0GhGZMCOoou3hnPm3YrXKm4noosn2wR-w"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.baseballordermaker&hl=en",
+      "verified": "2026-10-07"
+    },
+    "ko": {
+      "name": "야구 라인업 메이커",
+      "description": "야구 라인업 작성, 선수 관리, 수비 위치 확인, 이미지 공유, 경기 일정, 벤치 멤버까지 경기 전 준비를 빠르게 도와줍니다.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/ena65sEIAW1MaTnISVP8Ms1iutN_50LSh-DyCuV44y6ozU6Eh4NPQqKNPFAyppLIdKfMF2WmTWUE2GOrnLgJG9s",
+        "https://play-lh.googleusercontent.com/tCWT7sxgWD68-u2pHdmPjTHfIwH1DuBt7xc1UWDw_BzDOtddcPrrBH0GhGZMCOoou3hnPm3YrXKm4noosn2wR-w"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.baseballordermaker&hl=ko",
+      "verified": "2026-10-07"
+    },
+    "es": {
+      "name": "Lineup de Béisbol",
+      "description": "Crea lineups, gestiona jugadores, revisa posiciones y comparte imágenes rápido.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/ena65sEIAW1MaTnISVP8Ms1iutN_50LSh-DyCuV44y6ozU6Eh4NPQqKNPFAyppLIdKfMF2WmTWUE2GOrnLgJG9s",
+        "https://play-lh.googleusercontent.com/tCWT7sxgWD68-u2pHdmPjTHfIwH1DuBt7xc1UWDw_BzDOtddcPrrBH0GhGZMCOoou3hnPm3YrXKm4noosn2wR-w"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.baseballordermaker&hl=es",
+      "verified": "2026-10-07"
+    },
+    "zh-TW": {
+      "name": "棒球打序表",
+      "description": "建立棒球先發名單、管理球員、確認守備位置，快速分享打序圖片，記錄賽程、板凳球員、對手、球場與背號資訊，協助教練與球隊完成賽前準備",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/ena65sEIAW1MaTnISVP8Ms1iutN_50LSh-DyCuV44y6ozU6Eh4NPQqKNPFAyppLIdKfMF2WmTWUE2GOrnLgJG9s",
+        "https://play-lh.googleusercontent.com/tCWT7sxgWD68-u2pHdmPjTHfIwH1DuBt7xc1UWDw_BzDOtddcPrrBH0GhGZMCOoou3hnPm3YrXKm4noosn2wR-w"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.baseballordermaker&hl=zh_TW",
+      "verified": "2026-10-07"
+    },
+    "en-GB": {
+      "name": "Baseball Lineup Maker",
+      "description": "Create lineups, manage rosters, check positions, and share clean images fast.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/ena65sEIAW1MaTnISVP8Ms1iutN_50LSh-DyCuV44y6ozU6Eh4NPQqKNPFAyppLIdKfMF2WmTWUE2GOrnLgJG9s",
+        "https://play-lh.googleusercontent.com/tCWT7sxgWD68-u2pHdmPjTHfIwH1DuBt7xc1UWDw_BzDOtddcPrrBH0GhGZMCOoou3hnPm3YrXKm4noosn2wR-w"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.baseballordermaker&hl=en_GB",
+      "verified": "2026-10-07"
+    },
+    "ar": {
+      "name": "Baseball Lineup Maker",
+      "description": "أنشئ التشكيلات، وقم بإدارة قوائم اللاعبين، وتحقق من المراكز، وشارك الصور الواضحة بسرعة.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/ena65sEIAW1MaTnISVP8Ms1iutN_50LSh-DyCuV44y6ozU6Eh4NPQqKNPFAyppLIdKfMF2WmTWUE2GOrnLgJG9s",
+        "https://play-lh.googleusercontent.com/tCWT7sxgWD68-u2pHdmPjTHfIwH1DuBt7xc1UWDw_BzDOtddcPrrBH0GhGZMCOoou3hnPm3YrXKm4noosn2wR-w"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.baseballordermaker&hl=ar",
+      "verified": "2026-10-07"
+    },
+    "zh-CN": {
+      "name": "Baseball Lineup Maker",
+      "description": "快速创建阵容、管理名单、检查位置并分享清晰的图片。",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/ena65sEIAW1MaTnISVP8Ms1iutN_50LSh-DyCuV44y6ozU6Eh4NPQqKNPFAyppLIdKfMF2WmTWUE2GOrnLgJG9s",
+        "https://play-lh.googleusercontent.com/tCWT7sxgWD68-u2pHdmPjTHfIwH1DuBt7xc1UWDw_BzDOtddcPrrBH0GhGZMCOoou3hnPm3YrXKm4noosn2wR-w"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.baseballordermaker&hl=zh_CN",
+      "verified": "2026-10-07"
+    },
+    "bn": {
+      "name": "Baseball Lineup Maker",
+      "description": "দ্রুত লাইনআপ তৈরি করুন, রোস্টার পরিচালনা করুন, পজিশন যাচাই করুন এবং পরিষ্কার ছবি শেয়ার করুন।",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/ena65sEIAW1MaTnISVP8Ms1iutN_50LSh-DyCuV44y6ozU6Eh4NPQqKNPFAyppLIdKfMF2WmTWUE2GOrnLgJG9s",
+        "https://play-lh.googleusercontent.com/tCWT7sxgWD68-u2pHdmPjTHfIwH1DuBt7xc1UWDw_BzDOtddcPrrBH0GhGZMCOoou3hnPm3YrXKm4noosn2wR-w"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.baseballordermaker&hl=bn",
+      "verified": "2026-10-07"
+    },
+    "de": {
+      "name": "Baseball Lineup Maker",
+      "description": "Erstelle Aufstellungen, verwalte Kader, überprüfe Positionen und teile schnell saubere Bilder.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/ena65sEIAW1MaTnISVP8Ms1iutN_50LSh-DyCuV44y6ozU6Eh4NPQqKNPFAyppLIdKfMF2WmTWUE2GOrnLgJG9s",
+        "https://play-lh.googleusercontent.com/tCWT7sxgWD68-u2pHdmPjTHfIwH1DuBt7xc1UWDw_BzDOtddcPrrBH0GhGZMCOoou3hnPm3YrXKm4noosn2wR-w"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.baseballordermaker&hl=de",
+      "verified": "2026-10-07"
+    },
+    "fr": {
+      "name": "Baseball Lineup Maker",
+      "description": "Créez des compositions d'équipe, gérez les effectifs, vérifiez les positions et partagez rapidement des images nettes.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/ena65sEIAW1MaTnISVP8Ms1iutN_50LSh-DyCuV44y6ozU6Eh4NPQqKNPFAyppLIdKfMF2WmTWUE2GOrnLgJG9s",
+        "https://play-lh.googleusercontent.com/tCWT7sxgWD68-u2pHdmPjTHfIwH1DuBt7xc1UWDw_BzDOtddcPrrBH0GhGZMCOoou3hnPm3YrXKm4noosn2wR-w"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.baseballordermaker&hl=fr",
+      "verified": "2026-10-07"
+    },
+    "it": {
+      "name": "Baseball Lineup Maker",
+      "description": "Crea formazioni, gestisci le rose, controlla le posizioni e condividi immagini nitide in modo rapido.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/ena65sEIAW1MaTnISVP8Ms1iutN_50LSh-DyCuV44y6ozU6Eh4NPQqKNPFAyppLIdKfMF2WmTWUE2GOrnLgJG9s",
+        "https://play-lh.googleusercontent.com/tCWT7sxgWD68-u2pHdmPjTHfIwH1DuBt7xc1UWDw_BzDOtddcPrrBH0GhGZMCOoou3hnPm3YrXKm4noosn2wR-w"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.baseballordermaker&hl=it",
+      "verified": "2026-10-07"
+    },
+    "pt-BR": {
+      "name": "Baseball Lineup Maker",
+      "description": "Crie escalações, gerencie elencos, verifique posições e compartilhe imagens nítidas rapidamente.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/ena65sEIAW1MaTnISVP8Ms1iutN_50LSh-DyCuV44y6ozU6Eh4NPQqKNPFAyppLIdKfMF2WmTWUE2GOrnLgJG9s",
+        "https://play-lh.googleusercontent.com/tCWT7sxgWD68-u2pHdmPjTHfIwH1DuBt7xc1UWDw_BzDOtddcPrrBH0GhGZMCOoou3hnPm3YrXKm4noosn2wR-w"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.baseballordermaker&hl=pt_BR",
+      "verified": "2026-10-07"
+    },
+    "pt": {
+      "name": "Baseball Lineup Maker",
+      "description": "Crie escalações, gerencie elencos, verifique posições e compartilhe imagens nítidas rapidamente.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/ena65sEIAW1MaTnISVP8Ms1iutN_50LSh-DyCuV44y6ozU6Eh4NPQqKNPFAyppLIdKfMF2WmTWUE2GOrnLgJG9s",
+        "https://play-lh.googleusercontent.com/tCWT7sxgWD68-u2pHdmPjTHfIwH1DuBt7xc1UWDw_BzDOtddcPrrBH0GhGZMCOoou3hnPm3YrXKm4noosn2wR-w"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.baseballordermaker&hl=pt",
+      "verified": "2026-10-07"
+    },
+    "nl": {
+      "name": "Baseball Lineup Maker",
+      "description": "Maak opstellingen, beheer selecties, controleer posities en deel snel schone afbeeldingen.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/ena65sEIAW1MaTnISVP8Ms1iutN_50LSh-DyCuV44y6ozU6Eh4NPQqKNPFAyppLIdKfMF2WmTWUE2GOrnLgJG9s",
+        "https://play-lh.googleusercontent.com/tCWT7sxgWD68-u2pHdmPjTHfIwH1DuBt7xc1UWDw_BzDOtddcPrrBH0GhGZMCOoou3hnPm3YrXKm4noosn2wR-w"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.baseballordermaker&hl=nl",
+      "verified": "2026-10-07"
+    },
+    "tr": {
+      "name": "Baseball Lineup Maker",
+      "description": "Kadroları oluşturun, oyuncu listelerini yönetin, pozisyonları kontrol edin ve net görselleri hızlıca paylaşın.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/ena65sEIAW1MaTnISVP8Ms1iutN_50LSh-DyCuV44y6ozU6Eh4NPQqKNPFAyppLIdKfMF2WmTWUE2GOrnLgJG9s",
+        "https://play-lh.googleusercontent.com/tCWT7sxgWD68-u2pHdmPjTHfIwH1DuBt7xc1UWDw_BzDOtddcPrrBH0GhGZMCOoou3hnPm3YrXKm4noosn2wR-w"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.baseballordermaker&hl=tr",
+      "verified": "2026-10-07"
+    },
+    "id": {
+      "name": "Baseball Lineup Maker",
+      "description": "Buat susunan pemain, kelola daftar pemain, periksa posisi, dan bagikan gambar yang bersih dengan cepat.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/ena65sEIAW1MaTnISVP8Ms1iutN_50LSh-DyCuV44y6ozU6Eh4NPQqKNPFAyppLIdKfMF2WmTWUE2GOrnLgJG9s",
+        "https://play-lh.googleusercontent.com/tCWT7sxgWD68-u2pHdmPjTHfIwH1DuBt7xc1UWDw_BzDOtddcPrrBH0GhGZMCOoou3hnPm3YrXKm4noosn2wR-w"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.baseballordermaker&hl=id",
+      "verified": "2026-10-07"
+    },
+    "pl": {
+      "name": "Baseball Lineup Maker",
+      "description": "Twórz składy, zarządzaj listami zawodników, sprawdzaj pozycje i szybko udostępniaj czyste obrazy.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/ena65sEIAW1MaTnISVP8Ms1iutN_50LSh-DyCuV44y6ozU6Eh4NPQqKNPFAyppLIdKfMF2WmTWUE2GOrnLgJG9s",
+        "https://play-lh.googleusercontent.com/tCWT7sxgWD68-u2pHdmPjTHfIwH1DuBt7xc1UWDw_BzDOtddcPrrBH0GhGZMCOoou3hnPm3YrXKm4noosn2wR-w"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.baseballordermaker&hl=pl",
+      "verified": "2026-10-07"
+    }
+  },
+  "starting-xi": {
+    "ja": {
+      "name": "サッカーフォーメーションボード",
+      "description": "スタメン表や戦術ボードを作成し、見やすい画像でかんたん共有。",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/FTFBaJHl0KfEI7lh7SHe7mI76H1PO4-8qNJHxSf-VZRZK6OCWesKWpBcY6wHkBLeCaJ3UZUU6ac_fsOkZ1UpVA",
+        "https://play-lh.googleusercontent.com/oP6jcY1dITXHbGqt-piI_cFMOvfIBkhLyH88YhQXML0JazXWfYG-LAbxkwJOx8iJZWxT-vkagnC0W6z8HHC3"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.soccerlineupboard&hl=ja",
+      "verified": "2026-10-07"
+    },
+    "en": {
+      "name": "Soccer Lineup & Tactics",
+      "description": "Create soccer lineups and tactics boards, then share them as images.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/V6J7KfpByQzSFJnZ_LrxzxRK6AaOFuTV2GgU1kD3MfoEX5DmxZRKYf9_YCIuc2M6OMbMZq6S9a6huqBi86YOag",
+        "https://play-lh.googleusercontent.com/a3o-pIaOGb_vsrmx2D6Yt9k7SW9-0wCXUE3E_oh8BSjd-OICvVXwZAWwnwf0JCZwlojo94QsAJxE-JIbgqE"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.soccerlineupboard&hl=en",
+      "verified": "2026-10-07"
+    },
+    "en-GB": {
+      "name": "Soccer Lineup & Tactics",
+      "description": "Create soccer lineups and tactics boards, then share them as images.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/V6J7KfpByQzSFJnZ_LrxzxRK6AaOFuTV2GgU1kD3MfoEX5DmxZRKYf9_YCIuc2M6OMbMZq6S9a6huqBi86YOag",
+        "https://play-lh.googleusercontent.com/a3o-pIaOGb_vsrmx2D6Yt9k7SW9-0wCXUE3E_oh8BSjd-OICvVXwZAWwnwf0JCZwlojo94QsAJxE-JIbgqE"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.soccerlineupboard&hl=en_GB",
+      "verified": "2026-10-07"
+    },
+    "es": {
+      "name": "Alineaciones y Táctica",
+      "description": "Crea alineaciones y pizarras tácticas y compártelas como imágenes.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/V6J7KfpByQzSFJnZ_LrxzxRK6AaOFuTV2GgU1kD3MfoEX5DmxZRKYf9_YCIuc2M6OMbMZq6S9a6huqBi86YOag",
+        "https://play-lh.googleusercontent.com/a3o-pIaOGb_vsrmx2D6Yt9k7SW9-0wCXUE3E_oh8BSjd-OICvVXwZAWwnwf0JCZwlojo94QsAJxE-JIbgqE"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.soccerlineupboard&hl=es",
+      "verified": "2026-10-07"
+    },
+    "ko": {
+      "name": "축구 라인업 및 전술",
+      "description": "축구 라인업과 전술 보드를 만들고 이미지로 공유하세요.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/V6J7KfpByQzSFJnZ_LrxzxRK6AaOFuTV2GgU1kD3MfoEX5DmxZRKYf9_YCIuc2M6OMbMZq6S9a6huqBi86YOag",
+        "https://play-lh.googleusercontent.com/a3o-pIaOGb_vsrmx2D6Yt9k7SW9-0wCXUE3E_oh8BSjd-OICvVXwZAWwnwf0JCZwlojo94QsAJxE-JIbgqE"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.soccerlineupboard&hl=ko",
+      "verified": "2026-10-07"
+    },
+    "zh-TW": {
+      "name": "足球陣容與戰術",
+      "description": "建立足球陣容與戰術板，並以圖片分享。",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/V6J7KfpByQzSFJnZ_LrxzxRK6AaOFuTV2GgU1kD3MfoEX5DmxZRKYf9_YCIuc2M6OMbMZq6S9a6huqBi86YOag",
+        "https://play-lh.googleusercontent.com/a3o-pIaOGb_vsrmx2D6Yt9k7SW9-0wCXUE3E_oh8BSjd-OICvVXwZAWwnwf0JCZwlojo94QsAJxE-JIbgqE"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.soccerlineupboard&hl=zh_TW",
+      "verified": "2026-10-07"
+    },
+    "zh-CN": {
+      "name": "足球阵容与战术",
+      "description": "创建足球阵容和战术板，并以图片分享。",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/V6J7KfpByQzSFJnZ_LrxzxRK6AaOFuTV2GgU1kD3MfoEX5DmxZRKYf9_YCIuc2M6OMbMZq6S9a6huqBi86YOag",
+        "https://play-lh.googleusercontent.com/a3o-pIaOGb_vsrmx2D6Yt9k7SW9-0wCXUE3E_oh8BSjd-OICvVXwZAWwnwf0JCZwlojo94QsAJxE-JIbgqE"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.soccerlineupboard&hl=zh_CN",
+      "verified": "2026-10-07"
+    },
+    "de": {
+      "name": "Fußball Aufstellung & Taktik",
+      "description": "Erstelle Aufstellungen und Taktiktafeln und teile sie als Bilder.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/V6J7KfpByQzSFJnZ_LrxzxRK6AaOFuTV2GgU1kD3MfoEX5DmxZRKYf9_YCIuc2M6OMbMZq6S9a6huqBi86YOag",
+        "https://play-lh.googleusercontent.com/a3o-pIaOGb_vsrmx2D6Yt9k7SW9-0wCXUE3E_oh8BSjd-OICvVXwZAWwnwf0JCZwlojo94QsAJxE-JIbgqE"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.soccerlineupboard&hl=de",
+      "verified": "2026-10-07"
+    },
+    "bn": {
+      "name": "ফুটবল লাইনআপ ও কৌশল",
+      "description": "ফুটবল লাইনআপ ও কৌশল বোর্ড তৈরি করে ছবি হিসেবে শেয়ার করুন।",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/V6J7KfpByQzSFJnZ_LrxzxRK6AaOFuTV2GgU1kD3MfoEX5DmxZRKYf9_YCIuc2M6OMbMZq6S9a6huqBi86YOag",
+        "https://play-lh.googleusercontent.com/a3o-pIaOGb_vsrmx2D6Yt9k7SW9-0wCXUE3E_oh8BSjd-OICvVXwZAWwnwf0JCZwlojo94QsAJxE-JIbgqE"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.soccerlineupboard&hl=bn",
+      "verified": "2026-10-07"
+    },
+    "it": {
+      "name": "Formazioni Calcio e Tattica",
+      "description": "Crea formazioni e lavagne tattiche, poi condividile come immagini.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/V6J7KfpByQzSFJnZ_LrxzxRK6AaOFuTV2GgU1kD3MfoEX5DmxZRKYf9_YCIuc2M6OMbMZq6S9a6huqBi86YOag",
+        "https://play-lh.googleusercontent.com/a3o-pIaOGb_vsrmx2D6Yt9k7SW9-0wCXUE3E_oh8BSjd-OICvVXwZAWwnwf0JCZwlojo94QsAJxE-JIbgqE"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.soccerlineupboard&hl=it",
+      "verified": "2026-10-07"
+    },
+    "pt": {
+      "name": "Escalação Futebol e Tática",
+      "description": "Crie escalações e pranchetas táticas e compartilhe como imagens.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/V6J7KfpByQzSFJnZ_LrxzxRK6AaOFuTV2GgU1kD3MfoEX5DmxZRKYf9_YCIuc2M6OMbMZq6S9a6huqBi86YOag",
+        "https://play-lh.googleusercontent.com/a3o-pIaOGb_vsrmx2D6Yt9k7SW9-0wCXUE3E_oh8BSjd-OICvVXwZAWwnwf0JCZwlojo94QsAJxE-JIbgqE"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.soccerlineupboard&hl=pt",
+      "verified": "2026-10-07"
+    },
+    "fr": {
+      "name": "Compo Football & Tactique",
+      "description": "Créez compos et tableaux tactiques, puis partagez-les en images.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/V6J7KfpByQzSFJnZ_LrxzxRK6AaOFuTV2GgU1kD3MfoEX5DmxZRKYf9_YCIuc2M6OMbMZq6S9a6huqBi86YOag",
+        "https://play-lh.googleusercontent.com/a3o-pIaOGb_vsrmx2D6Yt9k7SW9-0wCXUE3E_oh8BSjd-OICvVXwZAWwnwf0JCZwlojo94QsAJxE-JIbgqE"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.soccerlineupboard&hl=fr",
+      "verified": "2026-10-07"
+    },
+    "pt-BR": {
+      "name": "Escalação Futebol e Tática",
+      "description": "Crie escalações e pranchetas táticas e compartilhe como imagens.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/V6J7KfpByQzSFJnZ_LrxzxRK6AaOFuTV2GgU1kD3MfoEX5DmxZRKYf9_YCIuc2M6OMbMZq6S9a6huqBi86YOag",
+        "https://play-lh.googleusercontent.com/a3o-pIaOGb_vsrmx2D6Yt9k7SW9-0wCXUE3E_oh8BSjd-OICvVXwZAWwnwf0JCZwlojo94QsAJxE-JIbgqE"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.soccerlineupboard&hl=pt_BR",
+      "verified": "2026-10-07"
+    },
+    "ar": {
+      "name": "تشكيلة كرة القدم والتكتيك",
+      "description": "أنشئ تشكيلات كرة القدم واللوحات التكتيكية وشاركها كصور.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/V6J7KfpByQzSFJnZ_LrxzxRK6AaOFuTV2GgU1kD3MfoEX5DmxZRKYf9_YCIuc2M6OMbMZq6S9a6huqBi86YOag",
+        "https://play-lh.googleusercontent.com/a3o-pIaOGb_vsrmx2D6Yt9k7SW9-0wCXUE3E_oh8BSjd-OICvVXwZAWwnwf0JCZwlojo94QsAJxE-JIbgqE"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.soccerlineupboard&hl=ar",
+      "verified": "2026-10-07"
+    },
+    "tr": {
+      "name": "Futbol Kadrosu ve Taktik",
+      "description": "Futbol kadroları ve taktik tahtaları oluşturup görsel olarak paylaşın.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/V6J7KfpByQzSFJnZ_LrxzxRK6AaOFuTV2GgU1kD3MfoEX5DmxZRKYf9_YCIuc2M6OMbMZq6S9a6huqBi86YOag",
+        "https://play-lh.googleusercontent.com/a3o-pIaOGb_vsrmx2D6Yt9k7SW9-0wCXUE3E_oh8BSjd-OICvVXwZAWwnwf0JCZwlojo94QsAJxE-JIbgqE"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.soccerlineupboard&hl=tr",
+      "verified": "2026-10-07"
+    },
+    "nl": {
+      "name": "Soccer Lineup & Tactics",
+      "description": "Maak opstellingen en tactiekborden voor voetbalwedstrijden en deel ze vervolgens als afbeeldingen.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/V6J7KfpByQzSFJnZ_LrxzxRK6AaOFuTV2GgU1kD3MfoEX5DmxZRKYf9_YCIuc2M6OMbMZq6S9a6huqBi86YOag",
+        "https://play-lh.googleusercontent.com/a3o-pIaOGb_vsrmx2D6Yt9k7SW9-0wCXUE3E_oh8BSjd-OICvVXwZAWwnwf0JCZwlojo94QsAJxE-JIbgqE"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.soccerlineupboard&hl=nl",
+      "verified": "2026-10-07"
+    },
+    "id": {
+      "name": "Susunan Pemain & Taktik",
+      "description": "Buat susunan pemain dan papan taktik, lalu bagikan sebagai gambar.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/V6J7KfpByQzSFJnZ_LrxzxRK6AaOFuTV2GgU1kD3MfoEX5DmxZRKYf9_YCIuc2M6OMbMZq6S9a6huqBi86YOag",
+        "https://play-lh.googleusercontent.com/a3o-pIaOGb_vsrmx2D6Yt9k7SW9-0wCXUE3E_oh8BSjd-OICvVXwZAWwnwf0JCZwlojo94QsAJxE-JIbgqE"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.soccerlineupboard&hl=id",
+      "verified": "2026-10-07"
+    },
+    "pl": {
+      "name": "Soccer Lineup & Tactics",
+      "description": "Twórz składy piłkarskie i tablice taktyczne, a następnie udostępniaj je w formie obrazów.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/V6J7KfpByQzSFJnZ_LrxzxRK6AaOFuTV2GgU1kD3MfoEX5DmxZRKYf9_YCIuc2M6OMbMZq6S9a6huqBi86YOag",
+        "https://play-lh.googleusercontent.com/a3o-pIaOGb_vsrmx2D6Yt9k7SW9-0wCXUE3E_oh8BSjd-OICvVXwZAWwnwf0JCZwlojo94QsAJxE-JIbgqE"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.soccerlineupboard&hl=pl",
+      "verified": "2026-10-07"
+    }
+  },
+  "motiontag": {
+    "ja": {
+      "name": "モーションタグ：フォーム動画分析",
+      "description": "スポーツ練習を録画し、2動画比較・スロー再生・コマ送り・注釈・区間ループでフォームを分析。撮影マーカーと練習履歴も整理できます。",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/1bQK6h9WtuTfO0bhwSV7HQ_bKMcGWLU9kSu4VlGAqT7w4YoYkLYVp4ix2LvqiWSfyGJAkAQAIBUbGWmMxAqFs3o",
+        "https://play-lh.googleusercontent.com/xF2JIpMrX54rosqtlS9asK6wmETBLOpMddPim8wIoJFPkPww7Hkc5L-eQJIaHI_p1LKY3qzTmEvcCSXSdxLkMw"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag&hl=ja",
+      "verified": "2026-10-07"
+    },
+    "en": {
+      "name": "MotionTagger: Sports Analysis",
+      "description": "Record practice, compare two clips, and inspect every frame in slow motion.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/h6V9BdSAIW5MNZKkEujmEwBPO1ib-UIA3XKkb4bncq6Go3ZyLjLT55N7-JJr_X04XBP-c6ciYTeKHg_rkdge",
+        "https://play-lh.googleusercontent.com/bfybXYqBZoM-h9E2iKkDhWUvP03awswtHJtUQ1mRCqw7lwESJvBkrzQV9g3M6TviTtx6mENxUl1K2NPxubdg7PQ"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag&hl=en",
+      "verified": "2026-10-07"
+    },
+    "es": {
+      "name": "MotionTagger: Analiza técnica",
+      "description": "Graba tu práctica, compara dos vídeos y revisa cada gesto en cámara lenta.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/h6V9BdSAIW5MNZKkEujmEwBPO1ib-UIA3XKkb4bncq6Go3ZyLjLT55N7-JJr_X04XBP-c6ciYTeKHg_rkdge",
+        "https://play-lh.googleusercontent.com/bfybXYqBZoM-h9E2iKkDhWUvP03awswtHJtUQ1mRCqw7lwESJvBkrzQV9g3M6TviTtx6mENxUl1K2NPxubdg7PQ"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag&hl=es",
+      "verified": "2026-10-07"
+    },
+    "en-GB": {
+      "name": "MotionTagger: Sports Analysis",
+      "description": "Record practice, compare two clips, and inspect every frame in slow motion.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/h6V9BdSAIW5MNZKkEujmEwBPO1ib-UIA3XKkb4bncq6Go3ZyLjLT55N7-JJr_X04XBP-c6ciYTeKHg_rkdge",
+        "https://play-lh.googleusercontent.com/bfybXYqBZoM-h9E2iKkDhWUvP03awswtHJtUQ1mRCqw7lwESJvBkrzQV9g3M6TviTtx6mENxUl1K2NPxubdg7PQ"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag&hl=en_GB",
+      "verified": "2026-10-07"
+    },
+    "zh-TW": {
+      "name": "MotionTagger：動作影片分析",
+      "description": "錄下運動訓練，使用慢速播放、逐格檢視、區段循環、註記與雙影片同步比較，分析姿勢與動作；拍攝標記和練習紀錄也能集中整理，隨時回顧進步。",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/h6V9BdSAIW5MNZKkEujmEwBPO1ib-UIA3XKkb4bncq6Go3ZyLjLT55N7-JJr_X04XBP-c6ciYTeKHg_rkdge",
+        "https://play-lh.googleusercontent.com/bfybXYqBZoM-h9E2iKkDhWUvP03awswtHJtUQ1mRCqw7lwESJvBkrzQV9g3M6TviTtx6mENxUl1K2NPxubdg7PQ"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag&hl=zh_TW",
+      "verified": "2026-10-07"
+    },
+    "ko": {
+      "name": "모션태그: 동작 영상 분석",
+      "description": "스포츠 훈련을 촬영하고 두 영상을 비교하세요. 슬로모션, 프레임 이동, 구간 반복, 주석과 촬영 마커로 자세와 동작을 분석할 수 있습니다.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/h6V9BdSAIW5MNZKkEujmEwBPO1ib-UIA3XKkb4bncq6Go3ZyLjLT55N7-JJr_X04XBP-c6ciYTeKHg_rkdge",
+        "https://play-lh.googleusercontent.com/bfybXYqBZoM-h9E2iKkDhWUvP03awswtHJtUQ1mRCqw7lwESJvBkrzQV9g3M6TviTtx6mENxUl1K2NPxubdg7PQ"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag&hl=ko",
+      "verified": "2026-10-07"
+    },
+    "zh-CN": {
+      "name": "MotionTagger：动作视频分析",
+      "description": "录下运动训练，使用慢速播放、逐帧查看、区间循环、标注与双视频同步对比，分析姿势与动作；拍摄标记和训练记录也能集中整理，随时回顾进步。",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/h6V9BdSAIW5MNZKkEujmEwBPO1ib-UIA3XKkb4bncq6Go3ZyLjLT55N7-JJr_X04XBP-c6ciYTeKHg_rkdge",
+        "https://play-lh.googleusercontent.com/bfybXYqBZoM-h9E2iKkDhWUvP03awswtHJtUQ1mRCqw7lwESJvBkrzQV9g3M6TviTtx6mENxUl1K2NPxubdg7PQ"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag&hl=zh_CN",
+      "verified": "2026-10-07"
+    },
+    "de": {
+      "name": "MotionTagger: Bewegungsanalyse",
+      "description": "Training filmen, zwei Videos vergleichen und Bewegungen in Zeitlupe prüfen.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/h6V9BdSAIW5MNZKkEujmEwBPO1ib-UIA3XKkb4bncq6Go3ZyLjLT55N7-JJr_X04XBP-c6ciYTeKHg_rkdge",
+        "https://play-lh.googleusercontent.com/bfybXYqBZoM-h9E2iKkDhWUvP03awswtHJtUQ1mRCqw7lwESJvBkrzQV9g3M6TviTtx6mENxUl1K2NPxubdg7PQ"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag&hl=de",
+      "verified": "2026-10-07"
+    },
+    "fr": {
+      "name": "MotionTagger : Analyse vidéo",
+      "description": "Filmez l'entraînement, comparez deux vidéos et analysez chaque geste au ralenti.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/h6V9BdSAIW5MNZKkEujmEwBPO1ib-UIA3XKkb4bncq6Go3ZyLjLT55N7-JJr_X04XBP-c6ciYTeKHg_rkdge",
+        "https://play-lh.googleusercontent.com/bfybXYqBZoM-h9E2iKkDhWUvP03awswtHJtUQ1mRCqw7lwESJvBkrzQV9g3M6TviTtx6mENxUl1K2NPxubdg7PQ"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag&hl=fr",
+      "verified": "2026-10-07"
+    },
+    "it": {
+      "name": "MotionTagger: Analisi tecnica",
+      "description": "Registra l'allenamento, confronta due video e rivedi ogni gesto al rallentatore.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/h6V9BdSAIW5MNZKkEujmEwBPO1ib-UIA3XKkb4bncq6Go3ZyLjLT55N7-JJr_X04XBP-c6ciYTeKHg_rkdge",
+        "https://play-lh.googleusercontent.com/bfybXYqBZoM-h9E2iKkDhWUvP03awswtHJtUQ1mRCqw7lwESJvBkrzQV9g3M6TviTtx6mENxUl1K2NPxubdg7PQ"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag&hl=it",
+      "verified": "2026-10-07"
+    },
+    "pt": {
+      "name": "MotionTagger: Análise técnica",
+      "description": "Grave o treino, compare dois vídeos e revise cada movimento em câmera lenta.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/h6V9BdSAIW5MNZKkEujmEwBPO1ib-UIA3XKkb4bncq6Go3ZyLjLT55N7-JJr_X04XBP-c6ciYTeKHg_rkdge",
+        "https://play-lh.googleusercontent.com/bfybXYqBZoM-h9E2iKkDhWUvP03awswtHJtUQ1mRCqw7lwESJvBkrzQV9g3M6TviTtx6mENxUl1K2NPxubdg7PQ"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag&hl=pt",
+      "verified": "2026-10-07"
+    },
+    "pt-BR": {
+      "name": "MotionTagger: Análise técnica",
+      "description": "Grave o treino, compare dois vídeos e revise cada movimento em câmera lenta.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/h6V9BdSAIW5MNZKkEujmEwBPO1ib-UIA3XKkb4bncq6Go3ZyLjLT55N7-JJr_X04XBP-c6ciYTeKHg_rkdge",
+        "https://play-lh.googleusercontent.com/bfybXYqBZoM-h9E2iKkDhWUvP03awswtHJtUQ1mRCqw7lwESJvBkrzQV9g3M6TviTtx6mENxUl1K2NPxubdg7PQ"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag&hl=pt_BR",
+      "verified": "2026-10-07"
+    },
+    "ar": {
+      "name": "MotionTagger: Sports Analysis",
+      "description": "قم بتسجيل التدريب، وقارن بين مقطعين، وافحص كل إطار بالحركة البطيئة.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/h6V9BdSAIW5MNZKkEujmEwBPO1ib-UIA3XKkb4bncq6Go3ZyLjLT55N7-JJr_X04XBP-c6ciYTeKHg_rkdge",
+        "https://play-lh.googleusercontent.com/bfybXYqBZoM-h9E2iKkDhWUvP03awswtHJtUQ1mRCqw7lwESJvBkrzQV9g3M6TviTtx6mENxUl1K2NPxubdg7PQ"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag&hl=ar",
+      "verified": "2026-10-07"
+    },
+    "tr": {
+      "name": "MotionTagger: Sports Analysis",
+      "description": "Antrenman kayıtlarını alın, iki klibi karşılaştırın ve her kareyi ağır çekimde inceleyin.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/h6V9BdSAIW5MNZKkEujmEwBPO1ib-UIA3XKkb4bncq6Go3ZyLjLT55N7-JJr_X04XBP-c6ciYTeKHg_rkdge",
+        "https://play-lh.googleusercontent.com/bfybXYqBZoM-h9E2iKkDhWUvP03awswtHJtUQ1mRCqw7lwESJvBkrzQV9g3M6TviTtx6mENxUl1K2NPxubdg7PQ"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag&hl=tr",
+      "verified": "2026-10-07"
+    },
+    "nl": {
+      "name": "MotionTagger: Bewegingsanalyse",
+      "description": "Film je training, vergelijk twee video's en bekijk elke beweging in slow motion.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/h6V9BdSAIW5MNZKkEujmEwBPO1ib-UIA3XKkb4bncq6Go3ZyLjLT55N7-JJr_X04XBP-c6ciYTeKHg_rkdge",
+        "https://play-lh.googleusercontent.com/bfybXYqBZoM-h9E2iKkDhWUvP03awswtHJtUQ1mRCqw7lwESJvBkrzQV9g3M6TviTtx6mENxUl1K2NPxubdg7PQ"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag&hl=nl",
+      "verified": "2026-10-07"
+    },
+    "id": {
+      "name": "MotionTagger: Sports Analysis",
+      "description": "Rekam sesi latihan, bandingkan dua klip, dan periksa setiap frame dalam gerakan lambat.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/h6V9BdSAIW5MNZKkEujmEwBPO1ib-UIA3XKkb4bncq6Go3ZyLjLT55N7-JJr_X04XBP-c6ciYTeKHg_rkdge",
+        "https://play-lh.googleusercontent.com/bfybXYqBZoM-h9E2iKkDhWUvP03awswtHJtUQ1mRCqw7lwESJvBkrzQV9g3M6TviTtx6mENxUl1K2NPxubdg7PQ"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag&hl=id",
+      "verified": "2026-10-07"
+    },
+    "bn": {
+      "name": "MotionTagger: Sports Analysis",
+      "description": "অনুশীলন রেকর্ড করুন, দুটি ক্লিপ তুলনা করুন এবং ধীর গতিতে প্রতিটি ফ্রেম পরীক্ষা করুন।",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/h6V9BdSAIW5MNZKkEujmEwBPO1ib-UIA3XKkb4bncq6Go3ZyLjLT55N7-JJr_X04XBP-c6ciYTeKHg_rkdge",
+        "https://play-lh.googleusercontent.com/bfybXYqBZoM-h9E2iKkDhWUvP03awswtHJtUQ1mRCqw7lwESJvBkrzQV9g3M6TviTtx6mENxUl1K2NPxubdg7PQ"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag&hl=bn",
+      "verified": "2026-10-07"
+    },
+    "pl": {
+      "name": "MotionTagger: Sports Analysis",
+      "description": "Nagraj ćwiczenie, porównaj dwa klipy i obejrzyj każdą klatkę w zwolnionym tempie.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/h6V9BdSAIW5MNZKkEujmEwBPO1ib-UIA3XKkb4bncq6Go3ZyLjLT55N7-JJr_X04XBP-c6ciYTeKHg_rkdge",
+        "https://play-lh.googleusercontent.com/bfybXYqBZoM-h9E2iKkDhWUvP03awswtHJtUQ1mRCqw7lwESJvBkrzQV9g3M6TviTtx6mENxUl1K2NPxubdg7PQ"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag&hl=pl",
+      "verified": "2026-10-07"
+    }
+  }
+}

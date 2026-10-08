@@ -1,0 +1,1281 @@
+{
+  "batting-log": {
+    "en": {
+      "name": "Baseball Batting Log & Stats",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/a9/88/23a98810-0a28-6d06-3b04-71bbfe3b5c40/60.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/9c/fa/d89cfab4-ea01-0ee0-b8dc-0f166f4f9124/61.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "JA",
+        "KO",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6761696678&country=us",
+      "verified": "2026-10-07"
+    },
+    "zh-TW": {
+      "name": "棒球打率筆記－比賽紀錄與成績管理",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/a9/88/23a98810-0a28-6d06-3b04-71bbfe3b5c40/60.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/9c/fa/d89cfab4-ea01-0ee0-b8dc-0f166f4f9124/61.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "JA",
+        "KO",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6761696678&country=tw",
+      "verified": "2026-10-07"
+    },
+    "es": {
+      "name": "Béisbol: registro y stats",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/a9/88/23a98810-0a28-6d06-3b04-71bbfe3b5c40/60.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/9c/fa/d89cfab4-ea01-0ee0-b8dc-0f166f4f9124/61.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "JA",
+        "KO",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6761696678&country=es",
+      "verified": "2026-10-07"
+    },
+    "en-GB": {
+      "name": "Baseball Batting Log & Stats",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/a9/88/23a98810-0a28-6d06-3b04-71bbfe3b5c40/60.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/9c/fa/d89cfab4-ea01-0ee0-b8dc-0f166f4f9124/61.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "JA",
+        "KO",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6761696678&country=gb",
+      "verified": "2026-10-07"
+    },
+    "ja": {
+      "name": "野球打率ノート - 試合記録・打撃成績管理",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/4e/08/914e0810-eb66-1c48-7cc1-a988b178dacd/51.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/62/49/d0/6249d0e9-441a-a425-0ba0-205a8ab42b2b/52.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "JA",
+        "KO",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6761696678&country=jp",
+      "verified": "2026-10-07"
+    },
+    "zh-CN": {
+      "name": "Baseball Batting Log & Stats",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/a9/88/23a98810-0a28-6d06-3b04-71bbfe3b5c40/60.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/9c/fa/d89cfab4-ea01-0ee0-b8dc-0f166f4f9124/61.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "JA",
+        "KO",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6761696678&country=cn",
+      "verified": "2026-10-07"
+    },
+    "ar": {
+      "name": "Baseball Batting Log & Stats",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/a9/88/23a98810-0a28-6d06-3b04-71bbfe3b5c40/60.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/9c/fa/d89cfab4-ea01-0ee0-b8dc-0f166f4f9124/61.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "JA",
+        "KO",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6761696678&country=sa",
+      "verified": "2026-10-07"
+    },
+    "ko": {
+      "name": "야구 타율 노트 - 경기 기록·성적 관리",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/a9/88/23a98810-0a28-6d06-3b04-71bbfe3b5c40/60.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/9c/fa/d89cfab4-ea01-0ee0-b8dc-0f166f4f9124/61.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "JA",
+        "KO",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6761696678&country=kr",
+      "verified": "2026-10-07"
+    },
+    "bn": {
+      "name": "Baseball Batting Log & Stats",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/a9/88/23a98810-0a28-6d06-3b04-71bbfe3b5c40/60.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/9c/fa/d89cfab4-ea01-0ee0-b8dc-0f166f4f9124/61.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "JA",
+        "KO",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6761696678&country=in",
+      "verified": "2026-10-07"
+    },
+    "id": {
+      "name": "Baseball Batting Log & Stats",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/a9/88/23a98810-0a28-6d06-3b04-71bbfe3b5c40/60.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/9c/fa/d89cfab4-ea01-0ee0-b8dc-0f166f4f9124/61.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "JA",
+        "KO",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6761696678&country=id",
+      "verified": "2026-10-07"
+    },
+    "fr": {
+      "error": "list index out of range",
+      "url": "https://itunes.apple.com/lookup?id=6761696678&country=fr"
+    },
+    "tr": {
+      "name": "Baseball Batting Log & Stats",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/a9/88/23a98810-0a28-6d06-3b04-71bbfe3b5c40/60.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/9c/fa/d89cfab4-ea01-0ee0-b8dc-0f166f4f9124/61.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "JA",
+        "KO",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6761696678&country=tr",
+      "verified": "2026-10-07"
+    },
+    "de": {
+      "name": "Baseball Batting Log & Stats",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/a9/88/23a98810-0a28-6d06-3b04-71bbfe3b5c40/60.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/9c/fa/d89cfab4-ea01-0ee0-b8dc-0f166f4f9124/61.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "JA",
+        "KO",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6761696678&country=de",
+      "verified": "2026-10-07"
+    },
+    "pt-BR": {
+      "name": "Baseball Batting Log & Stats",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/a9/88/23a98810-0a28-6d06-3b04-71bbfe3b5c40/60.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/9c/fa/d89cfab4-ea01-0ee0-b8dc-0f166f4f9124/61.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "JA",
+        "KO",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6761696678&country=br",
+      "verified": "2026-10-07"
+    },
+    "it": {
+      "name": "Baseball Batting Log & Stats",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/a9/88/23a98810-0a28-6d06-3b04-71bbfe3b5c40/60.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/9c/fa/d89cfab4-ea01-0ee0-b8dc-0f166f4f9124/61.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "JA",
+        "KO",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6761696678&country=it",
+      "verified": "2026-10-07"
+    },
+    "nl": {
+      "name": "Baseball Batting Log & Stats",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/a9/88/23a98810-0a28-6d06-3b04-71bbfe3b5c40/60.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/9c/fa/d89cfab4-ea01-0ee0-b8dc-0f166f4f9124/61.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "JA",
+        "KO",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6761696678&country=nl",
+      "verified": "2026-10-07"
+    },
+    "pt": {
+      "name": "Baseball Batting Log & Stats",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/a9/88/23a98810-0a28-6d06-3b04-71bbfe3b5c40/60.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/9c/fa/d89cfab4-ea01-0ee0-b8dc-0f166f4f9124/61.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "JA",
+        "KO",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6761696678&country=pt",
+      "verified": "2026-10-07"
+    },
+    "pl": {
+      "name": "Baseball Batting Log & Stats",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/a9/88/23a98810-0a28-6d06-3b04-71bbfe3b5c40/60.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/9c/fa/d89cfab4-ea01-0ee0-b8dc-0f166f4f9124/61.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "JA",
+        "KO",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6761696678&country=pl",
+      "verified": "2026-10-07"
+    }
+  },
+  "baseball-order": {
+    "en": {
+      "name": "Baseball Lineup Maker",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7f/d3/c1/7fd3c175-2b44-114c-1770-e47a3030ca52/39.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d5/b2/8b/d5b28b42-3f08-2988-f8ae-ce79dcffa2f9/43.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "JA",
+        "KO",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6754637753&country=us",
+      "verified": "2026-10-07"
+    },
+    "en-GB": {
+      "name": "Baseball Lineup Maker",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7f/d3/c1/7fd3c175-2b44-114c-1770-e47a3030ca52/39.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d5/b2/8b/d5b28b42-3f08-2988-f8ae-ce79dcffa2f9/43.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "JA",
+        "KO",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6754637753&country=gb",
+      "verified": "2026-10-07"
+    },
+    "es": {
+      "name": "Lineup de Béisbol",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7f/d3/c1/7fd3c175-2b44-114c-1770-e47a3030ca52/39.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d5/b2/8b/d5b28b42-3f08-2988-f8ae-ce79dcffa2f9/43.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "JA",
+        "KO",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6754637753&country=es",
+      "verified": "2026-10-07"
+    },
+    "ko": {
+      "name": "야구 라인업 메이커",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7f/d3/c1/7fd3c175-2b44-114c-1770-e47a3030ca52/39.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d5/b2/8b/d5b28b42-3f08-2988-f8ae-ce79dcffa2f9/43.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "JA",
+        "KO",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6754637753&country=kr",
+      "verified": "2026-10-07"
+    },
+    "zh-TW": {
+      "name": "棒球打序表",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7f/d3/c1/7fd3c175-2b44-114c-1770-e47a3030ca52/39.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d5/b2/8b/d5b28b42-3f08-2988-f8ae-ce79dcffa2f9/43.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "JA",
+        "KO",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6754637753&country=tw",
+      "verified": "2026-10-07"
+    },
+    "ja": {
+      "name": "野球オーダー表",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/60/2b/52/602b5212-9751-a782-b186-098a0517f1f4/28.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ff/ff/c1/ffffc1cd-803c-0e4f-ffad-7b79a5ce5a6f/31.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "JA",
+        "KO",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6754637753&country=jp",
+      "verified": "2026-10-07"
+    },
+    "zh-CN": {
+      "name": "Baseball Lineup Maker",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7f/d3/c1/7fd3c175-2b44-114c-1770-e47a3030ca52/39.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d5/b2/8b/d5b28b42-3f08-2988-f8ae-ce79dcffa2f9/43.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "JA",
+        "KO",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6754637753&country=cn",
+      "verified": "2026-10-07"
+    },
+    "ar": {
+      "name": "Baseball Lineup Maker",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7f/d3/c1/7fd3c175-2b44-114c-1770-e47a3030ca52/39.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d5/b2/8b/d5b28b42-3f08-2988-f8ae-ce79dcffa2f9/43.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "JA",
+        "KO",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6754637753&country=sa",
+      "verified": "2026-10-07"
+    },
+    "bn": {
+      "name": "Baseball Lineup Maker",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7f/d3/c1/7fd3c175-2b44-114c-1770-e47a3030ca52/39.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d5/b2/8b/d5b28b42-3f08-2988-f8ae-ce79dcffa2f9/43.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "JA",
+        "KO",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6754637753&country=in",
+      "verified": "2026-10-07"
+    },
+    "id": {
+      "name": "Baseball Lineup Maker",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7f/d3/c1/7fd3c175-2b44-114c-1770-e47a3030ca52/39.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d5/b2/8b/d5b28b42-3f08-2988-f8ae-ce79dcffa2f9/43.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "JA",
+        "KO",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6754637753&country=id",
+      "verified": "2026-10-07"
+    },
+    "de": {
+      "name": "Baseball Lineup Maker",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7f/d3/c1/7fd3c175-2b44-114c-1770-e47a3030ca52/39.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d5/b2/8b/d5b28b42-3f08-2988-f8ae-ce79dcffa2f9/43.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "JA",
+        "KO",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6754637753&country=de",
+      "verified": "2026-10-07"
+    },
+    "fr": {
+      "error": "list index out of range",
+      "url": "https://itunes.apple.com/lookup?id=6754637753&country=fr"
+    },
+    "it": {
+      "name": "Baseball Lineup Maker",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7f/d3/c1/7fd3c175-2b44-114c-1770-e47a3030ca52/39.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d5/b2/8b/d5b28b42-3f08-2988-f8ae-ce79dcffa2f9/43.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "JA",
+        "KO",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6754637753&country=it",
+      "verified": "2026-10-07"
+    },
+    "pt": {
+      "name": "Baseball Lineup Maker",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7f/d3/c1/7fd3c175-2b44-114c-1770-e47a3030ca52/39.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d5/b2/8b/d5b28b42-3f08-2988-f8ae-ce79dcffa2f9/43.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "JA",
+        "KO",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6754637753&country=pt",
+      "verified": "2026-10-07"
+    },
+    "pt-BR": {
+      "name": "Baseball Lineup Maker",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7f/d3/c1/7fd3c175-2b44-114c-1770-e47a3030ca52/39.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d5/b2/8b/d5b28b42-3f08-2988-f8ae-ce79dcffa2f9/43.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "JA",
+        "KO",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6754637753&country=br",
+      "verified": "2026-10-07"
+    },
+    "tr": {
+      "name": "Baseball Lineup Maker",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7f/d3/c1/7fd3c175-2b44-114c-1770-e47a3030ca52/39.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d5/b2/8b/d5b28b42-3f08-2988-f8ae-ce79dcffa2f9/43.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "JA",
+        "KO",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6754637753&country=tr",
+      "verified": "2026-10-07"
+    },
+    "pl": {
+      "name": "Baseball Lineup Maker",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7f/d3/c1/7fd3c175-2b44-114c-1770-e47a3030ca52/39.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d5/b2/8b/d5b28b42-3f08-2988-f8ae-ce79dcffa2f9/43.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "JA",
+        "KO",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6754637753&country=pl",
+      "verified": "2026-10-07"
+    },
+    "nl": {
+      "name": "Baseball Lineup Maker",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7f/d3/c1/7fd3c175-2b44-114c-1770-e47a3030ca52/39.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d5/b2/8b/d5b28b42-3f08-2988-f8ae-ce79dcffa2f9/43.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "JA",
+        "KO",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6754637753&country=nl",
+      "verified": "2026-10-07"
+    }
+  },
+  "starting-xi": {
+    "en": {
+      "name": "Soccer Lineup: Starting XI",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/6f/d5/286fd5e0-a0e9-cd37-7b38-a9b7b2052957/9.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/78/c2/3378c25d-337a-c8f8-dc17-2b9fda05dab2/11.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "PT",
+        "ES"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6768674146&country=us",
+      "verified": "2026-10-07"
+    },
+    "en-GB": {
+      "name": "Soccer Lineup: Starting XI",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/6f/d5/286fd5e0-a0e9-cd37-7b38-a9b7b2052957/9.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/78/c2/3378c25d-337a-c8f8-dc17-2b9fda05dab2/11.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "PT",
+        "ES"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6768674146&country=gb",
+      "verified": "2026-10-07"
+    },
+    "ko": {
+      "name": "Soccer Lineup: Starting XI",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/6f/d5/286fd5e0-a0e9-cd37-7b38-a9b7b2052957/9.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/78/c2/3378c25d-337a-c8f8-dc17-2b9fda05dab2/11.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "PT",
+        "ES"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6768674146&country=kr",
+      "verified": "2026-10-07"
+    },
+    "ja": {
+      "name": "サッカースタメン表 - 綺麗なフォーメーション画像を作成",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/59/98/0b5998e3-b7b3-1b12-cf46-71bb07b234e2/1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5d/87/45/5d87450c-e75a-1279-ded5-fb88276f4d37/1.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "PT",
+        "ES"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6768674146&country=jp",
+      "verified": "2026-10-07"
+    },
+    "es": {
+      "name": "Alineación Fútbol: XI",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/6f/d5/286fd5e0-a0e9-cd37-7b38-a9b7b2052957/9.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/78/c2/3378c25d-337a-c8f8-dc17-2b9fda05dab2/11.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "PT",
+        "ES"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6768674146&country=es",
+      "verified": "2026-10-07"
+    },
+    "zh-TW": {
+      "name": "Soccer Lineup: Starting XI",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/6f/d5/286fd5e0-a0e9-cd37-7b38-a9b7b2052957/9.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/78/c2/3378c25d-337a-c8f8-dc17-2b9fda05dab2/11.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "PT",
+        "ES"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6768674146&country=tw",
+      "verified": "2026-10-07"
+    },
+    "zh-CN": {
+      "name": "Soccer Lineup: Starting XI",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/6f/d5/286fd5e0-a0e9-cd37-7b38-a9b7b2052957/9.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/78/c2/3378c25d-337a-c8f8-dc17-2b9fda05dab2/11.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "PT",
+        "ES"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6768674146&country=cn",
+      "verified": "2026-10-07"
+    },
+    "de": {
+      "name": "Fußball Aufstellung: Startelf",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/6f/d5/286fd5e0-a0e9-cd37-7b38-a9b7b2052957/9.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/78/c2/3378c25d-337a-c8f8-dc17-2b9fda05dab2/11.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "PT",
+        "ES"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6768674146&country=de",
+      "verified": "2026-10-07"
+    },
+    "ar": {
+      "name": "Soccer Lineup: Starting XI",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/6f/d5/286fd5e0-a0e9-cd37-7b38-a9b7b2052957/9.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/78/c2/3378c25d-337a-c8f8-dc17-2b9fda05dab2/11.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "PT",
+        "ES"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6768674146&country=sa",
+      "verified": "2026-10-07"
+    },
+    "bn": {
+      "name": "Soccer Lineup: Starting XI",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/6f/d5/286fd5e0-a0e9-cd37-7b38-a9b7b2052957/9.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/78/c2/3378c25d-337a-c8f8-dc17-2b9fda05dab2/11.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "PT",
+        "ES"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6768674146&country=in",
+      "verified": "2026-10-07"
+    },
+    "fr": {
+      "name": "Soccer Lineup: Starting XI",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/6f/d5/286fd5e0-a0e9-cd37-7b38-a9b7b2052957/9.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/78/c2/3378c25d-337a-c8f8-dc17-2b9fda05dab2/11.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "PT",
+        "ES"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6768674146&country=fr",
+      "verified": "2026-10-07"
+    },
+    "it": {
+      "name": "Formazioni Calcio: Titolari",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/6f/d5/286fd5e0-a0e9-cd37-7b38-a9b7b2052957/9.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/78/c2/3378c25d-337a-c8f8-dc17-2b9fda05dab2/11.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "PT",
+        "ES"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6768674146&country=it",
+      "verified": "2026-10-07"
+    },
+    "pt": {
+      "name": "Escalação Futebol: Titulares",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/6f/d5/286fd5e0-a0e9-cd37-7b38-a9b7b2052957/9.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/78/c2/3378c25d-337a-c8f8-dc17-2b9fda05dab2/11.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "PT",
+        "ES"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6768674146&country=pt",
+      "verified": "2026-10-07"
+    },
+    "id": {
+      "name": "Soccer Lineup: Starting XI",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/6f/d5/286fd5e0-a0e9-cd37-7b38-a9b7b2052957/9.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/78/c2/3378c25d-337a-c8f8-dc17-2b9fda05dab2/11.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "PT",
+        "ES"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6768674146&country=id",
+      "verified": "2026-10-07"
+    },
+    "pt-BR": {
+      "name": "Escalação Futebol: Titulares",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/6f/d5/286fd5e0-a0e9-cd37-7b38-a9b7b2052957/9.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/78/c2/3378c25d-337a-c8f8-dc17-2b9fda05dab2/11.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "PT",
+        "ES"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6768674146&country=br",
+      "verified": "2026-10-07"
+    },
+    "tr": {
+      "name": "Soccer Lineup: Starting XI",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/6f/d5/286fd5e0-a0e9-cd37-7b38-a9b7b2052957/9.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/78/c2/3378c25d-337a-c8f8-dc17-2b9fda05dab2/11.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "PT",
+        "ES"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6768674146&country=tr",
+      "verified": "2026-10-07"
+    },
+    "pl": {
+      "name": "Soccer Lineup: Starting XI",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/6f/d5/286fd5e0-a0e9-cd37-7b38-a9b7b2052957/9.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/78/c2/3378c25d-337a-c8f8-dc17-2b9fda05dab2/11.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "PT",
+        "ES"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6768674146&country=pl",
+      "verified": "2026-10-07"
+    },
+    "nl": {
+      "name": "Soccer Lineup: Starting XI",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/6f/d5/286fd5e0-a0e9-cd37-7b38-a9b7b2052957/9.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/78/c2/3378c25d-337a-c8f8-dc17-2b9fda05dab2/11.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "PT",
+        "ES"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6768674146&country=nl",
+      "verified": "2026-10-07"
+    }
+  },
+  "motiontag": {
+    "en": {
+      "name": "MotionTagger: Video Form Coach",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/43/69/2c43692a-5fff-bb1f-3733-9c469278e217/01.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/1f/1a/df1f1a33-1035-64a7-5d07-3f1d22cb113e/02.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "NL",
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "KO",
+        "PT",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6796528948&country=us",
+      "verified": "2026-10-07"
+    },
+    "en-GB": {
+      "name": "MotionTagger: Video Form Coach",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/43/69/2c43692a-5fff-bb1f-3733-9c469278e217/01.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/1f/1a/df1f1a33-1035-64a7-5d07-3f1d22cb113e/02.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "NL",
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "KO",
+        "PT",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6796528948&country=gb",
+      "verified": "2026-10-07"
+    },
+    "ko": {
+      "name": "SOKu-ma 스포츠 폼 영상 코치",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/43/69/2c43692a-5fff-bb1f-3733-9c469278e217/01.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/1f/1a/df1f1a33-1035-64a7-5d07-3f1d22cb113e/02.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "NL",
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "KO",
+        "PT",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6796528948&country=kr",
+      "verified": "2026-10-07"
+    },
+    "zh-TW": {
+      "name": "MotionTagger：動作影片分析",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/43/69/2c43692a-5fff-bb1f-3733-9c469278e217/01.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/1f/1a/df1f1a33-1035-64a7-5d07-3f1d22cb113e/02.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "NL",
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "KO",
+        "PT",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6796528948&country=tw",
+      "verified": "2026-10-07"
+    },
+    "zh-CN": {
+      "name": "MotionTagger：动作视频分析",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/43/69/2c43692a-5fff-bb1f-3733-9c469278e217/01.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/1f/1a/df1f1a33-1035-64a7-5d07-3f1d22cb113e/02.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "NL",
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "KO",
+        "PT",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6796528948&country=cn",
+      "verified": "2026-10-07"
+    },
+    "es": {
+      "name": "SOKu-ma MotionTagger Deportes",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/43/69/2c43692a-5fff-bb1f-3733-9c469278e217/01.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/1f/1a/df1f1a33-1035-64a7-5d07-3f1d22cb113e/02.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "NL",
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "KO",
+        "PT",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6796528948&country=es",
+      "verified": "2026-10-07"
+    },
+    "ja": {
+      "name": "モーションタグ：フォーム動画分析",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/35/51/4e355122-7d4a-11d2-c044-4fce0229c08f/01.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/98/79/e1/9879e1d7-c04c-fd15-f61d-38f41f6d5daa/02.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "NL",
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "KO",
+        "PT",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6796528948&country=jp",
+      "verified": "2026-10-07"
+    },
+    "bn": {
+      "name": "MotionTagger: Video Form Coach",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/43/69/2c43692a-5fff-bb1f-3733-9c469278e217/01.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/1f/1a/df1f1a33-1035-64a7-5d07-3f1d22cb113e/02.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "NL",
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "KO",
+        "PT",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6796528948&country=in",
+      "verified": "2026-10-07"
+    },
+    "ar": {
+      "name": "MotionTagger: Video Form Coach",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/43/69/2c43692a-5fff-bb1f-3733-9c469278e217/01.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/1f/1a/df1f1a33-1035-64a7-5d07-3f1d22cb113e/02.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "NL",
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "KO",
+        "PT",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6796528948&country=sa",
+      "verified": "2026-10-07"
+    },
+    "de": {
+      "name": "MotionTagger: Bewegungsanalyse",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/43/69/2c43692a-5fff-bb1f-3733-9c469278e217/01.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/1f/1a/df1f1a33-1035-64a7-5d07-3f1d22cb113e/02.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "NL",
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "KO",
+        "PT",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6796528948&country=de",
+      "verified": "2026-10-07"
+    },
+    "pt": {
+      "name": "MotionTagger: Análise técnica",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/43/69/2c43692a-5fff-bb1f-3733-9c469278e217/01.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/1f/1a/df1f1a33-1035-64a7-5d07-3f1d22cb113e/02.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "NL",
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "KO",
+        "PT",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6796528948&country=pt",
+      "verified": "2026-10-07"
+    },
+    "fr": {
+      "error": "list index out of range",
+      "url": "https://itunes.apple.com/lookup?id=6796528948&country=fr"
+    },
+    "id": {
+      "name": "MotionTagger: Video Form Coach",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/43/69/2c43692a-5fff-bb1f-3733-9c469278e217/01.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/1f/1a/df1f1a33-1035-64a7-5d07-3f1d22cb113e/02.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "NL",
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "KO",
+        "PT",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6796528948&country=id",
+      "verified": "2026-10-07"
+    },
+    "pt-BR": {
+      "name": "MotionTagger: Análise técnica",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/43/69/2c43692a-5fff-bb1f-3733-9c469278e217/01.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/1f/1a/df1f1a33-1035-64a7-5d07-3f1d22cb113e/02.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "NL",
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "KO",
+        "PT",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6796528948&country=br",
+      "verified": "2026-10-07"
+    },
+    "it": {
+      "name": "SOKu-ma MT Video Coach Italia",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/43/69/2c43692a-5fff-bb1f-3733-9c469278e217/01.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/1f/1a/df1f1a33-1035-64a7-5d07-3f1d22cb113e/02.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "NL",
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "KO",
+        "PT",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6796528948&country=it",
+      "verified": "2026-10-07"
+    },
+    "tr": {
+      "name": "MotionTagger: Video Form Coach",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/43/69/2c43692a-5fff-bb1f-3733-9c469278e217/01.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/1f/1a/df1f1a33-1035-64a7-5d07-3f1d22cb113e/02.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "NL",
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "KO",
+        "PT",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6796528948&country=tr",
+      "verified": "2026-10-07"
+    },
+    "nl": {
+      "name": "MotionTagger: Bewegingsanalyse",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/43/69/2c43692a-5fff-bb1f-3733-9c469278e217/01.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/1f/1a/df1f1a33-1035-64a7-5d07-3f1d22cb113e/02.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "NL",
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "KO",
+        "PT",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6796528948&country=nl",
+      "verified": "2026-10-07"
+    },
+    "pl": {
+      "name": "MotionTagger: Video Form Coach",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/43/69/2c43692a-5fff-bb1f-3733-9c469278e217/01.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/1f/1a/df1f1a33-1035-64a7-5d07-3f1d22cb113e/02.png/320x480bb.jpg"
+      ],
+      "appLanguages": [
+        "NL",
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "JA",
+        "KO",
+        "PT",
+        "ZH",
+        "ES",
+        "ZH"
+      ],
+      "url": "https://itunes.apple.com/lookup?id=6796528948&country=pl",
+      "verified": "2026-10-07"
+    }
+  }
+}

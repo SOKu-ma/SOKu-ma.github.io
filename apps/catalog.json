@@ -1,0 +1,1137 @@
+{
+  "languages": {
+    "ja": "日本語",
+    "en": "English",
+    "en-GB": "English (UK)",
+    "es": "Español",
+    "ko": "한국어",
+    "zh-TW": "繁體中文",
+    "zh-CN": "简体中文",
+    "ar": "العربية",
+    "bn": "বাংলা",
+    "de": "Deutsch",
+    "fr": "Français",
+    "id": "Bahasa Indonesia",
+    "it": "Italiano",
+    "pt": "Português",
+    "pt-BR": "Português (Brasil)",
+    "tr": "Türkçe",
+    "nl": "Nederlands",
+    "pl": "Polski"
+  },
+  "ui": {
+    "ja": {
+      "title": "好きなことを、もっと。",
+      "intro": "日々の記録から、次のプレーまで。スポーツを楽しむための、小さな道具たち。",
+      "collection": "アプリコレクション",
+      "language": "言語",
+      "explore": "アプリを見る",
+      "count": "{n} 個のアプリ",
+      "preview": "画面プレビュー",
+      "support": "サポート",
+      "privacy": "プライバシー",
+      "home": "ホーム",
+      "skip": "コンテンツへ移動",
+      "note": "ストアの提供状況は地域・端末によって異なります。",
+      "screens": "公式ストアの画面紹介 · {language}",
+      "all": "すべてのアプリを見る",
+      "empty": "表示できるアプリがありません。",
+      "store": "{name} を {store} で見る",
+      "categories": {
+        "DARTS": "ダーツ",
+        "BASEBALL": "野球",
+        "FOOTBALL": "サッカー",
+        "VIDEO ANALYSIS": "動画分析"
+      },
+      "imageFallback": "この言語の画像がないため、英語の画像を表示しています。",
+      "copyFallback": "この言語の紹介文がないため、英語を表示しています。",
+      "sourceHeading": "いま使っているアプリ",
+      "otherApps": "ほかのアプリも、どうぞ。"
+    },
+    "en": {
+      "title": "More of what you love.",
+      "intro": "From everyday practice to your next game. Thoughtful little tools for the sports you love.",
+      "collection": "The app collection",
+      "language": "Language",
+      "explore": "Explore the apps",
+      "count": "{n} apps to explore",
+      "preview": "Screen preview",
+      "support": "Support",
+      "privacy": "Privacy",
+      "home": "Home",
+      "skip": "Skip to content",
+      "note": "Store availability varies by region and device.",
+      "screens": "Official store previews · {language}",
+      "all": "View all apps",
+      "empty": "No apps to show.",
+      "store": "View {name} on {store}",
+      "categories": {
+        "DARTS": "DARTS",
+        "BASEBALL": "BASEBALL",
+        "FOOTBALL": "FOOTBALL",
+        "VIDEO ANALYSIS": "VIDEO ANALYSIS"
+      },
+      "imageFallback": "English images: localized previews unavailable.",
+      "copyFallback": "English description: translation unavailable.",
+      "sourceHeading": "Your app",
+      "otherApps": "More apps to explore"
+    },
+    "es": {
+      "title": "Más de lo que te gusta.",
+      "intro": "De la práctica diaria al próximo partido. Pequeñas herramientas para disfrutar del deporte.",
+      "collection": "Colección de apps",
+      "language": "Idioma",
+      "explore": "Explorar las apps",
+      "count": "{n} apps para explorar",
+      "preview": "Vista previa",
+      "support": "Soporte",
+      "privacy": "Privacidad",
+      "home": "Inicio",
+      "skip": "Ir al contenido",
+      "note": "La disponibilidad varía según la región y el dispositivo.",
+      "screens": "Vistas oficiales de la tienda · {language}",
+      "all": "Ver todas las apps",
+      "empty": "No hay apps para mostrar.",
+      "store": "Ver {name} en {store}",
+      "categories": {
+        "DARTS": "DARDOS",
+        "BASEBALL": "BÉISBOL",
+        "FOOTBALL": "FÚTBOL",
+        "VIDEO ANALYSIS": "ANÁLISIS DE VÍDEO"
+      },
+      "imageFallback": "Imágenes en inglés: no hay vistas localizadas.",
+      "copyFallback": "Descripción en inglés: traducción no disponible.",
+      "sourceHeading": "Tu app",
+      "otherApps": "Más apps para descubrir"
+    },
+    "ko": {
+      "title": "좋아하는 것을 더 즐겁게.",
+      "intro": "매일의 연습부터 다음 경기까지. 스포츠를 즐기는 작은 도구들.",
+      "collection": "앱 컬렉션",
+      "language": "언어",
+      "explore": "앱 둘러보기",
+      "count": "{n}개의 앱",
+      "preview": "화면 미리 보기",
+      "support": "지원",
+      "privacy": "개인정보 보호",
+      "home": "홈",
+      "skip": "콘텐츠로 이동",
+      "note": "스토어 제공 여부는 지역과 기기에 따라 다릅니다.",
+      "screens": "공식 스토어 화면 소개 · {language}",
+      "all": "모든 앱 보기",
+      "empty": "표시할 앱이 없습니다.",
+      "store": "{store}에서 {name} 보기",
+      "categories": {
+        "DARTS": "다트",
+        "BASEBALL": "야구",
+        "FOOTBALL": "축구",
+        "VIDEO ANALYSIS": "영상 분석"
+      },
+      "imageFallback": "번역된 이미지가 없어 영어 이미지를 표시합니다.",
+      "copyFallback": "번역된 소개가 없어 영어로 표시합니다.",
+      "sourceHeading": "사용 중인 앱",
+      "otherApps": "다른 앱도 둘러보세요"
+    },
+    "zh-TW": {
+      "title": "讓喜愛的事，更有樂趣。",
+      "intro": "從日常練習到下一場比賽。享受運動的小工具。",
+      "collection": "應用程式精選",
+      "language": "語言",
+      "explore": "探索應用程式",
+      "count": "探索 {n} 款應用程式",
+      "preview": "畫面預覽",
+      "support": "支援",
+      "privacy": "隱私權",
+      "home": "首頁",
+      "skip": "跳至內容",
+      "note": "商店供應情況依地區及裝置而異。",
+      "screens": "官方商店畫面介紹 · {language}",
+      "all": "查看所有應用程式",
+      "empty": "沒有可顯示的應用程式。",
+      "store": "在 {store} 查看 {name}",
+      "categories": {
+        "DARTS": "飛鏢",
+        "BASEBALL": "棒球",
+        "FOOTBALL": "足球",
+        "VIDEO ANALYSIS": "影片分析"
+      },
+      "imageFallback": "此語言的圖片尚未提供，因此顯示英文圖片。",
+      "copyFallback": "此語言的介紹尚未提供，因此顯示英文。",
+      "sourceHeading": "您正在使用的應用程式",
+      "otherApps": "探索更多應用程式"
+    },
+    "de": {
+      "title": "Mehr von dem, was du liebst.",
+      "intro": "Vom täglichen Training bis zum nächsten Spiel. Kleine Helfer für deinen Sport.",
+      "collection": "Die App-Sammlung",
+      "language": "Sprache",
+      "explore": "Apps entdecken",
+      "count": "{n} Apps entdecken",
+      "preview": "Bildschirmvorschau",
+      "support": "Support",
+      "privacy": "Datenschutz",
+      "home": "Startseite",
+      "skip": "Zum Inhalt springen",
+      "note": "Die Verfügbarkeit hängt von Region und Gerät ab.",
+      "screens": "Offizielle Store-Vorschau · {language}",
+      "all": "Alle Apps ansehen",
+      "empty": "Keine Apps verfügbar.",
+      "store": "{name} im {store} ansehen",
+      "imageFallback": "Englische Bilder: Lokalisierte Vorschauen fehlen.",
+      "copyFallback": "Englische Beschreibung: Übersetzung fehlt.",
+      "categories": {
+        "DARTS": "DARTS",
+        "BASEBALL": "BASEBALL",
+        "FOOTBALL": "FUSSBALL",
+        "VIDEO ANALYSIS": "VIDEOANALYSE"
+      },
+      "sourceHeading": "Deine App",
+      "otherApps": "Weitere Apps entdecken"
+    },
+    "fr": {
+      "title": "Plus de ce que vous aimez.",
+      "intro": "De l’entraînement quotidien au prochain match. De petits outils pour votre sport.",
+      "collection": "La collection d’apps",
+      "language": "Langue",
+      "explore": "Découvrir les apps",
+      "count": "{n} apps à découvrir",
+      "preview": "Aperçu des écrans",
+      "support": "Assistance",
+      "privacy": "Confidentialité",
+      "home": "Accueil",
+      "skip": "Aller au contenu",
+      "note": "La disponibilité varie selon la région et l’appareil.",
+      "screens": "Aperçus officiels de la boutique · {language}",
+      "all": "Voir toutes les apps",
+      "empty": "Aucune app à afficher.",
+      "store": "Voir {name} sur {store}",
+      "imageFallback": "Images en anglais : aperçus localisés indisponibles.",
+      "copyFallback": "Description en anglais : traduction indisponible.",
+      "categories": {
+        "DARTS": "FLÉCHETTES",
+        "BASEBALL": "BASEBALL",
+        "FOOTBALL": "FOOTBALL",
+        "VIDEO ANALYSIS": "ANALYSE VIDÉO"
+      },
+      "sourceHeading": "Votre app",
+      "otherApps": "D’autres apps à découvrir"
+    },
+    "it": {
+      "title": "Più di ciò che ami.",
+      "intro": "Dall’allenamento quotidiano alla prossima partita. Piccoli strumenti per il tuo sport.",
+      "collection": "La raccolta di app",
+      "language": "Lingua",
+      "explore": "Esplora le app",
+      "count": "{n} app da esplorare",
+      "preview": "Anteprima delle schermate",
+      "support": "Assistenza",
+      "privacy": "Privacy",
+      "home": "Home",
+      "skip": "Vai al contenuto",
+      "note": "La disponibilità varia per regione e dispositivo.",
+      "screens": "Anteprime ufficiali dello store · {language}",
+      "all": "Vedi tutte le app",
+      "empty": "Nessuna app da mostrare.",
+      "store": "Vedi {name} su {store}",
+      "imageFallback": "Immagini in inglese: anteprime localizzate non disponibili.",
+      "copyFallback": "Descrizione in inglese: traduzione non disponibile.",
+      "categories": {
+        "DARTS": "FRECCETTE",
+        "BASEBALL": "BASEBALL",
+        "FOOTBALL": "CALCIO",
+        "VIDEO ANALYSIS": "ANALISI VIDEO"
+      },
+      "sourceHeading": "La tua app",
+      "otherApps": "Altre app da scoprire"
+    },
+    "pt": {
+      "title": "Mais do que adora.",
+      "intro": "Do treino diário ao próximo jogo. Pequenas ferramentas para o seu desporto.",
+      "collection": "Coleção de aplicações",
+      "language": "Idioma",
+      "explore": "Explorar aplicações",
+      "count": "{n} aplicações",
+      "preview": "Pré-visualização",
+      "support": "Suporte",
+      "privacy": "Privacidade",
+      "home": "Início",
+      "skip": "Ir para o conteúdo",
+      "note": "A disponibilidade varia por região e dispositivo.",
+      "screens": "Imagens oficiais da loja · {language}",
+      "all": "Ver todas as aplicações",
+      "empty": "Nenhuma aplicação para mostrar.",
+      "store": "Ver {name} na {store}",
+      "imageFallback": "Imagens em inglês: imagens localizadas indisponíveis.",
+      "copyFallback": "Descrição em inglês: tradução indisponível.",
+      "categories": {
+        "DARTS": "DARDOS",
+        "BASEBALL": "BASEBOL",
+        "FOOTBALL": "FUTEBOL",
+        "VIDEO ANALYSIS": "ANÁLISE DE VÍDEO"
+      },
+      "sourceHeading": "A sua aplicação",
+      "otherApps": "Descubra outras aplicações"
+    },
+    "pt-BR": {
+      "title": "Mais do que você ama.",
+      "intro": "Do treino diário ao próximo jogo. Pequenas ferramentas para o seu esporte.",
+      "collection": "Coleção de apps",
+      "language": "Idioma",
+      "explore": "Explorar os apps",
+      "count": "{n} apps",
+      "preview": "Prévia das telas",
+      "support": "Suporte",
+      "privacy": "Privacidade",
+      "home": "Início",
+      "skip": "Ir para o conteúdo",
+      "note": "A disponibilidade varia por região e dispositivo.",
+      "screens": "Imagens oficiais da loja · {language}",
+      "all": "Ver todos os apps",
+      "empty": "Nenhum app para mostrar.",
+      "store": "Ver {name} na {store}",
+      "imageFallback": "Imagens em inglês: imagens localizadas indisponíveis.",
+      "copyFallback": "Descrição em inglês: tradução indisponível.",
+      "categories": {
+        "DARTS": "DARDOS",
+        "BASEBALL": "BEISEBOL",
+        "FOOTBALL": "FUTEBOL",
+        "VIDEO ANALYSIS": "ANÁLISE DE VÍDEO"
+      },
+      "sourceHeading": "Seu app",
+      "otherApps": "Descubra outros apps"
+    },
+    "zh-CN": {
+      "title": "让喜爱的事，更有乐趣。",
+      "intro": "从日常练习到下一场比赛。享受运动的小工具。",
+      "collection": "应用精选",
+      "language": "语言",
+      "explore": "探索应用",
+      "count": "探索 {n} 款应用",
+      "preview": "画面预览",
+      "support": "支持",
+      "privacy": "隐私",
+      "home": "首页",
+      "skip": "跳至内容",
+      "note": "商店供应情况因地区和设备而异。",
+      "screens": "官方商店画面介绍 · {language}",
+      "all": "查看所有应用",
+      "empty": "没有可显示的应用。",
+      "store": "在 {store} 查看 {name}",
+      "imageFallback": "此语言的图片尚未提供，因此显示英文图片。",
+      "copyFallback": "此语言的介绍尚未提供，因此显示英文。",
+      "categories": {
+        "DARTS": "飞镖",
+        "BASEBALL": "棒球",
+        "FOOTBALL": "足球",
+        "VIDEO ANALYSIS": "视频分析"
+      },
+      "sourceHeading": "您正在使用的应用",
+      "otherApps": "探索更多应用"
+    },
+    "ar": {
+      "title": "المزيد مما تحب.",
+      "intro": "من التدريب اليومي إلى المباراة القادمة. أدوات صغيرة للاستمتاع بالرياضة.",
+      "collection": "مجموعة التطبيقات",
+      "language": "اللغة",
+      "explore": "استكشف التطبيقات",
+      "count": "{n} تطبيقات",
+      "preview": "معاينة الشاشة",
+      "support": "الدعم",
+      "privacy": "الخصوصية",
+      "home": "الرئيسية",
+      "skip": "انتقل إلى المحتوى",
+      "note": "يختلف التوفر حسب المنطقة والجهاز.",
+      "screens": "صور المتجر الرسمية · {language}",
+      "all": "عرض كل التطبيقات",
+      "empty": "لا توجد تطبيقات لعرضها.",
+      "store": "عرض {name} على {store}",
+      "imageFallback": "صور باللغة الإنجليزية: الصور المحلية غير متاحة.",
+      "copyFallback": "وصف باللغة الإنجليزية: الترجمة غير متاحة.",
+      "categories": {
+        "DARTS": "رمي السهام",
+        "BASEBALL": "البيسبول",
+        "FOOTBALL": "كرة القدم",
+        "VIDEO ANALYSIS": "تحليل الفيديو"
+      },
+      "sourceHeading": "تطبيقك",
+      "otherApps": "تطبيقات أخرى لاستكشافها"
+    },
+    "bn": {
+      "title": "পছন্দের কাজে আরও আনন্দ।",
+      "intro": "প্রতিদিনের অনুশীলন থেকে পরের ম্যাচ। খেলাধুলা উপভোগ করার ছোট সরঞ্জাম।",
+      "collection": "অ্যাপ সংগ্রহ",
+      "language": "ভাষা",
+      "explore": "অ্যাপ দেখুন",
+      "count": "{n}টি অ্যাপ",
+      "preview": "স্ক্রিনের পূর্বরূপ",
+      "support": "সহায়তা",
+      "privacy": "গোপনীয়তা",
+      "home": "হোম",
+      "skip": "বিষয়বস্তুতে যান",
+      "note": "অঞ্চল ও ডিভাইস অনুযায়ী প্রাপ্যতা পরিবর্তিত হয়।",
+      "screens": "অফিশিয়াল স্টোরের ছবি · {language}",
+      "all": "সব অ্যাপ দেখুন",
+      "empty": "দেখানোর মতো অ্যাপ নেই।",
+      "store": "{store}-এ {name} দেখুন",
+      "imageFallback": "ইংরেজি ছবি: স্থানীয় ভাষার ছবি নেই।",
+      "copyFallback": "ইংরেজি বিবরণ: অনুবাদ নেই।",
+      "categories": {
+        "DARTS": "ডার্টস",
+        "BASEBALL": "বেসবল",
+        "FOOTBALL": "ফুটবল",
+        "VIDEO ANALYSIS": "ভিডিও বিশ্লেষণ"
+      },
+      "sourceHeading": "আপনার অ্যাপ",
+      "otherApps": "আরও অ্যাপ দেখুন"
+    },
+    "id": {
+      "title": "Lebih banyak hal yang Anda sukai.",
+      "intro": "Dari latihan harian hingga pertandingan berikutnya. Alat kecil untuk menikmati olahraga.",
+      "collection": "Koleksi aplikasi",
+      "language": "Bahasa",
+      "explore": "Jelajahi aplikasi",
+      "count": "{n} aplikasi",
+      "preview": "Pratinjau layar",
+      "support": "Dukungan",
+      "privacy": "Privasi",
+      "home": "Beranda",
+      "skip": "Lewati ke konten",
+      "note": "Ketersediaan berbeda menurut wilayah dan perangkat.",
+      "screens": "Pratinjau resmi toko · {language}",
+      "all": "Lihat semua aplikasi",
+      "empty": "Tidak ada aplikasi untuk ditampilkan.",
+      "store": "Lihat {name} di {store}",
+      "imageFallback": "Gambar bahasa Inggris: pratinjau lokal tidak tersedia.",
+      "copyFallback": "Deskripsi bahasa Inggris: terjemahan tidak tersedia.",
+      "categories": {
+        "DARTS": "DART",
+        "BASEBALL": "BISBOL",
+        "FOOTBALL": "SEPAK BOLA",
+        "VIDEO ANALYSIS": "ANALISIS VIDEO"
+      },
+      "sourceHeading": "Aplikasi Anda",
+      "otherApps": "Jelajahi aplikasi lainnya"
+    },
+    "tr": {
+      "title": "Sevdiğiniz şeylerden daha fazlası.",
+      "intro": "Günlük antrenmandan sonraki maça. Sporun tadını çıkarmak için küçük araçlar.",
+      "collection": "Uygulama koleksiyonu",
+      "language": "Dil",
+      "explore": "Uygulamaları keşfet",
+      "count": "{n} uygulama",
+      "preview": "Ekran önizlemesi",
+      "support": "Destek",
+      "privacy": "Gizlilik",
+      "home": "Ana sayfa",
+      "skip": "İçeriğe geç",
+      "note": "Kullanılabilirlik bölge ve cihaza göre değişir.",
+      "screens": "Resmî mağaza önizlemeleri · {language}",
+      "all": "Tüm uygulamaları gör",
+      "empty": "Gösterilecek uygulama yok.",
+      "store": "{name} uygulamasını {store} üzerinde gör",
+      "imageFallback": "İngilizce görseller: yerelleştirilmiş önizleme yok.",
+      "copyFallback": "İngilizce açıklama: çeviri yok.",
+      "categories": {
+        "DARTS": "DART",
+        "BASEBALL": "BEYZBOL",
+        "FOOTBALL": "FUTBOL",
+        "VIDEO ANALYSIS": "VİDEO ANALİZİ"
+      },
+      "sourceHeading": "Uygulamanız",
+      "otherApps": "Diğer uygulamaları keşfedin"
+    },
+    "nl": {
+      "title": "Meer van wat je leuk vindt.",
+      "intro": "Van dagelijkse training tot je volgende wedstrijd. Kleine hulpmiddelen voor je sport.",
+      "collection": "De appcollectie",
+      "language": "Taal",
+      "explore": "Ontdek de apps",
+      "count": "{n} apps om te ontdekken",
+      "preview": "Schermvoorbeeld",
+      "support": "Ondersteuning",
+      "privacy": "Privacy",
+      "home": "Home",
+      "skip": "Ga naar inhoud",
+      "note": "Beschikbaarheid verschilt per regio en apparaat.",
+      "screens": "Officiële winkelvoorbeelden · {language}",
+      "all": "Bekijk alle apps",
+      "empty": "Geen apps om te tonen.",
+      "store": "Bekijk {name} op {store}",
+      "imageFallback": "Engelse afbeeldingen: lokale voorbeelden ontbreken.",
+      "copyFallback": "Engelse beschrijving: vertaling ontbreekt.",
+      "categories": {
+        "DARTS": "DARTS",
+        "BASEBALL": "HONKBAL",
+        "FOOTBALL": "VOETBAL",
+        "VIDEO ANALYSIS": "VIDEOANALYSE"
+      },
+      "sourceHeading": "Jouw app",
+      "otherApps": "Ontdek meer apps"
+    },
+    "pl": {
+      "title": "Więcej tego, co lubisz.",
+      "intro": "Od codziennego treningu do kolejnego meczu. Małe narzędzia dla Twojego sportu.",
+      "collection": "Kolekcja aplikacji",
+      "language": "Język",
+      "explore": "Odkryj aplikacje",
+      "count": "{n} aplikacji",
+      "preview": "Podgląd ekranu",
+      "support": "Pomoc",
+      "privacy": "Prywatność",
+      "home": "Strona główna",
+      "skip": "Przejdź do treści",
+      "note": "Dostępność zależy od regionu i urządzenia.",
+      "screens": "Oficjalne podglądy ze sklepu · {language}",
+      "all": "Zobacz wszystkie aplikacje",
+      "empty": "Brak aplikacji do wyświetlenia.",
+      "store": "Zobacz {name} w {store}",
+      "imageFallback": "Obrazy po angielsku: brak lokalnych podglądów.",
+      "copyFallback": "Opis po angielsku: brak tłumaczenia.",
+      "categories": {
+        "DARTS": "DART",
+        "BASEBALL": "BASEBALL",
+        "FOOTBALL": "PIŁKA NOŻNA",
+        "VIDEO ANALYSIS": "ANALIZA WIDEO"
+      },
+      "sourceHeading": "Twoja aplikacja",
+      "otherApps": "Odkryj inne aplikacje"
+    },
+    "en-GB": {
+      "title": "More of what you love.",
+      "intro": "From everyday practice to your next game. Thoughtful little tools for the sports you love.",
+      "collection": "The app collection",
+      "language": "Language",
+      "explore": "Explore the apps",
+      "count": "{n} apps to explore",
+      "preview": "Screen preview",
+      "support": "Support",
+      "privacy": "Privacy",
+      "home": "Home",
+      "skip": "Skip to content",
+      "note": "Store availability varies by region and device.",
+      "screens": "Official store previews · {language}",
+      "all": "View all apps",
+      "empty": "No apps to show.",
+      "store": "View {name} on {store}",
+      "imageFallback": "English images: localized previews unavailable.",
+      "copyFallback": "English description: translation unavailable.",
+      "categories": {
+        "DARTS": "DARTS",
+        "BASEBALL": "BASEBALL",
+        "FOOTBALL": "FOOTBALL",
+        "VIDEO ANALYSIS": "VIDEO ANALYSIS"
+      },
+      "sourceHeading": "Your app",
+      "otherApps": "More apps to explore"
+    }
+  },
+  "apps": [
+    {
+      "id": "dartlog",
+      "aliases": [
+        "com.sokuma.dartlog",
+        "dartlog"
+      ],
+      "category": "DARTS",
+      "icon": "assets/dartlog/icon.webp",
+      "screenshots": {
+        "en": {
+          "paths": [
+            "assets/dartlog/screen-1.webp",
+            "assets/dartlog/screen-2.webp"
+          ],
+          "language": "en",
+          "source": "https://play.google.com/store/apps/details?id=com.sokuma.dartlog&hl=en"
+        },
+        "de": {
+          "paths": [
+            "assets/dartlog/de/screen-1.webp",
+            "assets/dartlog/de/screen-2.webp"
+          ],
+          "language": "de",
+          "source": "https://play.google.com/store/apps/details?id=com.sokuma.dartlog&hl=de"
+        },
+        "es": {
+          "paths": [
+            "assets/dartlog/es/screen-1.webp",
+            "assets/dartlog/es/screen-2.webp"
+          ],
+          "language": "es",
+          "source": "https://play.google.com/store/apps/details?id=com.sokuma.dartlog&hl=es"
+        },
+        "fr": {
+          "paths": [
+            "assets/dartlog/fr/screen-1.webp",
+            "assets/dartlog/fr/screen-2.webp"
+          ],
+          "language": "fr",
+          "source": "https://play.google.com/store/apps/details?id=com.sokuma.dartlog&hl=fr"
+        },
+        "it": {
+          "paths": [
+            "assets/dartlog/it/screen-1.webp",
+            "assets/dartlog/it/screen-2.webp"
+          ],
+          "language": "it",
+          "source": "https://play.google.com/store/apps/details?id=com.sokuma.dartlog&hl=it"
+        },
+        "ja": {
+          "paths": [
+            "assets/dartlog/ja/screen-1.webp",
+            "assets/dartlog/ja/screen-2.webp"
+          ],
+          "language": "ja",
+          "source": "https://play.google.com/store/apps/details?id=com.sokuma.dartlog&hl=ja"
+        },
+        "nl": {
+          "paths": [
+            "assets/dartlog/nl/screen-1.webp",
+            "assets/dartlog/nl/screen-2.webp"
+          ],
+          "language": "nl",
+          "source": "https://play.google.com/store/apps/details?id=com.sokuma.dartlog&hl=nl"
+        },
+        "pl": {
+          "paths": [
+            "assets/dartlog/pl/screen-1.webp",
+            "assets/dartlog/pl/screen-2.webp"
+          ],
+          "language": "pl",
+          "source": "https://play.google.com/store/apps/details?id=com.sokuma.dartlog&hl=pl"
+        },
+        "pt": {
+          "paths": [
+            "assets/dartlog/pt/screen-1.webp",
+            "assets/dartlog/pt/screen-2.webp"
+          ],
+          "language": "pt",
+          "source": "https://play.google.com/store/apps/details?id=com.sokuma.dartlog&hl=pt"
+        },
+        "pt-BR": {
+          "paths": [
+            "assets/dartlog/pt/screen-1.webp",
+            "assets/dartlog/pt/screen-2.webp"
+          ],
+          "language": "pt",
+          "source": "https://play.google.com/store/apps/details?id=com.sokuma.dartlog&hl=pt_BR"
+        }
+      },
+      "stores": {
+        "android": "https://play.google.com/store/apps/details?id=com.sokuma.dartlog"
+      },
+      "copy": {
+        "ja": {
+          "name": "ダーツログ - 練習・スコア分析",
+          "description": "盤面をタップして記録。 成績・着弾・推移を振り返れます。",
+          "source": "repository:dartlog/lib/l10n/app_ja.arb"
+        },
+        "en": {
+          "name": "DartLog - Practice & Scoring",
+          "description": "Tap where each dart lands. Track your accuracy, misses and progress.",
+          "source": "repository:dartlog/lib/l10n/app_en.arb"
+        },
+        "es": {
+          "name": "DartLog",
+          "description": "Toca la diana para registrar. Revisa resultados, impactos y evolución.",
+          "source": "repository:dartlog/lib/l10n/app_es.arb"
+        },
+        "ko": {
+          "name": "DartLog",
+          "description": "보드를 탭하여 기록하세요. 성적·착탄·추이를 돌아볼 수 있습니다.",
+          "source": "repository:dartlog/lib/l10n/app_ko.arb"
+        },
+        "zh-TW": {
+          "name": "DartLog",
+          "description": "點選鏢靶記錄。 回顧成績、落點與趨勢。",
+          "source": "repository:dartlog/lib/l10n/app_zh_Hant.arb"
+        },
+        "en-GB": {
+          "name": "DartLog - Practice & Scoring",
+          "description": "Darts scorer & training tracker: X01, checkout, doubles, cricket, grouping stats"
+        },
+        "zh-CN": {
+          "name": "DartLog - 练习与成绩分析",
+          "description": "点击靶盘记录。 回顾成绩、落点与趋势。",
+          "source": "repository:dartlog/lib/l10n/app_zh.arb"
+        },
+        "de": {
+          "name": "DartLog - Training & Scores",
+          "description": "Tippe dorthin, wo jeder Dart steckt. Verfolge Treffsicherheit, Fehlwürfe und Fortschritt.",
+          "source": "repository:dartlog/lib/l10n/app_de.arb"
+        },
+        "fr": {
+          "name": "DartLog - Entraînement & score",
+          "description": "Touchez la cible pour enregistrer. Consultez résultats, impacts et évolution.",
+          "source": "repository:dartlog/lib/l10n/app_fr.arb"
+        },
+        "it": {
+          "name": "DartLog - Allenamento e score",
+          "description": "Tocca il bersaglio per registrare. Rivedi risultati, impatti e progressi.",
+          "source": "repository:dartlog/lib/l10n/app_it.arb"
+        },
+        "pt": {
+          "name": "DartLog - Treino e pontuação",
+          "description": "Toca no alvo para registar. Revê resultados, impactos e evolução.",
+          "source": "repository:dartlog/lib/l10n/app_pt.arb"
+        },
+        "nl": {
+          "name": "DartLog - Training en scores",
+          "description": "Tik waar elke pijl landt. Volg je precisie, missers en vooruitgang.",
+          "source": "repository:dartlog/lib/l10n/app_nl.arb"
+        },
+        "pt-BR": {
+          "name": "DartLog - Treino e pontuação",
+          "description": "Marcador de dardos e treino: 501, checkout, duplos, cricket e estatísticas",
+          "source": "https://play.google.com/store/apps/details?id=com.sokuma.dartlog&hl=pt_BR"
+        },
+        "pl": {
+          "name": "DartLog - Trening i wyniki",
+          "description": "Dotknij tarczy, aby zapisać rzut. Sprawdzaj wyniki, trafienia i postępy.",
+          "source": "repository:dartlog/lib/l10n/app_pl.arb"
+        }
+      },
+      "verifiedAppLocales": {
+        "androidCode": [
+          "de",
+          "en",
+          "en-GB",
+          "es",
+          "fr",
+          "it",
+          "ja",
+          "ko",
+          "nl",
+          "pl",
+          "pt",
+          "zh",
+          "zh-Hans",
+          "zh-Hant"
+        ],
+        "iosPublished": []
+      },
+      "descriptionLocaleSource": "Existing app/sibling copy or official store listing for a verified app language; Google may automatically translate store text. Missing language falls back to English."
+    },
+    {
+      "id": "batting-log",
+      "aliases": [
+        "com.sokuma.battinglogapp",
+        "batting_log",
+        "batting",
+        "batting_log_app"
+      ],
+      "category": "BASEBALL",
+      "icon": "assets/batting-log/icon.webp",
+      "screenshots": {
+        "en": {
+          "paths": [
+            "assets/batting-log/screen-1.webp",
+            "assets/batting-log/screen-2.webp"
+          ],
+          "language": "en",
+          "source": "https://play.google.com/store/apps/details?id=com.sokuma.battinglogapp&hl=en"
+        },
+        "ja": {
+          "paths": [
+            "assets/batting-log/ja/screen-1.webp",
+            "assets/batting-log/ja/screen-2.webp"
+          ],
+          "language": "ja",
+          "source": "https://play.google.com/store/apps/details?id=com.sokuma.battinglogapp&hl=ja"
+        }
+      },
+      "stores": {
+        "android": "https://play.google.com/store/apps/details?id=com.sokuma.battinglogapp",
+        "ios": "https://apps.apple.com/app/id6761696678"
+      },
+      "copy": {
+        "ja": {
+          "name": "野球打率ノート - 試合記録・打撃成績管理",
+          "description": "打席を記録して、打率や成績の変化を振り返ろう。"
+        },
+        "en": {
+          "name": "Baseball Batting Log & Stats",
+          "description": "Log at-bats and practice; auto-track AVG, OPS, OBP, SLG, spray charts & trends."
+        },
+        "es": {
+          "name": "Registro de Bateo",
+          "description": "Registra tus turnos al bate y revisa tus estadísticas."
+        },
+        "ko": {
+          "name": "타격 기록",
+          "description": "타석을 기록하고 타율과 성적 변화를 확인하세요."
+        },
+        "zh-TW": {
+          "name": "打擊紀錄",
+          "description": "記錄打席，回顧打擊率與成績變化。"
+        },
+        "en-GB": {
+          "name": "Baseball Batting Log & Stats",
+          "description": "Log at-bats and practice; auto-track AVG, OPS, OBP, SLG, spray charts & trends."
+        },
+        "zh-CN": {
+          "name": "Baseball Batting Log & Stats",
+          "description": "记录击球和练习情况；自动跟踪平均击球率、OPS、上垒率、长打率、击球分布图和趋势。",
+          "source": "https://play.google.com/store/apps/details?id=com.sokuma.battinglogapp&hl=zh_CN"
+        }
+      },
+      "verifiedAppLocales": {
+        "androidCode": [
+          "en",
+          "es",
+          "es-419",
+          "ja",
+          "ko",
+          "zh",
+          "zh-TW"
+        ],
+        "iosPublished": [
+          "EN",
+          "JA",
+          "KO",
+          "ZH",
+          "ES",
+          "ZH"
+        ]
+      },
+      "descriptionLocaleSource": "Existing app/sibling copy or official store listing for a verified app language; Google may automatically translate store text. Missing language falls back to English."
+    },
+    {
+      "id": "baseball-order",
+      "aliases": [
+        "com.sokuma.baseballordermaker",
+        "baseball_order",
+        "baseball_order_maker"
+      ],
+      "category": "BASEBALL",
+      "icon": "assets/baseball-order/icon.webp",
+      "screenshots": {
+        "en": {
+          "paths": [
+            "assets/baseball-order/screen-1.webp",
+            "assets/baseball-order/screen-2.webp"
+          ],
+          "language": "en",
+          "source": "https://play.google.com/store/apps/details?id=com.sokuma.baseballordermaker&hl=en"
+        },
+        "ja": {
+          "paths": [
+            "assets/baseball-order/ja/screen-1.webp",
+            "assets/baseball-order/ja/screen-2.webp"
+          ],
+          "language": "ja",
+          "source": "https://play.google.com/store/apps/details?id=com.sokuma.baseballordermaker&hl=ja"
+        }
+      },
+      "stores": {
+        "android": "https://play.google.com/store/apps/details?id=com.sokuma.baseballordermaker",
+        "ios": "https://apps.apple.com/app/id6754637753"
+      },
+      "copy": {
+        "ja": {
+          "name": "野球オーダー表",
+          "description": "打順・スタメン表をすばやく作成して共有できます"
+        },
+        "en": {
+          "name": "Baseball Lineup Maker",
+          "description": "Quickly build and share lineup cards and batting orders."
+        },
+        "es": {
+          "name": "Creador de lineups de béisbol",
+          "description": "Crea y comparte rápidamente tarjetas de lineup y órdenes al bate."
+        },
+        "ko": {
+          "name": "야구 라인업 메이커",
+          "description": "라인업 카드와 타순을 빠르게 만들고 공유합니다."
+        },
+        "zh-TW": {
+          "name": "棒球打序製作器",
+          "description": "快速建立並分享先發名單與打序表。"
+        },
+        "en-GB": {
+          "name": "Baseball Lineup Maker",
+          "description": "Quickly build and share lineup cards and batting orders."
+        },
+        "zh-CN": {
+          "name": "Baseball Lineup Maker",
+          "description": "快速创建阵容、管理名单、检查位置并分享清晰的图片。",
+          "source": "https://play.google.com/store/apps/details?id=com.sokuma.baseballordermaker&hl=zh_CN"
+        }
+      },
+      "verifiedAppLocales": {
+        "androidCode": [
+          "en",
+          "es",
+          "ja",
+          "ko",
+          "zh",
+          "zh-TW"
+        ],
+        "iosPublished": [
+          "EN",
+          "JA",
+          "KO",
+          "ES",
+          "ZH"
+        ]
+      },
+      "descriptionLocaleSource": "Existing app/sibling copy or official store listing for a verified app language; Google may automatically translate store text. Missing language falls back to English."
+    },
+    {
+      "id": "starting-xi",
+      "aliases": [
+        "com.sokuma.soccerlineupboard",
+        "starting_xi",
+        "soccer_lineup_board",
+        "soccer-lineup"
+      ],
+      "category": "FOOTBALL",
+      "icon": "assets/starting-xi/icon.webp",
+      "screenshots": {
+        "en": {
+          "paths": [
+            "assets/starting-xi/screen-1.webp",
+            "assets/starting-xi/screen-2.webp"
+          ],
+          "language": "en",
+          "source": "https://play.google.com/store/apps/details?id=com.sokuma.soccerlineupboard&hl=en"
+        },
+        "ja": {
+          "paths": [
+            "assets/starting-xi/ja/screen-1.webp",
+            "assets/starting-xi/ja/screen-2.webp"
+          ],
+          "language": "ja",
+          "source": "https://play.google.com/store/apps/details?id=com.sokuma.soccerlineupboard&hl=ja"
+        }
+      },
+      "stores": {
+        "android": "https://play.google.com/store/apps/details?id=com.sokuma.soccerlineupboard",
+        "ios": "https://apps.apple.com/app/id6768674146"
+      },
+      "copy": {
+        "ja": {
+          "name": "サッカーフォーメーションボード",
+          "description": "スタメン表や戦術ボードを作成し、見やすい画像でかんたん共有。",
+          "source": "repository:soccer_lineup_board/release_notes/2.4.0/store_text.md#ja"
+        },
+        "en": {
+          "name": "Soccer Lineup: Starting XI",
+          "description": "Create soccer lineups and tactics boards, then share them as images.",
+          "source": "repository:soccer_lineup_board/release_notes/2.4.0/store_text.md#en-US"
+        },
+        "es": {
+          "name": "Pizarra de Alineación de Fútbol",
+          "description": "Arma tu alineación y pizarra táctica de fútbol 7, 9 y 11. Comparte como imagen.",
+          "source": "repository:soccer_lineup_board/release_notes/2.4.0/store_text.md#es-419"
+        },
+        "ko": {
+          "name": "축구 라인업 보드",
+          "description": "축구 라인업과 전술 보드를 만들고 이미지로 공유하세요.",
+          "source": "repository:soccer_lineup_board/release_notes/2.4.0/store_text.md#ko"
+        },
+        "zh-TW": {
+          "name": "足球陣型板",
+          "description": "建立足球陣容與戰術板，並以圖片分享。",
+          "source": "repository:soccer_lineup_board/release_notes/2.4.0/store_text.md#zh-Hant"
+        },
+        "en-GB": {
+          "name": "Soccer Lineup: Starting XI",
+          "description": "Create soccer lineups and tactics boards, then share them as images.",
+          "source": "repository:soccer_lineup_board/release_notes/2.4.0/store_text.md#en-US"
+        },
+        "zh-CN": {
+          "name": "足球阵容与战术",
+          "description": "创建足球阵容和战术板，并以图片分享。",
+          "source": "repository:soccer_lineup_board/release_notes/2.4.0/store_text.md#zh-Hans"
+        },
+        "de": {
+          "name": "Fußball Aufstellung & Taktik",
+          "description": "Erstelle Aufstellungen und Taktiktafeln und teile sie als Bilder.",
+          "source": "repository:soccer_lineup_board/release_notes/2.4.0/store_text.md#de-DE"
+        },
+        "bn": {
+          "name": "ফুটবল লাইনআপ ও কৌশল",
+          "description": "ফুটবল লাইনআপ ও কৌশল বোর্ড তৈরি করে ছবি হিসেবে শেয়ার করুন।",
+          "source": "repository:soccer_lineup_board/release_notes/2.4.0/store_text.md#bn"
+        },
+        "it": {
+          "name": "Formazioni Calcio e Tattica",
+          "description": "Crea formazioni e lavagne tattiche, poi condividile come immagini.",
+          "source": "repository:soccer_lineup_board/release_notes/2.4.0/store_text.md#it"
+        },
+        "pt": {
+          "name": "Escalação Futebol e Tática",
+          "description": "Monte escalações de futebol, society e futsal e compartilhe como imagem.",
+          "source": "repository:soccer_lineup_board/release_notes/2.4.0/store_text.md#pt-BR"
+        },
+        "fr": {
+          "name": "Compo Football & Tactique",
+          "description": "Créez compos et tableaux tactiques, puis partagez-les en images.",
+          "source": "repository:soccer_lineup_board/release_notes/2.4.0/store_text.md#fr-FR"
+        },
+        "pt-BR": {
+          "name": "Escalação Futebol e Tática",
+          "description": "Monte escalações de futebol, society e futsal e compartilhe como imagem.",
+          "source": "repository:soccer_lineup_board/release_notes/2.4.0/store_text.md#pt-BR"
+        },
+        "ar": {
+          "name": "تشكيلة كرة القدم والتكتيك",
+          "description": "أنشئ تشكيلات كرة القدم واللوحات التكتيكية وشاركها كصور.",
+          "source": "repository:soccer_lineup_board/release_notes/2.4.0/store_text.md#ar"
+        },
+        "tr": {
+          "name": "Futbol Kadrosu ve Taktik",
+          "description": "Futbol kadroları ve taktik tahtaları oluşturup görsel olarak paylaşın.",
+          "source": "repository:soccer_lineup_board/release_notes/2.4.0/store_text.md#tr"
+        },
+        "id": {
+          "name": "Susunan Pemain & Taktik",
+          "description": "Buat susunan pemain dan papan taktik, lalu bagikan sebagai gambar.",
+          "source": "repository:soccer_lineup_board/release_notes/2.4.0/store_text.md#id"
+        }
+      },
+      "verifiedAppLocales": {
+        "androidCode": [
+          "ar",
+          "bn",
+          "de",
+          "en",
+          "en-GB",
+          "es",
+          "fr",
+          "id",
+          "it",
+          "ja",
+          "ko",
+          "pt",
+          "pt-BR",
+          "tr",
+          "zh",
+          "zh-Hans",
+          "zh-Hant"
+        ],
+        "iosPublished": [
+          "EN",
+          "FR",
+          "DE",
+          "IT",
+          "JA",
+          "PT",
+          "ES"
+        ]
+      },
+      "descriptionLocaleSource": "Existing app/sibling copy or official store listing for a verified app language; Google may automatically translate store text. Missing language falls back to English."
+    },
+    {
+      "id": "motiontag",
+      "aliases": [
+        "com.sokuma.motiontag",
+        "motiontag",
+        "motion-tag",
+        "motion_tag"
+      ],
+      "category": "VIDEO ANALYSIS",
+      "icon": "assets/motiontag/icon.webp",
+      "screenshots": {
+        "en": {
+          "paths": [
+            "assets/motiontag/screen-1.webp",
+            "assets/motiontag/screen-2.webp"
+          ],
+          "language": "en",
+          "source": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag&hl=en"
+        },
+        "ja": {
+          "paths": [
+            "assets/motiontag/ja/screen-1.webp",
+            "assets/motiontag/ja/screen-2.webp"
+          ],
+          "language": "ja",
+          "source": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag&hl=ja"
+        }
+      },
+      "stores": {
+        "android": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag",
+        "ios": "https://apps.apple.com/app/id6796528948"
+      },
+      "copy": {
+        "ja": {
+          "name": "モーションタグ：フォーム動画分析",
+          "description": "動画比較やスロー再生でスポーツのフォームを分析できます"
+        },
+        "en": {
+          "name": "MotionTagger: Video Form Coach",
+          "description": "Analyze sports technique with video comparison and slow motion."
+        },
+        "es": {
+          "name": "Motion Tag: análisis de vídeo de técnica",
+          "description": "Analiza la técnica deportiva comparando vídeos y con cámara lenta."
+        },
+        "ko": {
+          "name": "모션 태그: 폼 영상 분석",
+          "description": "영상 비교와 슬로 모션으로 스포츠 동작을 분석합니다."
+        },
+        "zh-TW": {
+          "name": "Motion Tag：動作影片分析",
+          "description": "透過影片比較與慢動作分析運動姿勢。"
+        },
+        "en-GB": {
+          "name": "MotionTagger: Video Form Coach",
+          "description": "Analyze sports technique with video comparison and slow motion."
+        },
+        "zh-CN": {
+          "name": "MotionTagger：动作视频分析",
+          "description": "录下运动训练，使用慢速播放、逐帧查看、区间循环、标注与双视频同步对比，分析姿势与动作；拍摄标记和训练记录也能集中整理，随时回顾进步。",
+          "source": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag&hl=zh_CN"
+        },
+        "de": {
+          "name": "MotionTagger: Bewegungsanalyse",
+          "description": "Training filmen, zwei Videos vergleichen und Bewegungen in Zeitlupe prüfen.",
+          "source": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag&hl=de"
+        },
+        "fr": {
+          "name": "MotionTagger : Analyse vidéo",
+          "description": "Filmez l'entraînement, comparez deux vidéos et analysez chaque geste au ralenti.",
+          "source": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag&hl=fr"
+        },
+        "it": {
+          "name": "MotionTagger: Analisi tecnica",
+          "description": "Registra l'allenamento, confronta due video e rivedi ogni gesto al rallentatore.",
+          "source": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag&hl=it"
+        },
+        "pt": {
+          "name": "MotionTagger: Análise técnica",
+          "description": "Grave o treino, compare dois vídeos e revise cada movimento em câmera lenta.",
+          "source": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag&hl=pt"
+        },
+        "pt-BR": {
+          "name": "MotionTagger: Análise técnica",
+          "description": "Grave o treino, compare dois vídeos e revise cada movimento em câmera lenta.",
+          "source": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag&hl=pt_BR"
+        },
+        "nl": {
+          "name": "MotionTagger: Bewegingsanalyse",
+          "description": "Film je training, vergelijk twee video's en bekijk elke beweging in slow motion.",
+          "source": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag&hl=nl"
+        }
+      },
+      "verifiedAppLocales": {
+        "androidCode": null,
+        "iosPublished": [
+          "NL",
+          "EN",
+          "FR",
+          "DE",
+          "IT",
+          "JA",
+          "KO",
+          "PT",
+          "ZH",
+          "ES",
+          "ZH"
+        ]
+      },
+      "descriptionLocaleSource": "Existing app/sibling copy or official store listing for a verified app language; Google may automatically translate store text. Missing language falls back to English."
+    }
+  ]
+}
