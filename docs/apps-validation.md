@@ -1,3 +1,11 @@
+# Apps showcase order correction — 2026-10-10
+
+Other apps now precede the source app in visual and accessible DOM order. The source appears once at the end for all five supported IDs. Unknown or missing sources retain the usual five-app list. The first other app gets eager screenshots; the source screenshots are lazy. Other-app numbering remains 01–04.
+
+Validation: 10 state tests and the static build passed. The strengthened Chrome browser checks passed all 360 combinations (5 source apps × 18 language choices × 320/390/768/1440px), including actual DOM order, numbering, image priority, unique cards, no horizontal overflow, malformed queries, language/history navigation, all-apps reset, and image loading. Japanese Starting XI/iOS screenshots were captured at 390px with all images decoded. The keyboard skip link received focus. No physical-device or screen-reader retest was performed for this correction.
+
+The checks below describe the original implementation and device work; they were not repeated on hardware for this correction.
+
 # Apps showcase validation
 
 Validated on 2026-10-08. The showcase is static HTML/CSS/JavaScript served at `/apps/` by the existing GitHub Pages main/root deployment. No mobile app source, account permissions, or hosting configuration was changed.
@@ -6,7 +14,7 @@ Validated on 2026-10-08. The showcase is static HTML/CSS/JavaScript served at `/
 
 - Existing 10 Node state tests passed: regional language fallback, stable IDs and aliases, malformed query input, OS store priority, allowed HTTPS store hosts, image/copy fallback, source separation, and translated headings.
 - Static build passed for 5 apps and 18 language/region choices. Runtime paths resolved under `/apps/`; all 43 unique CSS/JS/JSON/image references existed in source and build output.
-- Mac Chrome: 5 source apps × 18 choices × 320/390/768/1440px, 360 cases. Each valid source appears once above four distinct other apps, without source-card store buttons. Unknown/empty/malformed sources show the full collection.
+- Mac Chrome: 5 source apps × 18 choices × 320/390/768/1440px, 360 cases. Each valid source appears once after four distinct other apps, without source-card store buttons. Unknown/empty/malformed sources show the full collection.
 - Manual language changes preserve source/platform; Back/Forward follows the selected language. The all-apps link removes source only. Images, keyboard controls, reduced motion, and long copy were checked.
 - The decorative hero arrow was changed from a font glyph to an aria-hidden, non-focusable SVG after Safari showed a missing-glyph symbol in English/Arabic. Its rendering and absence of page overflow were rechecked in Chrome across Japanese/English/Arabic and the four widths.
 
