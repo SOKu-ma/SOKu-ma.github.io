@@ -25,7 +25,7 @@ SO-KUMA Labs の公式サイトを公開するための GitHub Pages リポジ�
 外部フォント・解析サービス・Cookie・個人情報収集は追加していません。
 
 一覧の見出しは「SO-KUMAのアプリ」。ジャンル共通の宣伝文は置かず、各カードを名前・具体的な用途の一文・実スクリーンショット・ストア導線の順に揃えています。
-紹介元カードはストアボタンを省き、画面を大きく表示。将来のアプリも同じデータ形式で追加できます。
+他アプリを先に紹介し、紹介元カードは末尾に1回だけ表示。紹介元カードはストアボタンを省き、画面を大きく表示。将来のアプリも同じデータ形式で追加できます。
 
 ### Local build / preview
 
@@ -83,7 +83,7 @@ Google Play の現地語説明は自動翻訳が含まれる場合があるた�
 
 例: `/apps/?from=batting-log&lang=ja&platform=android`
 
-- `from`: 紹介元のアプリを上部の「いま使っているアプリ」に表示し、その下に残りのアプリを重複なく紹介。固定IDは `dartlog` / `batting-log` / `baseball-order` / `starting-xi` / `motiontag`。
+- `from`: 残りの4アプリを先に紹介し、末尾の「いま使っているアプリ」に紹介元を1回だけ表示。表示・読み上げ・画像読み込みの優先順位も他アプリを先にする。固定IDは `dartlog` / `batting-log` / `baseball-order` / `starting-xi` / `motiontag`。
   Android package ID と `batting_log_app` / `baseball_order_maker` / `soccer_lineup_board` / `motion_tag` などの別名も認識。
   未知・空・不正値は紹介元欄を表示せず、通常の全一覧。複数値は先頭を使用。画面にクエリ文字列を描画しない。
 - `lang`: 指定した対応言語 → ブラウザの優先言語 → 英語の順。

@@ -12,7 +12,8 @@ const catalog=JSON.parse(fs.readFileSync(__dirname+'/../apps/catalog.json'));
    await page.locator('#source-card .app-card').waitFor();
    for(const lang of Object.keys(catalog.languages)){
     await page.selectOption('#language',lang);
-    const result=await page.evaluate(()=>({lang:document.documentElement.lang,source:document.querySelector('#source-card .app-card').id,others:[...document.querySelectorAll('#apps .app-card')].map(a=>a.id),unique:new Set([...document.querySelectorAll('.app-card')].map(a=>a.id)).size,sourceLinks:document.querySelectorAll('#source-card .store').length,overflow:document.documentElement.scrollWidth>innerWidth,query:location.search}));
+    const result=await page.evaluate(()=>({lang:document.documentElement.lang,source:document.querySelector('#source-card .app-card').id,others:[...document.querySelectorAll('#apps .app-card')].map(a=>a.id),order:[...document.querySelectorAll(".app-card")].map(a=>a.id),numbers:[...document.querySelectorAll("#apps .number")].map(a=>a.textContent),loading:[...document.querySelectorAll(".app-card")].map(a=>a.querySelector(".screen").loading),unique:new Set([...document.querySelectorAll('.app-card')].map(a=>a.id)).size,sourceLinks:document.querySelectorAll('#source-card .store').length,overflow:document.documentElement.scrollWidth>innerWidth,query:location.search}));
+    if(result.order.join()!==[...catalog.apps.filter(a=>a.id!==app.id).map(a=>a.id),app.id].join()||result.numbers.join()!=="01,02,03,04"||result.loading.join()!=="eager,lazy,lazy,lazy,lazy")throw Error("Order/number/loading "+JSON.stringify(result));
     if(result.lang!==lang||result.source!==app.id||result.others.includes(app.id)||result.others.length!==4||result.unique!==5||result.sourceLinks||result.overflow)throw Error(JSON.stringify(result));
     if(new URLSearchParams(result.query).get('platform')!=='android')throw Error('Lost platform');results.push({width,...result});
    }

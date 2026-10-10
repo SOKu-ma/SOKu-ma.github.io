@@ -19,7 +19,7 @@ try {
   document.querySelector('#count').textContent = format(ui.count, {n:visible.length});
   const container = document.querySelector('#apps'); const fragment = document.createDocumentFragment();
   const sourceFragment = document.createDocumentFragment();
-  const ordered = groups.source ? [groups.source, ...visible] : visible;
+  const ordered = groups.source ? [...visible, groups.source] : visible;
   for(const [index, app] of ordered.entries()) {
    const isSource = app.id === groups.source?.id;
    const copy = selectCopy(app.copy, state.lang);
@@ -29,7 +29,7 @@ try {
    const topline = node('div','app-topline');
    const icon = node('img','icon'); icon.src = app.icon; icon.alt = ''; icon.width=64; icon.height=64; icon.loading='lazy';
    topline.append(icon,node('span','category',ui.categories[app.category] || app.category));
-   if(!isSource)topline.append(node('span','number',String(groups.source ? index : index+1).padStart(2,'0')));
+   if(!isSource)topline.append(node('span','number',String(index+1).padStart(2,'0')));
    const title=node('h3',null,copy.name);title.dir='auto';const description=node('p','description',copy.description);description.dir='auto'; if(copy.fallback){description.lang='en';title.lang='en';} details.append(topline,title,description);if(copy.fallback)details.append(node('p','fallback-note',ui.copyFallback));
    const stores = node('div','stores');
    for(const [platform,url] of storeEntries(app.stores,state.platform)) {
