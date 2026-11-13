@@ -22,6 +22,6 @@ Validated on 2026-10-08. The showcase is static HTML/CSS/JavaScript served at `/
 
 - iPhone physical-device touch language selection, Back, orientation, and store taps need final user confirmation. Simulator input controls were unavailable through the computer-use surface.
 - VoiceOver/TalkBack, Android landscape, every store link tapped on hardware, each region's purchase/install availability, and native-speaker proofreading of every UI translation were not verified.
-- Store links and IDs were compared with official store data retrieved on 2026-10-07. DartLog has only the verified Google Play link; no unknown iOS listing is invented.
+- Store links and IDs were compared with official store data retrieved on 2026-10-07. DartLog had only the verified Google Play link at that time; its iOS link (id6809090345) was added on 2026-11-13 after the App Store listing was confirmed via the official lookup.
 
 Production HTTP/assets and representative query behavior must also be checked after deployment; local checks alone do not prove CDN delivery.
