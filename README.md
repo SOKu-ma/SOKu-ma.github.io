@@ -51,6 +51,10 @@ npm run preview
 
 新作追加はデータと画像だけで完結します。公開できないストア・画像は記載しないでください。
 DartLog の iOS リンクは、App Store 公開後の 2026-11-13 に公式ストア情報（id6809090345）で確認して追加しました。
+ストアボタンは Apple / Google の公式バッジで、`apps/assets/badges/app-store/<lang>.svg` と `apps/assets/badges/google-play/<lang>.png` に言語別に置いています（2026-11-13 取得）。
+出典は Apple が `toolbox.marketingtools.apple.com`（黒、英国英語は US-UK 共通版、アラビア語は `ar-ar`、ベンガル語は `bn-in`）、Google が `play.google.com/intl/en_us/badges/`（ポルトガル語は `pt`）。
+バッジは改変せず、Apple は高さ40px＋高さの1/4の余白、Google は PNG に含まれる余白ごと 54px で表示し、ページ下部に商標表記を置いています。
+言語を追加するときは両方のバッジを同じ名前で追加してください（なければ英語版になり、`npm test` / `npm run build` で検査されます）。
 `apps/sources.json` は今回の公式ストア照合記録（2026-10-07）です。更新時の出典記録に使えますが実行時のデータではありません。
 
 ### 翻訳

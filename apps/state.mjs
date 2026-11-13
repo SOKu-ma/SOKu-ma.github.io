@@ -20,6 +20,11 @@ export function resolveState(search, languages, catalog, browserLanguages = [], 
 export function storeEntries(stores, platform) {
   return Object.entries(stores).sort(([a], [b]) => (a === platform ? -1 : b === platform ? 1 : a === 'ios' ? -1 : 1));
 }
+export const BADGE_LANGUAGES = ['ja','en','es','ko','zh-TW','zh-CN','ar','bn','de','fr','id','it','pt','pt-BR','tr','nl','pl'];
+export function storeBadge(platform, lang) {
+  const badgeLang = BADGE_LANGUAGES.includes(lang) ? lang : 'en';
+  return platform === 'ios' ? `assets/badges/app-store/${badgeLang}.svg` : `assets/badges/google-play/${badgeLang}.png`;
+}
 export function safeStoreUrl(value) {
   try { const url = new URL(value); return url.protocol === 'https:' && ['apps.apple.com', 'play.google.com'].includes(url.hostname) ? url.href : null; } catch { return null; }
 }

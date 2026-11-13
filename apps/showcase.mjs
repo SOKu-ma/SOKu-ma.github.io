@@ -1,4 +1,4 @@
-import { resolveState, storeEntries, safeStoreUrl, selectScreenshots, selectCopy, groupApps } from './state.mjs';
+import { resolveState, storeEntries, storeBadge, safeStoreUrl, selectScreenshots, selectCopy, groupApps } from './state.mjs';
 const node = (tag, className, text) => { const element = document.createElement(tag); if(className) element.className = className; if(text) element.textContent = text; return element; };
 const format = (text, values) => text.replace(/\{(\w+)\}/g, (_, key) => values[key] ?? '');
 try {
@@ -35,7 +35,8 @@ try {
    for(const [platform,url] of storeEntries(app.stores,state.platform)) {
     const href = safeStoreUrl(url); if(!href) continue;
     const name = platform === 'ios' ? 'App Store' : 'Google Play';
-    const link = node('a',platform === state.platform ? 'store preferred' : 'store', name+' ↗'); link.href=href; link.setAttribute('aria-label',format(ui.store,{name:copy.name,store:name}));
+    const link = node('a',platform === 'ios' ? 'store store-ios' : 'store store-android'); link.href=href; link.setAttribute('aria-label',format(ui.store,{name:copy.name,store:name}));
+    const badge = node('img','badge'); badge.src = storeBadge(platform,state.lang); badge.alt = ''; badge.loading = 'lazy'; badge.decoding = 'async'; if(platform === 'ios'){badge.width=120;badge.height=40;}else{badge.width=140;badge.height=54;} link.append(badge);
     stores.append(link);
    }
 
