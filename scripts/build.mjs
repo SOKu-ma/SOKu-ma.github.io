@@ -7,6 +7,8 @@ for(const app of catalog.apps){
  for(const lang of ['en',...Object.keys(app.copy)]) if(!app.copy[lang]?.name || !app.copy[lang]?.description) throw new Error(`Missing ${app.id}/${lang}`);
  for(const url of Object.values(app.stores)){const parsed=new URL(url);if(parsed.protocol!=='https:'||!['apps.apple.com','play.google.com'].includes(parsed.hostname))throw new Error('Invalid store URL');}
 }
+const {storeBadge}=await import('../apps/state.mjs');
+for(const lang of Object.keys(catalog.languages))for(const platform of ['ios','android'])await stat('apps/'+storeBadge(platform,lang));
 await rm('dist',{recursive:true,force:true});await mkdir('dist');
 for(const path of ['index.html','styles.css','favicon.svg','CNAME','privacy','support','apps']) await cp(path,'dist/'+path,{recursive:true});
 console.log(`Static build verified: ${catalog.apps.length} apps / ${Object.keys(catalog.languages).length} languages`);
