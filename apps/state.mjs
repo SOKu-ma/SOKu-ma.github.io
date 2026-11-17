@@ -29,9 +29,10 @@ export function safeStoreUrl(value) {
   try { const url = new URL(value); return url.protocol === 'https:' && ['apps.apple.com', 'play.google.com'].includes(url.hostname) ? url.href : null; } catch { return null; }
 }
 
-export function selectScreenshots(screenshots, lang) {
+export function selectScreenshots(screenshots = {}, lang) {
  const base=lang.split('-')[0];
  const selected=screenshots[lang] || screenshots[base] || screenshots.en;
+ if (!selected) return null;
  return {...selected, fallback:selected.language.split('-')[0] !== base || (base === 'zh' && selected.language !== lang)};
 }
 export function selectCopy(copy, lang) {
@@ -42,4 +43,11 @@ export function selectCopy(copy, lang) {
 export function groupApps(apps, sourceId) {
  const source = apps.find(app => app.id === sourceId) || null;
  return {source, others: source ? apps.filter(app => app.id !== source.id) : apps};
+}
+
+export function categoriesOf(apps) {
+ return [...new Set(apps.map(app => app.category))];
+}
+export function platformsOf(stores) {
+ return ['ios', 'android'].filter(platform => safeStoreUrl(stores?.[platform] || ''));
 }

@@ -21,7 +21,7 @@
   },
   "ui": {
     "ja": {
-      "title": "SO-KUMAのアプリ",
+      "title": "スポーツの記録と上達を、もっと手軽に。",
       "collection": "アプリ一覧",
       "language": "言語",
       "explore": "アプリを見る",
@@ -40,15 +40,19 @@
         "DARTS": "ダーツ",
         "BASEBALL": "野球",
         "FOOTBALL": "サッカー",
-        "VIDEO ANALYSIS": "動画分析"
+        "VIDEO ANALYSIS": "動画分析",
+        "BOWLING": "ボウリング"
       },
       "imageFallback": "この言語の画像がないため、英語の画像を表示しています。",
       "copyFallback": "この言語の紹介文がないため、英語を表示しています。",
       "sourceHeading": "いま使っているアプリ",
-      "otherApps": "その他のアプリ"
+      "otherApps": "その他のアプリ",
+      "eyebrow": "SO-KUMA Labs のアプリ",
+      "intro": "SO-KUMA Labs は、ダーツ・野球・サッカー・ボウリングなど、スポーツの記録や練習の振り返りに使えるスマートフォンアプリを開発しています。",
+      "filterAll": "すべて"
     },
     "en": {
-      "title": "SO-KUMA Apps",
+      "title": "Simple apps for tracking and improving at your sport.",
       "collection": "All apps",
       "language": "Language",
       "explore": "Explore the apps",
@@ -67,15 +71,19 @@
         "DARTS": "DARTS",
         "BASEBALL": "BASEBALL",
         "FOOTBALL": "FOOTBALL",
-        "VIDEO ANALYSIS": "VIDEO ANALYSIS"
+        "VIDEO ANALYSIS": "VIDEO ANALYSIS",
+        "BOWLING": "BOWLING"
       },
       "imageFallback": "English images: localized previews unavailable.",
       "copyFallback": "English description: translation unavailable.",
       "sourceHeading": "Your app",
-      "otherApps": "Other apps"
+      "otherApps": "Other apps",
+      "eyebrow": "Apps by SO-KUMA Labs",
+      "intro": "SO-KUMA Labs makes smartphone apps for logging and reviewing your practice in darts, baseball, soccer, bowling and more.",
+      "filterAll": "All"
     },
     "es": {
-      "title": "Aplicaciones de SO-KUMA",
+      "title": "Apps sencillas para registrar y mejorar en tu deporte.",
       "collection": "Colección de apps",
       "language": "Idioma",
       "explore": "Explorar las apps",
@@ -94,15 +102,19 @@
         "DARTS": "DARDOS",
         "BASEBALL": "BÉISBOL",
         "FOOTBALL": "FÚTBOL",
-        "VIDEO ANALYSIS": "ANÁLISIS DE VÍDEO"
+        "VIDEO ANALYSIS": "ANÁLISIS DE VÍDEO",
+        "BOWLING": "BOLOS"
       },
       "imageFallback": "Imágenes en inglés: no hay vistas localizadas.",
       "copyFallback": "Descripción en inglés: traducción no disponible.",
       "sourceHeading": "Tu app",
-      "otherApps": "Otras aplicaciones"
+      "otherApps": "Otras aplicaciones",
+      "eyebrow": "Apps de SO-KUMA Labs",
+      "intro": "SO-KUMA Labs crea apps para smartphone para registrar y repasar tu práctica de dardos, béisbol, fútbol, bolos y más.",
+      "filterAll": "Todas"
     },
     "ko": {
-      "title": "SO-KUMA 앱",
+      "title": "내 스포츠를 기록하고 실력을 키우는 간편한 앱.",
       "collection": "앱 컬렉션",
       "language": "언어",
       "explore": "앱 둘러보기",
@@ -121,15 +133,19 @@
         "DARTS": "다트",
         "BASEBALL": "야구",
         "FOOTBALL": "축구",
-        "VIDEO ANALYSIS": "영상 분석"
+        "VIDEO ANALYSIS": "영상 분석",
+        "BOWLING": "볼링"
       },
       "imageFallback": "번역된 이미지가 없어 영어 이미지를 표시합니다.",
       "copyFallback": "번역된 소개가 없어 영어로 표시합니다.",
       "sourceHeading": "사용 중인 앱",
-      "otherApps": "다른 앱"
+      "otherApps": "다른 앱",
+      "eyebrow": "SO-KUMA Labs의 앱",
+      "intro": "SO-KUMA Labs는 다트, 야구, 축구, 볼링 등 스포츠 기록과 연습 복기에 쓰는 스마트폰 앱을 만듭니다.",
+      "filterAll": "전체"
     },
     "zh-TW": {
-      "title": "SO-KUMA 的應用程式",
+      "title": "輕鬆記錄運動、持續進步的 App。",
       "collection": "應用程式精選",
       "language": "語言",
       "explore": "探索應用程式",
@@ -148,15 +164,19 @@
         "DARTS": "飛鏢",
         "BASEBALL": "棒球",
         "FOOTBALL": "足球",
-        "VIDEO ANALYSIS": "影片分析"
+        "VIDEO ANALYSIS": "影片分析",
+        "BOWLING": "保齡球"
       },
       "imageFallback": "此語言的圖片尚未提供，因此顯示英文圖片。",
       "copyFallback": "此語言的介紹尚未提供，因此顯示英文。",
       "sourceHeading": "您正在使用的應用程式",
-      "otherApps": "其他應用程式"
+      "otherApps": "其他應用程式",
+      "eyebrow": "SO-KUMA Labs 的應用程式",
+      "intro": "SO-KUMA Labs 開發可用於記錄與回顧飛鏢、棒球、足球、保齡球等運動練習的手機應用程式。",
+      "filterAll": "全部"
     },
     "de": {
-      "title": "Apps von SO-KUMA",
+      "title": "Einfache Apps, um deinen Sport festzuhalten und besser zu werden.",
       "collection": "Die App-Sammlung",
       "language": "Sprache",
       "explore": "Apps entdecken",
@@ -177,13 +197,17 @@
         "DARTS": "DARTS",
         "BASEBALL": "BASEBALL",
         "FOOTBALL": "FUSSBALL",
-        "VIDEO ANALYSIS": "VIDEOANALYSE"
+        "VIDEO ANALYSIS": "VIDEOANALYSE",
+        "BOWLING": "BOWLING"
       },
       "sourceHeading": "Deine App",
-      "otherApps": "Weitere Apps"
+      "otherApps": "Weitere Apps",
+      "eyebrow": "Apps von SO-KUMA Labs",
+      "intro": "SO-KUMA Labs entwickelt Smartphone-Apps, mit denen du dein Training in Darts, Baseball, Fußball, Bowling und mehr festhältst und auswertest.",
+      "filterAll": "Alle"
     },
     "fr": {
-      "title": "Les applications SO-KUMA",
+      "title": "Des apps simples pour suivre votre sport et progresser.",
       "collection": "La collection d’apps",
       "language": "Langue",
       "explore": "Découvrir les apps",
@@ -204,13 +228,17 @@
         "DARTS": "FLÉCHETTES",
         "BASEBALL": "BASEBALL",
         "FOOTBALL": "FOOTBALL",
-        "VIDEO ANALYSIS": "ANALYSE VIDÉO"
+        "VIDEO ANALYSIS": "ANALYSE VIDÉO",
+        "BOWLING": "BOWLING"
       },
       "sourceHeading": "Votre app",
-      "otherApps": "D’autres applications"
+      "otherApps": "D’autres applications",
+      "eyebrow": "Les apps de SO-KUMA Labs",
+      "intro": "SO-KUMA Labs crée des applications mobiles pour enregistrer et analyser votre pratique des fléchettes, du baseball, du football, du bowling et plus encore.",
+      "filterAll": "Toutes"
     },
     "it": {
-      "title": "Le app di SO-KUMA",
+      "title": "App semplici per registrare il tuo sport e migliorare.",
       "collection": "La raccolta di app",
       "language": "Lingua",
       "explore": "Esplora le app",
@@ -231,13 +259,17 @@
         "DARTS": "FRECCETTE",
         "BASEBALL": "BASEBALL",
         "FOOTBALL": "CALCIO",
-        "VIDEO ANALYSIS": "ANALISI VIDEO"
+        "VIDEO ANALYSIS": "ANALISI VIDEO",
+        "BOWLING": "BOWLING"
       },
       "sourceHeading": "La tua app",
-      "otherApps": "Altre app"
+      "otherApps": "Altre app",
+      "eyebrow": "Le app di SO-KUMA Labs",
+      "intro": "SO-KUMA Labs crea app per smartphone per registrare e rivedere i tuoi allenamenti di freccette, baseball, calcio, bowling e altro.",
+      "filterAll": "Tutte"
     },
     "pt": {
-      "title": "Aplicações SO-KUMA",
+      "title": "Apps simples para registar o seu desporto e evoluir.",
       "collection": "Coleção de aplicações",
       "language": "Idioma",
       "explore": "Explorar aplicações",
@@ -258,13 +290,17 @@
         "DARTS": "DARDOS",
         "BASEBALL": "BASEBOL",
         "FOOTBALL": "FUTEBOL",
-        "VIDEO ANALYSIS": "ANÁLISE DE VÍDEO"
+        "VIDEO ANALYSIS": "ANÁLISE DE VÍDEO",
+        "BOWLING": "BOWLING"
       },
       "sourceHeading": "A sua aplicação",
-      "otherApps": "Outras aplicações"
+      "otherApps": "Outras aplicações",
+      "eyebrow": "Apps da SO-KUMA Labs",
+      "intro": "A SO-KUMA Labs cria apps para smartphone para registar e rever o seu treino de dardos, basebol, futebol, bowling e muito mais.",
+      "filterAll": "Todas"
     },
     "pt-BR": {
-      "title": "Apps da SO-KUMA",
+      "title": "Apps simples para registrar seu esporte e evoluir.",
       "collection": "Coleção de apps",
       "language": "Idioma",
       "explore": "Explorar os apps",
@@ -285,13 +321,17 @@
         "DARTS": "DARDOS",
         "BASEBALL": "BEISEBOL",
         "FOOTBALL": "FUTEBOL",
-        "VIDEO ANALYSIS": "ANÁLISE DE VÍDEO"
+        "VIDEO ANALYSIS": "ANÁLISE DE VÍDEO",
+        "BOWLING": "BOLICHE"
       },
       "sourceHeading": "Seu app",
-      "otherApps": "Outros apps"
+      "otherApps": "Outros apps",
+      "eyebrow": "Apps da SO-KUMA Labs",
+      "intro": "A SO-KUMA Labs cria apps para celular para registrar e revisar seu treino de dardos, beisebol, futebol, boliche e muito mais.",
+      "filterAll": "Todos"
     },
     "zh-CN": {
-      "title": "SO-KUMA 的应用",
+      "title": "轻松记录运动、持续进步的应用。",
       "collection": "应用精选",
       "language": "语言",
       "explore": "探索应用",
@@ -312,13 +352,17 @@
         "DARTS": "飞镖",
         "BASEBALL": "棒球",
         "FOOTBALL": "足球",
-        "VIDEO ANALYSIS": "视频分析"
+        "VIDEO ANALYSIS": "视频分析",
+        "BOWLING": "保龄球"
       },
       "sourceHeading": "您正在使用的应用",
-      "otherApps": "其他应用"
+      "otherApps": "其他应用",
+      "eyebrow": "SO-KUMA Labs 的应用",
+      "intro": "SO-KUMA Labs 开发可用于记录和回顾飞镖、棒球、足球、保龄球等运动练习的手机应用。",
+      "filterAll": "全部"
     },
     "ar": {
-      "title": "تطبيقات SO-KUMA",
+      "title": "تطبيقات بسيطة لتسجيل رياضتك والتحسّن فيها.",
       "collection": "مجموعة التطبيقات",
       "language": "اللغة",
       "explore": "استكشف التطبيقات",
@@ -339,13 +383,17 @@
         "DARTS": "رمي السهام",
         "BASEBALL": "البيسبول",
         "FOOTBALL": "كرة القدم",
-        "VIDEO ANALYSIS": "تحليل الفيديو"
+        "VIDEO ANALYSIS": "تحليل الفيديو",
+        "BOWLING": "البولينغ"
       },
       "sourceHeading": "تطبيقك",
-      "otherApps": "تطبيقات أخرى"
+      "otherApps": "تطبيقات أخرى",
+      "eyebrow": "تطبيقات SO-KUMA Labs",
+      "intro": "تطوّر SO-KUMA Labs تطبيقات للهواتف الذكية لتسجيل تدريبك ومراجعته في رمي السهام والبيسبول وكرة القدم والبولينغ وغيرها.",
+      "filterAll": "الكل"
     },
     "bn": {
-      "title": "SO-KUMA-এর অ্যাপ",
+      "title": "আপনার খেলা রেকর্ড করতে ও উন্নতি করতে সহজ অ্যাপ।",
       "collection": "অ্যাপ সংগ্রহ",
       "language": "ভাষা",
       "explore": "অ্যাপ দেখুন",
@@ -366,13 +414,17 @@
         "DARTS": "ডার্টস",
         "BASEBALL": "বেসবল",
         "FOOTBALL": "ফুটবল",
-        "VIDEO ANALYSIS": "ভিডিও বিশ্লেষণ"
+        "VIDEO ANALYSIS": "ভিডিও বিশ্লেষণ",
+        "BOWLING": "বোলিং"
       },
       "sourceHeading": "আপনার অ্যাপ",
-      "otherApps": "অন্যান্য অ্যাপ"
+      "otherApps": "অন্যান্য অ্যাপ",
+      "eyebrow": "SO-KUMA Labs-এর অ্যাপ",
+      "intro": "SO-KUMA Labs ডার্টস, বেসবল, ফুটবল, বোলিং ইত্যাদি খেলার অনুশীলন রেকর্ড ও পর্যালোচনার জন্য স্মার্টফোন অ্যাপ তৈরি করে।",
+      "filterAll": "সব"
     },
     "id": {
-      "title": "Aplikasi SO-KUMA",
+      "title": "Aplikasi sederhana untuk mencatat olahraga dan terus berkembang.",
       "collection": "Koleksi aplikasi",
       "language": "Bahasa",
       "explore": "Jelajahi aplikasi",
@@ -393,13 +445,17 @@
         "DARTS": "DART",
         "BASEBALL": "BISBOL",
         "FOOTBALL": "SEPAK BOLA",
-        "VIDEO ANALYSIS": "ANALISIS VIDEO"
+        "VIDEO ANALYSIS": "ANALISIS VIDEO",
+        "BOWLING": "BOWLING"
       },
       "sourceHeading": "Aplikasi Anda",
-      "otherApps": "Aplikasi lainnya"
+      "otherApps": "Aplikasi lainnya",
+      "eyebrow": "Aplikasi dari SO-KUMA Labs",
+      "intro": "SO-KUMA Labs membuat aplikasi ponsel untuk mencatat dan meninjau latihan dart, bisbol, sepak bola, bowling, dan lainnya.",
+      "filterAll": "Semua"
     },
     "tr": {
-      "title": "SO-KUMA uygulamaları",
+      "title": "Sporunu kaydetmen ve gelişmen için basit uygulamalar.",
       "collection": "Uygulama koleksiyonu",
       "language": "Dil",
       "explore": "Uygulamaları keşfet",
@@ -420,13 +476,17 @@
         "DARTS": "DART",
         "BASEBALL": "BEYZBOL",
         "FOOTBALL": "FUTBOL",
-        "VIDEO ANALYSIS": "VİDEO ANALİZİ"
+        "VIDEO ANALYSIS": "VİDEO ANALİZİ",
+        "BOWLING": "BOWLING"
       },
       "sourceHeading": "Uygulamanız",
-      "otherApps": "Diğer uygulamalar"
+      "otherApps": "Diğer uygulamalar",
+      "eyebrow": "SO-KUMA Labs uygulamaları",
+      "intro": "SO-KUMA Labs; dart, beyzbol, futbol, bowling ve daha fazlasında antrenmanını kaydetmen ve gözden geçirmen için akıllı telefon uygulamaları geliştirir.",
+      "filterAll": "Tümü"
     },
     "nl": {
-      "title": "Apps van SO-KUMA",
+      "title": "Eenvoudige apps om je sport bij te houden en beter te worden.",
       "collection": "De appcollectie",
       "language": "Taal",
       "explore": "Ontdek de apps",
@@ -447,13 +507,17 @@
         "DARTS": "DARTS",
         "BASEBALL": "HONKBAL",
         "FOOTBALL": "VOETBAL",
-        "VIDEO ANALYSIS": "VIDEOANALYSE"
+        "VIDEO ANALYSIS": "VIDEOANALYSE",
+        "BOWLING": "BOWLING"
       },
       "sourceHeading": "Jouw app",
-      "otherApps": "Andere apps"
+      "otherApps": "Andere apps",
+      "eyebrow": "Apps van SO-KUMA Labs",
+      "intro": "SO-KUMA Labs maakt smartphone-apps om je training in darts, honkbal, voetbal, bowling en meer bij te houden en terug te kijken.",
+      "filterAll": "Alle"
     },
     "pl": {
-      "title": "Aplikacje SO-KUMA",
+      "title": "Proste aplikacje do zapisywania treningów i robienia postępów.",
       "collection": "Kolekcja aplikacji",
       "language": "Język",
       "explore": "Odkryj aplikacje",
@@ -474,13 +538,17 @@
         "DARTS": "DART",
         "BASEBALL": "BASEBALL",
         "FOOTBALL": "PIŁKA NOŻNA",
-        "VIDEO ANALYSIS": "ANALIZA WIDEO"
+        "VIDEO ANALYSIS": "ANALIZA WIDEO",
+        "BOWLING": "KRĘGLE"
       },
       "sourceHeading": "Twoja aplikacja",
-      "otherApps": "Inne aplikacje"
+      "otherApps": "Inne aplikacje",
+      "eyebrow": "Aplikacje SO-KUMA Labs",
+      "intro": "SO-KUMA Labs tworzy aplikacje na smartfony do zapisywania i analizowania treningów w darcie, baseballu, piłce nożnej, kręglach i nie tylko.",
+      "filterAll": "Wszystkie"
     },
     "en-GB": {
-      "title": "SO-KUMA Apps",
+      "title": "Simple apps for tracking and improving at your sport.",
       "collection": "All apps",
       "language": "Language",
       "explore": "Explore the apps",
@@ -501,10 +569,14 @@
         "DARTS": "DARTS",
         "BASEBALL": "BASEBALL",
         "FOOTBALL": "FOOTBALL",
-        "VIDEO ANALYSIS": "VIDEO ANALYSIS"
+        "VIDEO ANALYSIS": "VIDEO ANALYSIS",
+        "BOWLING": "BOWLING"
       },
       "sourceHeading": "Your app",
-      "otherApps": "Other apps"
+      "otherApps": "Other apps",
+      "eyebrow": "Apps by SO-KUMA Labs",
+      "intro": "SO-KUMA Labs makes smartphone apps for logging and reviewing your practice in darts, baseball, football, bowling and more.",
+      "filterAll": "All"
     }
   },
   "apps": [
@@ -1115,6 +1187,39 @@
         ]
       },
       "descriptionLocaleSource": "Existing app/sibling copy or official store listing for a verified app language; Google may automatically translate store text. Missing language falls back to English."
+    },
+    {
+      "id": "bowling-note",
+      "aliases": [
+        "com.sokuma.bowlingnote",
+        "bowling_note",
+        "bowlingnote"
+      ],
+      "category": "BOWLING",
+      "icon": "assets/bowling-note/icon.webp",
+      "stores": {
+        "android": "https://play.google.com/store/apps/details?id=com.sokuma.bowlingnote"
+      },
+      "copy": {
+        "ja": {
+          "name": "ボウリングノート",
+          "description": "スコア画面を撮るだけで記録し、アベレージやストライク率・スペア率を自動で集計できます。",
+          "source": "repository:bowling_note/release_notes/1.0.0/store_text.md#ja"
+        },
+        "en": {
+          "name": "Bowling Note - Score Tracker",
+          "description": "Snap the score screen to log each game, with your average, strikes and spares worked out.",
+          "source": "repository:bowling_note/release_notes/1.0.0/store_text.md#en-US"
+        }
+      },
+      "screenshots": {},
+      "verifiedAppLocales": {
+        "androidCode": [
+          "en",
+          "ja"
+        ]
+      },
+      "descriptionLocaleSource": "Store text source of truth in the app repository (Japanese primary, English US). Android only as of 2026-11-17; iOS link is added after the App Store listing is public. Other languages fall back to English."
     }
   ]
 }

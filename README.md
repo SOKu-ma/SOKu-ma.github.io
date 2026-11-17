@@ -24,8 +24,16 @@ SO-KUMA Labs の公式サイトを公開するための GitHub Pages リポジ�
 トップ・Privacy・Support の既存導線を維持し、ナビゲーションに Apps を追加しています。
 外部フォント・解析サービス・Cookie・個人情報収集は追加していません。
 
-一覧の見出しは「SO-KUMAのアプリ」。ジャンル共通の宣伝文は置かず、各カードを名前・具体的な用途の一文・実スクリーンショット・ストア導線の順に揃えています。
-紹介元カードはストアボタンを省き、画面を大きく表示。将来のアプリも同じデータ形式で追加できます。
+2026-11-17 にデザインを刷新しました。初めて来た人に「SO-KUMA」が何か伝わるよう、ヒーローに
+「スポーツの記録と上達を、もっと手軽に。」という見出しと、SO-KUMA Labs が何を作っているかの一文、全アプリのアイコンを置いています（文言は `catalog.json` の `ui.*.title` / `eyebrow` / `intro`）。
+一覧は同じ大きさのカードのグリッド（PC 3列・タブレット 2列・スマホ 1列）。各カードは実スクリーンショット → アイコン・名前・カテゴリ・対応OS → 用途の一文 → ストア導線の順です。
+カテゴリの絞り込みボタン（URLには残さない表示上の切替）、ダークモード、追従ヘッダーに対応しています。
+紹介元カードはストアボタンを省いて上部に横長で表示します。将来のアプリも同じデータ形式で追加できます。
+
+ボウリングノート（`bowling-note`）は 2026-11-17 時点で Android のみ公開のため、`stores` は `android` だけです。カードの対応OS表示とストアボタンも Google Play のみになります。
+アプリ側（`bowling_note/lib/app/app_links.dart`）は既に `/apps/?from=bowling-note` を開くので、紹介元表示がそのまま有効になります。
+公式ストアのスクリーンショットはまだ取り込んでいないため `screenshots` は空で、カードではアイコンを大きく表示しています。
+App Store 公開後は `stores.ios`（`https://apps.apple.com/app/id6832171984`）を、画像を用意したら `screenshots` を追加してください。
 
 ### Local build / preview
 
@@ -45,7 +53,7 @@ npm run preview
 ### 新しいアプリを追加する
 
 1. `apps/assets/<stable-id>/` に、公開用のアイコンと個人情報のないスクリーンショットを追加。
-2. `apps/catalog.json` の `apps` 配列に1件追加。`id` は変更しない固定ID、`aliases` は既存アプリから送られる識別子、`copy` は言語ごとの `name` / `description`、`stores` は確認済みの `ios` / `android` HTTPS URL。
+2. `apps/catalog.json` の `apps` 配列に1件追加（並び順がそのまま表示順）。`id` は変更しない固定ID、`aliases` は既存アプリから送られる識別子、`copy` は言語ごとの `name` / `description`、`stores` は確認済みの `ios` / `android` HTTPS URL（片方だけでも可）。`screenshots` は未用意なら `{}` にするとアイコン表示になります。新しいカテゴリは全言語の `ui.*.categories` にも追加。
 3. `icon` と `screenshots` は `apps/` からの相対パス。`category` は既存カテゴリか任意の表示文字列。
 4. `npm test` と `npm run build`、スマホ/PCプレビューを確認。紹介元アプリ側の一覧変更は不要。
 
