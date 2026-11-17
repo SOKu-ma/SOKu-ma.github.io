@@ -24,6 +24,61 @@ try {
   let activeCategory = null;
   let firstRender = true;
 
+  const ARROW = { prev: 'M15 5l-7 7 7 7', next: 'M9 5l7 7-7 7', close: 'M6 6l12 12M18 6 6 18' };
+  const arrowButton = (kind, label, onClick) => {
+    const button = node('button', `nav-button nav-${kind}`);
+    button.type = 'button';
+    button.setAttribute('aria-label', label);
+    button.innerHTML = `<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="${ARROW[kind]}" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
+    button.addEventListener('click', onClick);
+    return button;
+  };
+
+  // Full-screen viewer: every screenshot of one app, swipe / arrow keys / buttons, Esc to close.
+  const viewer = node('dialog', 'viewer');
+  const strip = node('div', 'viewer-strip');
+  const viewerCount = node('p', 'viewer-count');
+  viewerCount.setAttribute('aria-live', 'polite');
+  document.body.append(viewer);
+  let viewerIndex = 0;
+  const viewerSlides = () => [...strip.children];
+  const showSlide = (index, smooth = true) => {
+    const slides = viewerSlides();
+    viewerIndex = Math.max(0, Math.min(index, slides.length - 1));
+    strip.scrollTo({ left: slides[viewerIndex].offsetLeft - strip.offsetLeft, behavior: smooth ? 'smooth' : 'instant' });
+  };
+  strip.addEventListener('scroll', () => requestAnimationFrame(() => {
+    const slides = viewerSlides();
+    if (!slides.length) return;
+    viewerIndex = Math.round(strip.scrollLeft / strip.clientWidth);
+    viewerCount.textContent = `${viewerIndex + 1} / ${slides.length}`;
+    viewer.querySelector('.nav-prev').disabled = viewerIndex === 0;
+    viewer.querySelector('.nav-next').disabled = viewerIndex === slides.length - 1;
+  }), { passive: true });
+  viewer.addEventListener('keydown', event => {
+    if (event.key === 'ArrowRight') { event.preventDefault(); showSlide(viewerIndex + 1); }
+    if (event.key === 'ArrowLeft') { event.preventDefault(); showSlide(viewerIndex - 1); }
+  });
+  viewer.addEventListener('click', event => { if (event.target === viewer || event.target === strip || event.target.classList.contains('viewer-slide')) viewer.close(); });
+  viewer.addEventListener('close', () => { document.documentElement.classList.remove('viewer-open'); strip.replaceChildren(); });
+  const openViewer = (paths, alts, start, ui) => {
+    viewer.replaceChildren();
+    viewer.setAttribute('aria-label', ui.preview);
+    strip.replaceChildren(...paths.map((path, i) => {
+      const slide = node('div', 'viewer-slide');
+      const image = node('img');
+      image.src = path; image.alt = alts[i]; image.width = 640; image.height = 1138; image.decoding = 'async';
+      slide.append(image);
+      return slide;
+    }));
+    viewer.append(strip, arrowButton('prev', ui.previous, () => showSlide(viewerIndex - 1)), arrowButton('next', ui.next, () => showSlide(viewerIndex + 1)), arrowButton('close', ui.close, () => viewer.close()), viewerCount);
+    document.documentElement.classList.add('viewer-open');
+    viewer.showModal();
+    viewer.querySelector('.nav-close').focus();
+    showSlide(start, false);
+    strip.dispatchEvent(new Event('scroll'));
+  };
+
   const storeLinks = (app, copy, state, ui) => {
     const stores = node('div', 'stores');
     for (const [platform, url] of storeEntries(app.stores, state.platform)) {
@@ -61,18 +116,45 @@ try {
     gallery.tabIndex = 0;
     gallery.setAttribute('role', 'group');
     gallery.setAttribute('aria-label', `${copy.name} — ${ui.preview}`);
+    const alts = images.paths.map((_, i) => `${copy.name} — ${ui.preview} ${i + 1}`);
     for (const [i, path] of images.paths.entries()) {
+      const shot = node('button', 'shot');
+      shot.type = 'button';
+      shot.setAttribute('aria-label', `${alts[i]} — ${ui.enlarge}`);
+      shot.addEventListener('click', () => openViewer(images.paths, alts, i, ui));
       const image = node('img', 'screen');
       image.src = path;
-      image.alt = `${copy.name} — ${ui.preview} ${i + 1}`;
-      image.loading = eager ? 'eager' : 'lazy';
+      image.alt = '';
+      image.loading = eager && i < 2 ? 'eager' : 'lazy';
       image.decoding = 'async';
       image.width = 640; image.height = 1138;
-      gallery.append(image);
+      shot.append(image);
+      gallery.append(shot);
+    }
+    const frame = node('div', 'gallery-frame');
+    frame.append(gallery);
+    if (images.paths.length > 2) {
+      const step = direction => gallery.scrollBy({ left: direction * gallery.clientWidth, behavior: 'smooth' });
+      const prev = arrowButton('prev', ui.previous, () => step(-1));
+      const next = arrowButton('next', ui.next, () => step(1));
+      const counter = node('span', 'gallery-count');
+      const update = () => {
+        const max = gallery.scrollWidth - gallery.clientWidth - 2;
+        prev.disabled = gallery.scrollLeft <= 2;
+        next.disabled = gallery.scrollLeft >= max;
+        const first = gallery.querySelector('.shot');
+        const per = first ? Math.max(1, Math.round(gallery.clientWidth / first.getBoundingClientRect().width)) : 1;
+        const index = first ? Math.round(gallery.scrollLeft / (first.getBoundingClientRect().width + 14)) : 0;
+        counter.textContent = `${Math.min(index + per, images.paths.length)} / ${images.paths.length}`;
+      };
+      gallery.addEventListener('scroll', () => requestAnimationFrame(update), { passive: true });
+      addEventListener('resize', update);
+      requestAnimationFrame(update);
+      frame.append(prev, next, counter);
     }
     const caption = node('figcaption', null, format(ui.screens, { language: catalogLanguages[images.language] || images.language }));
     if (images.fallback) caption.append(node('span', 'fallback-note', ui.imageFallback));
-    figure.append(gallery, caption);
+    figure.append(frame, caption);
     return figure;
   };
 

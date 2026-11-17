@@ -49,7 +49,11 @@
       "otherApps": "その他のアプリ",
       "eyebrow": "SO-KUMA Labs のアプリ",
       "intro": "SO-KUMA Labs は、ダーツ・野球・サッカー・ボウリングなど、スポーツの記録や練習の振り返りに使えるスマートフォンアプリを開発しています。",
-      "filterAll": "すべて"
+      "filterAll": "すべて",
+      "previous": "前へ",
+      "next": "次へ",
+      "close": "閉じる",
+      "enlarge": "拡大して見る"
     },
     "en": {
       "title": "Simple apps for tracking and improving at your sport.",
@@ -80,7 +84,11 @@
       "otherApps": "Other apps",
       "eyebrow": "Apps by SO-KUMA Labs",
       "intro": "SO-KUMA Labs makes smartphone apps for logging and reviewing your practice in darts, baseball, soccer, bowling and more.",
-      "filterAll": "All"
+      "filterAll": "All",
+      "previous": "Previous",
+      "next": "Next",
+      "close": "Close",
+      "enlarge": "View larger"
     },
     "es": {
       "title": "Apps sencillas para registrar y mejorar en tu deporte.",
@@ -111,7 +119,11 @@
       "otherApps": "Otras aplicaciones",
       "eyebrow": "Apps de SO-KUMA Labs",
       "intro": "SO-KUMA Labs crea apps para smartphone para registrar y repasar tu práctica de dardos, béisbol, fútbol, bolos y más.",
-      "filterAll": "Todas"
+      "filterAll": "Todas",
+      "previous": "Anterior",
+      "next": "Siguiente",
+      "close": "Cerrar",
+      "enlarge": "Ver más grande"
     },
     "ko": {
       "title": "내 스포츠를 기록하고 실력을 키우는 간편한 앱.",
@@ -142,7 +154,11 @@
       "otherApps": "다른 앱",
       "eyebrow": "SO-KUMA Labs의 앱",
       "intro": "SO-KUMA Labs는 다트, 야구, 축구, 볼링 등 스포츠 기록과 연습 복기에 쓰는 스마트폰 앱을 만듭니다.",
-      "filterAll": "전체"
+      "filterAll": "전체",
+      "previous": "이전",
+      "next": "다음",
+      "close": "닫기",
+      "enlarge": "크게 보기"
     },
     "zh-TW": {
       "title": "輕鬆記錄運動、持續進步的 App。",
@@ -173,7 +189,11 @@
       "otherApps": "其他應用程式",
       "eyebrow": "SO-KUMA Labs 的應用程式",
       "intro": "SO-KUMA Labs 開發可用於記錄與回顧飛鏢、棒球、足球、保齡球等運動練習的手機應用程式。",
-      "filterAll": "全部"
+      "filterAll": "全部",
+      "previous": "上一張",
+      "next": "下一張",
+      "close": "關閉",
+      "enlarge": "放大檢視"
     },
     "de": {
       "title": "Einfache Apps, um deinen Sport festzuhalten und besser zu werden.",
@@ -204,7 +224,11 @@
       "otherApps": "Weitere Apps",
       "eyebrow": "Apps von SO-KUMA Labs",
       "intro": "SO-KUMA Labs entwickelt Smartphone-Apps, mit denen du dein Training in Darts, Baseball, Fußball, Bowling und mehr festhältst und auswertest.",
-      "filterAll": "Alle"
+      "filterAll": "Alle",
+      "previous": "Zurück",
+      "next": "Weiter",
+      "close": "Schließen",
+      "enlarge": "Größer anzeigen"
     },
     "fr": {
       "title": "Des apps simples pour suivre votre sport et progresser.",
@@ -235,7 +259,11 @@
       "otherApps": "D’autres applications",
       "eyebrow": "Les apps de SO-KUMA Labs",
       "intro": "SO-KUMA Labs crée des applications mobiles pour enregistrer et analyser votre pratique des fléchettes, du baseball, du football, du bowling et plus encore.",
-      "filterAll": "Toutes"
+      "filterAll": "Toutes",
+      "previous": "Précédent",
+      "next": "Suivant",
+      "close": "Fermer",
+      "enlarge": "Agrandir"
     },
     "it": {
       "title": "App semplici per registrare il tuo sport e migliorare.",
@@ -266,7 +294,11 @@
       "otherApps": "Altre app",
       "eyebrow": "Le app di SO-KUMA Labs",
       "intro": "SO-KUMA Labs crea app per smartphone per registrare e rivedere i tuoi allenamenti di freccette, baseball, calcio, bowling e altro.",
-      "filterAll": "Tutte"
+      "filterAll": "Tutte",
+      "previous": "Precedente",
+      "next": "Successiva",
+      "close": "Chiudi",
+      "enlarge": "Ingrandisci"
     },
     "pt": {
       "title": "Apps simples para registar o seu desporto e evoluir.",
@@ -297,7 +329,11 @@
       "otherApps": "Outras aplicações",
       "eyebrow": "Apps da SO-KUMA Labs",
       "intro": "A SO-KUMA Labs cria apps para smartphone para registar e rever o seu treino de dardos, basebol, futebol, bowling e muito mais.",
-      "filterAll": "Todas"
+      "filterAll": "Todas",
+      "previous": "Anterior",
+      "next": "Seguinte",
+      "close": "Fechar",
+      "enlarge": "Ver maior"
     },
     "pt-BR": {
       "title": "Apps simples para registrar seu esporte e evoluir.",
@@ -328,7 +364,11 @@
       "otherApps": "Outros apps",
       "eyebrow": "Apps da SO-KUMA Labs",
       "intro": "A SO-KUMA Labs cria apps para celular para registrar e revisar seu treino de dardos, beisebol, futebol, boliche e muito mais.",
-      "filterAll": "Todos"
+      "filterAll": "Todos",
+      "previous": "Anterior",
+      "next": "Próxima",
+      "close": "Fechar",
+      "enlarge": "Ver maior"
     },
     "zh-CN": {
       "title": "轻松记录运动、持续进步的应用。",
@@ -359,7 +399,11 @@
       "otherApps": "其他应用",
       "eyebrow": "SO-KUMA Labs 的应用",
       "intro": "SO-KUMA Labs 开发可用于记录和回顾飞镖、棒球、足球、保龄球等运动练习的手机应用。",
-      "filterAll": "全部"
+      "filterAll": "全部",
+      "previous": "上一张",
+      "next": "下一张",
+      "close": "关闭",
+      "enlarge": "放大查看"
     },
     "ar": {
       "title": "تطبيقات بسيطة لتسجيل رياضتك والتحسّن فيها.",
@@ -390,7 +434,11 @@
       "otherApps": "تطبيقات أخرى",
       "eyebrow": "تطبيقات SO-KUMA Labs",
       "intro": "تطوّر SO-KUMA Labs تطبيقات للهواتف الذكية لتسجيل تدريبك ومراجعته في رمي السهام والبيسبول وكرة القدم والبولينغ وغيرها.",
-      "filterAll": "الكل"
+      "filterAll": "الكل",
+      "previous": "السابق",
+      "next": "التالي",
+      "close": "إغلاق",
+      "enlarge": "عرض بحجم أكبر"
     },
     "bn": {
       "title": "আপনার খেলা রেকর্ড করতে ও উন্নতি করতে সহজ অ্যাপ।",
@@ -421,7 +469,11 @@
       "otherApps": "অন্যান্য অ্যাপ",
       "eyebrow": "SO-KUMA Labs-এর অ্যাপ",
       "intro": "SO-KUMA Labs ডার্টস, বেসবল, ফুটবল, বোলিং ইত্যাদি খেলার অনুশীলন রেকর্ড ও পর্যালোচনার জন্য স্মার্টফোন অ্যাপ তৈরি করে।",
-      "filterAll": "সব"
+      "filterAll": "সব",
+      "previous": "আগের",
+      "next": "পরের",
+      "close": "বন্ধ করুন",
+      "enlarge": "বড় করে দেখুন"
     },
     "id": {
       "title": "Aplikasi sederhana untuk mencatat olahraga dan terus berkembang.",
@@ -452,7 +504,11 @@
       "otherApps": "Aplikasi lainnya",
       "eyebrow": "Aplikasi dari SO-KUMA Labs",
       "intro": "SO-KUMA Labs membuat aplikasi ponsel untuk mencatat dan meninjau latihan dart, bisbol, sepak bola, bowling, dan lainnya.",
-      "filterAll": "Semua"
+      "filterAll": "Semua",
+      "previous": "Sebelumnya",
+      "next": "Berikutnya",
+      "close": "Tutup",
+      "enlarge": "Lihat lebih besar"
     },
     "tr": {
       "title": "Sporunu kaydetmen ve gelişmen için basit uygulamalar.",
@@ -483,7 +539,11 @@
       "otherApps": "Diğer uygulamalar",
       "eyebrow": "SO-KUMA Labs uygulamaları",
       "intro": "SO-KUMA Labs; dart, beyzbol, futbol, bowling ve daha fazlasında antrenmanını kaydetmen ve gözden geçirmen için akıllı telefon uygulamaları geliştirir.",
-      "filterAll": "Tümü"
+      "filterAll": "Tümü",
+      "previous": "Önceki",
+      "next": "Sonraki",
+      "close": "Kapat",
+      "enlarge": "Büyüt"
     },
     "nl": {
       "title": "Eenvoudige apps om je sport bij te houden en beter te worden.",
@@ -514,7 +574,11 @@
       "otherApps": "Andere apps",
       "eyebrow": "Apps van SO-KUMA Labs",
       "intro": "SO-KUMA Labs maakt smartphone-apps om je training in darts, honkbal, voetbal, bowling en meer bij te houden en terug te kijken.",
-      "filterAll": "Alle"
+      "filterAll": "Alle",
+      "previous": "Vorige",
+      "next": "Volgende",
+      "close": "Sluiten",
+      "enlarge": "Groter bekijken"
     },
     "pl": {
       "title": "Proste aplikacje do zapisywania treningów i robienia postępów.",
@@ -545,7 +609,11 @@
       "otherApps": "Inne aplikacje",
       "eyebrow": "Aplikacje SO-KUMA Labs",
       "intro": "SO-KUMA Labs tworzy aplikacje na smartfony do zapisywania i analizowania treningów w darcie, baseballu, piłce nożnej, kręglach i nie tylko.",
-      "filterAll": "Wszystkie"
+      "filterAll": "Wszystkie",
+      "previous": "Poprzedni",
+      "next": "Następny",
+      "close": "Zamknij",
+      "enlarge": "Powiększ"
     },
     "en-GB": {
       "title": "Simple apps for tracking and improving at your sport.",
@@ -576,7 +644,11 @@
       "otherApps": "Other apps",
       "eyebrow": "Apps by SO-KUMA Labs",
       "intro": "SO-KUMA Labs makes smartphone apps for logging and reviewing your practice in darts, baseball, football, bowling and more.",
-      "filterAll": "All"
+      "filterAll": "All",
+      "previous": "Previous",
+      "next": "Next",
+      "close": "Close",
+      "enlarge": "View larger"
     }
   },
   "apps": [
