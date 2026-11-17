@@ -1,86 +1,216 @@
 {
   "dartlog": {
-    "de": {
-      "assetLocale": "de",
+    "ja": {
+      "assetLocale": "ja",
       "urls": [
-        "https://play-lh.googleusercontent.com/nlu7bKg-gu-SH1M0rT8DeewoIq53I19PR-zpxedBy_PU8TxqKq6aglHkB8aBBzj6uPFfnnY8_MDUzAFl4a18Sgc",
-        "https://play-lh.googleusercontent.com/aR5FmYQ7yHNaN1UvDxlCVW6sOlMJC1D04jIYzdjvCUfMa9bTr9WwuLAkLlx9ybfo_HuJEm7FH9B4Dr3YfA2ijVY"
+        "https://play-lh.googleusercontent.com/2uGcVZDC_77hk71fiF--K0Nad412N2OI6DXpK7BcqGrPcCQfUJRP5SAeablDkNWSlJa8HJBHWSg97ckIPIqeBw",
+        "https://play-lh.googleusercontent.com/C29EcvBrM9J4kmx3YyE7Xfngqt_9-rVMtUwNjeVCCHnMMnhgBcuO0b4Ebgy5ggoNFJuu_vIg5Cn8FKMJHZ3R",
+        "https://play-lh.googleusercontent.com/rt0Voy-K2kOYnz4i5zSaorsJ4Arqn4-SPnXEX1ADEnAtpkls11s88ja4yg8CgziQPSsYIv5RA7GlgxFepZpAfM8",
+        "https://play-lh.googleusercontent.com/dlpHXjgGDnN8qKMSC4fxL1dGnnAr4mitiX1lXgiC0j4oQRanlB8MBbmRS9381EI_H5tPuG-aZ_Kt88TEUJx4Fg",
+        "https://play-lh.googleusercontent.com/QZjw8l-9si6CV3CsTQAptkBGy6tnvDFUU7zfM94kKB4LbBBAQWSC3PwXIJSu8pGgoUKOb7pd6vwwGCoalSLGPw",
+        "https://play-lh.googleusercontent.com/1VjGtjZHsQGKlvkY6eFuM6Y09vfKhrrmKvLSpdmUmBhCRKJpROlo6ChNh8Qqketxv-KA2PXTdlyluMhGEVH3yg",
+        "https://play-lh.googleusercontent.com/FjFtQDArXOJSCnBjm2hLSatBPOp8HtRlaqA1xuyt8t5i0ZgP9UDS4L1Ky-LOSuYRdl0BrzpsPincub27AHBLyHU",
+        "https://play-lh.googleusercontent.com/pR5us1KI60KKv6BdqNz1Wvo_u0gY_B4rOPzKOf_k67qx-HefTXvk77FzxHfviWqzdH0qhsSz6V6rzD44qwT9PXA"
       ],
-      "source": "https://play.google.com/store/apps/details?id=com.sokuma.dartlog&hl=de"
+      "source": "https://play.google.com/store/apps/details?id=com.sokuma.dartlog&hl=ja",
+      "retrieved": "2026-11-17"
+    },
+    "en": {
+      "assetLocale": "en",
+      "urls": [
+        "https://play-lh.googleusercontent.com/qBNKtSZ7LeKm_IY7QJfPalvjevBOAUz1MDRiU2XFMi8bGY0GBrsK54B3Xe9aPLwIKiLo-6sgOXZMg0TvPKmmZjk",
+        "https://play-lh.googleusercontent.com/dNXlXed1-UJM_0sE2xO3Z-6xYpWpzVL8hP7FnaaRj4cOxqEUNA2LfXvWJ8XsfFAik7cdlHhVXRVdg_mwvNHK",
+        "https://play-lh.googleusercontent.com/X1R-XjelaNUHvasOG8bqTX_VNhh4y45Z5_vY4PHtwGDg8B4yurXyijQcbtpU7T4YxSBdKkQCSCxIncxn_zoQrg",
+        "https://play-lh.googleusercontent.com/Wlb1f5KAPD68zUsu-juUYhHRZQ6i17wy1RCInUAorezkDZ5JGYiEcx3GN5aNHvbHSK8uGmBr-c4AHzyaaqaK",
+        "https://play-lh.googleusercontent.com/yBAB8_G9ei5jdRha0wR_DMw2qiIZLk4Fo8KUZatukl_JvCD0b3anWK77PBwYl6k6AXp2Ne8aZxBoReAVt-2l",
+        "https://play-lh.googleusercontent.com/imGJajoiD42jsUrjwhl6mt5ITSfngK03EPcELaqkG2EUwIuGuJ0nZuhwf4AcxLDUh21rCaREX5772R7-idOWzQ",
+        "https://play-lh.googleusercontent.com/03Z1x_rvJyOO7_v_q5hCZqqVrnRAjqo1EdJs7yVNr_ow6SahfCQo8oahKhWdgP9qSyHzqEoS6tJTejfje9G-o3M",
+        "https://play-lh.googleusercontent.com/mjPsUEBPlaHQItxAp5w8X2qaAWAcJhM2AA5UTB7k0CO5FGJBQRzVCzcN3xEjzhvtADLXW0DTEXCwl4YPp0QmzRk"
+      ],
+      "source": "https://play.google.com/store/apps/details?id=com.sokuma.dartlog&hl=en",
+      "retrieved": "2026-11-17"
     },
     "es": {
       "assetLocale": "es",
       "urls": [
         "https://play-lh.googleusercontent.com/Y7o-GLYtyYaUxSu0leRviaVKt3CXUaL42Qmj95-5fw9RNd0L2ZylZxmUy5Sc_3bTw-hjXS9pg9-oc4B2LM1FdC0",
-        "https://play-lh.googleusercontent.com/rCaMsG2EDRbEp2OMSfIJzFtkSH-sUwRebkzUu2KtgUfDaKUo439Vhtt72SyFDrVqArLQzk8hsUNXMk1f_Hgi"
+        "https://play-lh.googleusercontent.com/rCaMsG2EDRbEp2OMSfIJzFtkSH-sUwRebkzUu2KtgUfDaKUo439Vhtt72SyFDrVqArLQzk8hsUNXMk1f_Hgi",
+        "https://play-lh.googleusercontent.com/zz-PbSLBVwP_WHawr9Zh_tgwB0BwJbbxL0B_qyJtcYbOik4Av8XBP-56MRQCeovPkA0I2jpa1Woi7XEvVVH7Ag",
+        "https://play-lh.googleusercontent.com/pkueuioWJ_qLDFoKm8Fpre7pswFxZRvFPNyzS4XPGhlSSOb5RW83zAHSjWdAueuypNgPll6Jq6G2i1PPa3Lw",
+        "https://play-lh.googleusercontent.com/j26FrHlRxqAi1T14Reu_yqIifWQcKgzzF_XS88PrN1Ux7zCzavXox3JEe3sSm3GEjgi66iQAntsDuDEmxEYSQg",
+        "https://play-lh.googleusercontent.com/O2yl4GC8S0jeQzkeGiu_C_NFoknQhR0Ji6HBQVewjJBcsN4S7UolspKLxc2XeH2jiB5uwr-9n5j6S8-dBf1cBg",
+        "https://play-lh.googleusercontent.com/Pmgr-etrqWgbHnIymm84tOwmLyhioe0YzlSGH723VOnjR-8g1OlQUs0n_pdEKmtyMY0Q6ZtSZ1clGL_wIkfbT30",
+        "https://play-lh.googleusercontent.com/wmXCbxHHq0ooY85o6lJOsDLu2CNlVBI0OmRznw2jiIASHzpjbxFCsq_XRPS1Mx1SyzLOnwv_EZfpkEHxYJuxOd0"
       ],
-      "source": "https://play.google.com/store/apps/details?id=com.sokuma.dartlog&hl=es"
+      "source": "https://play.google.com/store/apps/details?id=com.sokuma.dartlog&hl=es",
+      "retrieved": "2026-11-17"
+    },
+    "de": {
+      "assetLocale": "de",
+      "urls": [
+        "https://play-lh.googleusercontent.com/nlu7bKg-gu-SH1M0rT8DeewoIq53I19PR-zpxedBy_PU8TxqKq6aglHkB8aBBzj6uPFfnnY8_MDUzAFl4a18Sgc",
+        "https://play-lh.googleusercontent.com/aR5FmYQ7yHNaN1UvDxlCVW6sOlMJC1D04jIYzdjvCUfMa9bTr9WwuLAkLlx9ybfo_HuJEm7FH9B4Dr3YfA2ijVY",
+        "https://play-lh.googleusercontent.com/bsSJRibnboc327THRhodL7W3Wl3BtDkC1tkViQOeY9nE00oZw__SQ09gfwDM-LrXHOtJMQPVH23i-hyXvfq-",
+        "https://play-lh.googleusercontent.com/6F2AGcGhjDu9EmfAp5el_OYfiXhp2vC2yMA78FYUsLaJvAtmhMZDMNNU9omayzw1FfCfZxQXfEtZp-XYR1NeeQ",
+        "https://play-lh.googleusercontent.com/8J1BbnFYrdtOo17T3iu42LY4uzaqmLWo_z2IqLmSCgHAihV5XFIFfz_xuvLBlo2QKYau_ZHFPd0lyV7Dls7y70A",
+        "https://play-lh.googleusercontent.com/Ya1nwDzDv6Um_Qgku92lgKSSbJoxrZ1ZxFzpiNjA8TsmjvrLQ6MiyaP6XL7kkfow4zx9rb1hSy1iB_bt4_ipnQ",
+        "https://play-lh.googleusercontent.com/onYB912IDlz3gOkFJC-4oCz8ucEIeNoi9hWilo7uIAzpjKqofY54UiBu2zmBFnBBsMWZr_swIQs23oKczMQ83Yg",
+        "https://play-lh.googleusercontent.com/dBKkOtd16EWJZH47UtFgb9_nGh8vnGVnJYhdWFueGaOUWz0Qi21lYJvuqwfBOpxZQT2WEZKdyU0-FnjMP5X8oQ"
+      ],
+      "source": "https://play.google.com/store/apps/details?id=com.sokuma.dartlog&hl=de",
+      "retrieved": "2026-11-17"
     },
     "fr": {
       "assetLocale": "fr",
       "urls": [
         "https://play-lh.googleusercontent.com/h6b2gnStu9kyMkAD1nmUpkzZkZBO1oXSAdDsykTSsa4wDgkzu3QeIaJ5SBXGtnIXlSUgRutJZW1faVNvd2Om",
-        "https://play-lh.googleusercontent.com/Z_yC97Pj2SvaQan7Hs9t9k3h85pCXRhHMRBa9l1Q_usr0IzsxxhaCKv0fnaGlIHFSTsUiRtKymPVYIq8-avm"
+        "https://play-lh.googleusercontent.com/Z_yC97Pj2SvaQan7Hs9t9k3h85pCXRhHMRBa9l1Q_usr0IzsxxhaCKv0fnaGlIHFSTsUiRtKymPVYIq8-avm",
+        "https://play-lh.googleusercontent.com/UWa1cD-3cJLKVjtrbo5JnDgCpMaNjN5qrOv9msU1ME_4dacekvNHSDsssSCNbcOcbRaNtV2f2IKg1O8TER9CSw",
+        "https://play-lh.googleusercontent.com/eMuD-oS6mY2F-gl39NYGZvONR_TZ9fSJQAX1eJKOr40zFecGouKnKulFh4RirijV0CWJ5Gas20Pp10blGsj4pEI",
+        "https://play-lh.googleusercontent.com/M7ldP_ke0H5CpYg7wbRS8t93b0xP-cwaO6NCIU7xh1UsGfjOAcyrav7HvYXCyyKYvktNs4vEbe6zIoGnAG4B",
+        "https://play-lh.googleusercontent.com/oUObBMq8IcOZnCutT-k7IXNXq01CFPjCvNSAXBEz40d8twyhxLe1Y4_EusDrXztxEmNW9naoP2_5rce0g1M7UNE",
+        "https://play-lh.googleusercontent.com/otKOgeBZuyJm5m2x_Ad8xAdjuTb-mqkTTVgAfBnnyM8r82qw2NC3-K88LznQE494cFASjQd-fpE6n71C1qfjP6A",
+        "https://play-lh.googleusercontent.com/v0FCmLccTOnsvZsFpWFH05M61CKSqddohJNIFgtkQkwg2avOkZcw9TcDm2QBa5gUJaveT8222z2ilXFMKgb7"
       ],
-      "source": "https://play.google.com/store/apps/details?id=com.sokuma.dartlog&hl=fr"
+      "source": "https://play.google.com/store/apps/details?id=com.sokuma.dartlog&hl=fr",
+      "retrieved": "2026-11-17"
     },
     "it": {
       "assetLocale": "it",
       "urls": [
         "https://play-lh.googleusercontent.com/1B5p4Nw5sXH2p6YTCzsYiJF3Ue3VY3a3rlhSxwyVRwmW-30e1NwB88TOt8IkKNEB-bY-dnHyZN0y5DMQEcC9",
-        "https://play-lh.googleusercontent.com/vPsDxAxedUC5yl-LxbQzVsHLLDax1_ZYYxvCMhJ_om_r7ms7eVo19DSq3iqRt5DPl795Zcqwq1Uwyp4cGpz5Ng"
+        "https://play-lh.googleusercontent.com/vPsDxAxedUC5yl-LxbQzVsHLLDax1_ZYYxvCMhJ_om_r7ms7eVo19DSq3iqRt5DPl795Zcqwq1Uwyp4cGpz5Ng",
+        "https://play-lh.googleusercontent.com/A5KqJjfCSUBnh-Ciq3M8pT9uw6ZvYyn9lFLdFuKQA04cIoL9ii4bS1dv_gfxI4y5aaU219gWDZChyIDNQBLf8w",
+        "https://play-lh.googleusercontent.com/0os8PdP8WSWyDTkIEFsfBXpykfTFn86F9pOCqBCyH-YF4Ho0Mzo6oC_nXhEJS-ES-Qktkcxh4t4QFU0CnhKL",
+        "https://play-lh.googleusercontent.com/6Jr8MYzba4mQ_0PYkWFBbBGMzSyvln2CSTnKEAkwZi37r7GgUvLk6ssQU8UleAJyG8cXn0IOLek0F03WNqyzPw",
+        "https://play-lh.googleusercontent.com/TfeNdvwpGp5BV_eBWMVAXePxBqIZt0nL5_9fOzR6osYaZn1guIr4kx65Q8ktqSSHRbJhXCWlQVeApZNBiX0bi7A",
+        "https://play-lh.googleusercontent.com/f99FQqunmOxDzKCMIb2PdPwlnIgCu5fgiGcSF67fusDop7VjS8PcxqqbddXfmOjterVle-7966PLH9TrVjgDkA",
+        "https://play-lh.googleusercontent.com/WK1FhtBtEJN6nOEUbdg6-qEOqokAzfMdmzZOcNNf3WljMPeckZKpJdxfoSqoczOSPwoH623yM1LwQbQeIa9T2Q"
       ],
-      "source": "https://play.google.com/store/apps/details?id=com.sokuma.dartlog&hl=it"
-    },
-    "ja": {
-      "assetLocale": "ja",
-      "urls": [
-        "https://play-lh.googleusercontent.com/2uGcVZDC_77hk71fiF--K0Nad412N2OI6DXpK7BcqGrPcCQfUJRP5SAeablDkNWSlJa8HJBHWSg97ckIPIqeBw",
-        "https://play-lh.googleusercontent.com/C29EcvBrM9J4kmx3YyE7Xfngqt_9-rVMtUwNjeVCCHnMMnhgBcuO0b4Ebgy5ggoNFJuu_vIg5Cn8FKMJHZ3R"
-      ],
-      "source": "https://play.google.com/store/apps/details?id=com.sokuma.dartlog&hl=ja"
-    },
-    "nl": {
-      "assetLocale": "nl",
-      "urls": [
-        "https://play-lh.googleusercontent.com/22sZjDl1b7XC9nM4G-g0EkluulxfHidugeyE2HweG5FOLFlxWUycW0EV6F3Fxm7oC3CDhnCx4eEilPRwBiRX5tU",
-        "https://play-lh.googleusercontent.com/sLnwA-lss0Aej-UlrM4pPo8cAV_8Xwt4BAIet1W1BbVPZk6ZGwMxpOUOUsvEwDWEkMRZtwhJ7LtnfHF9cuAumg"
-      ],
-      "source": "https://play.google.com/store/apps/details?id=com.sokuma.dartlog&hl=nl"
-    },
-    "pl": {
-      "assetLocale": "pl",
-      "urls": [
-        "https://play-lh.googleusercontent.com/dTWXD38wjgYruU6SJ2c65OVFklZKolOXWlGcKKxIPiaG66Pcenb2quTuBOzmUskiO6joKYj-TP0BUgW9PfWZ",
-        "https://play-lh.googleusercontent.com/3HevSLfA35Xk6JC30Szw1SllfqYkkp2C4lyhzZH8tHxttTB_C5s870qL4EiCJ0UtJ4aTaZTHU3TdI0DvqAyh328"
-      ],
-      "source": "https://play.google.com/store/apps/details?id=com.sokuma.dartlog&hl=pl"
+      "source": "https://play.google.com/store/apps/details?id=com.sokuma.dartlog&hl=it",
+      "retrieved": "2026-11-17"
     },
     "pt": {
       "assetLocale": "pt",
       "urls": [
         "https://play-lh.googleusercontent.com/HtPWK8vCTrKkt76Q0fT1iUc9n98ElsyJ2UhnIXuUMQ3Xe62xSqHzPXEnUu59NPEBsHFNIxEaAQ-J_kZzdIhj",
-        "https://play-lh.googleusercontent.com/LLogOt5hL7H1qPezBph7fg-3m-TY51Rot6kqQQk5rBo85MK8GHGUCP0Pcvgp5vPXc0UfXfYFJY5w35tDMO-Aqw"
+        "https://play-lh.googleusercontent.com/LLogOt5hL7H1qPezBph7fg-3m-TY51Rot6kqQQk5rBo85MK8GHGUCP0Pcvgp5vPXc0UfXfYFJY5w35tDMO-Aqw",
+        "https://play-lh.googleusercontent.com/uIPcyxhk4-3Chk6Zq3iqG2lCv6QTm16jBXcZT6fKCQYgMPPp3N-Mpm6JisntXhBlz7ddZgeSeASfjRVMsIi4",
+        "https://play-lh.googleusercontent.com/gWrx2dDz2R4ii8DmMD6VaC8PjzkCVsuIt5j81Yv4YeMGKJnH8u9iwxXM_5OjP2c9Ds3hxvZQKUQfp7xPYSZA",
+        "https://play-lh.googleusercontent.com/NVB8cQNvhyT6Ns6tO3dBdb7ilWMrhZJMpuK0RPnm9N_GvDGXUkKKiBC9ul5b8RBBYnaxIZZtZl1EAGC0hfFb",
+        "https://play-lh.googleusercontent.com/iuy3FZuSPxhex6gEM9h1QLkIoa9ItA9PBbVlXviB9r6GwXwXoYkuvgMBTLg3GXxYtU9S7Ber2YWfCCPE5ybivg",
+        "https://play-lh.googleusercontent.com/128KMsUS3OiVKlkIyl0SB32hG9ScrBk4C0fdcwHTS3jSwVJ8Ba1f8nE-ZVca15ho_5wyWOUaKWhRENpl9ycPZl8",
+        "https://play-lh.googleusercontent.com/KnYcoAhiTo-EfjSMvhIfj68_8wEL2vv52yU8kuf52U0LMrSXULOElX1lPlUHLjeVShqj0f_qwxG0oH6aiuWpGaI"
       ],
-      "source": "https://play.google.com/store/apps/details?id=com.sokuma.dartlog&hl=pt"
+      "source": "https://play.google.com/store/apps/details?id=com.sokuma.dartlog&hl=pt_PT",
+      "retrieved": "2026-11-17"
     },
     "pt-BR": {
       "assetLocale": "pt",
       "urls": [
         "https://play-lh.googleusercontent.com/HtPWK8vCTrKkt76Q0fT1iUc9n98ElsyJ2UhnIXuUMQ3Xe62xSqHzPXEnUu59NPEBsHFNIxEaAQ-J_kZzdIhj",
-        "https://play-lh.googleusercontent.com/LLogOt5hL7H1qPezBph7fg-3m-TY51Rot6kqQQk5rBo85MK8GHGUCP0Pcvgp5vPXc0UfXfYFJY5w35tDMO-Aqw"
+        "https://play-lh.googleusercontent.com/LLogOt5hL7H1qPezBph7fg-3m-TY51Rot6kqQQk5rBo85MK8GHGUCP0Pcvgp5vPXc0UfXfYFJY5w35tDMO-Aqw",
+        "https://play-lh.googleusercontent.com/uIPcyxhk4-3Chk6Zq3iqG2lCv6QTm16jBXcZT6fKCQYgMPPp3N-Mpm6JisntXhBlz7ddZgeSeASfjRVMsIi4",
+        "https://play-lh.googleusercontent.com/gWrx2dDz2R4ii8DmMD6VaC8PjzkCVsuIt5j81Yv4YeMGKJnH8u9iwxXM_5OjP2c9Ds3hxvZQKUQfp7xPYSZA",
+        "https://play-lh.googleusercontent.com/NVB8cQNvhyT6Ns6tO3dBdb7ilWMrhZJMpuK0RPnm9N_GvDGXUkKKiBC9ul5b8RBBYnaxIZZtZl1EAGC0hfFb",
+        "https://play-lh.googleusercontent.com/iuy3FZuSPxhex6gEM9h1QLkIoa9ItA9PBbVlXviB9r6GwXwXoYkuvgMBTLg3GXxYtU9S7Ber2YWfCCPE5ybivg",
+        "https://play-lh.googleusercontent.com/128KMsUS3OiVKlkIyl0SB32hG9ScrBk4C0fdcwHTS3jSwVJ8Ba1f8nE-ZVca15ho_5wyWOUaKWhRENpl9ycPZl8",
+        "https://play-lh.googleusercontent.com/KnYcoAhiTo-EfjSMvhIfj68_8wEL2vv52yU8kuf52U0LMrSXULOElX1lPlUHLjeVShqj0f_qwxG0oH6aiuWpGaI"
       ],
-      "source": "https://play.google.com/store/apps/details?id=com.sokuma.dartlog&hl=pt_BR"
+      "source": "https://play.google.com/store/apps/details?id=com.sokuma.dartlog&hl=pt_BR",
+      "retrieved": "2026-11-17"
+    },
+    "nl": {
+      "assetLocale": "nl",
+      "urls": [
+        "https://play-lh.googleusercontent.com/22sZjDl1b7XC9nM4G-g0EkluulxfHidugeyE2HweG5FOLFlxWUycW0EV6F3Fxm7oC3CDhnCx4eEilPRwBiRX5tU",
+        "https://play-lh.googleusercontent.com/sLnwA-lss0Aej-UlrM4pPo8cAV_8Xwt4BAIet1W1BbVPZk6ZGwMxpOUOUsvEwDWEkMRZtwhJ7LtnfHF9cuAumg",
+        "https://play-lh.googleusercontent.com/fcY1ms5_gCAFim93P0qAF_FzCcsXKbl0XzQe86UEQBEhF1WQRi0dGvvpX_u6a4t_ezt24mWUDGCxwxH1yxZ1T80",
+        "https://play-lh.googleusercontent.com/2RwdiXqWRzbJsb6bccvJwqUTXIcOP29ldeMM34fPQ9XOQTgthLJ4YoHAti8adgZqFH-w1leGyrzX6cK6lgF9Cmo",
+        "https://play-lh.googleusercontent.com/0188qfsibYwReDZaBLgYDhw7xDOevvphKOa_0YqvhVAjnNfZmPaET-XomAv6TCFCGKT63KRdIUGW7NFoQBN83Q",
+        "https://play-lh.googleusercontent.com/FIYiPQPSBX84wgQPrN5biu1sxsdzmq3ljHNMFPGmkfjMWp4oBNTG-9qhKUn8eYZHzKv3ta2HeLnoV2ieyQPL",
+        "https://play-lh.googleusercontent.com/AQbvOz2b_9899RX1KgMUeI0V8_PleE36OAzC0XbGNPBmkBVO4yaZtYV1TE07aTUO3A4LGkVsXOxmE9at-iipdQ",
+        "https://play-lh.googleusercontent.com/JUxEkOumUcx2lByqDWAIlVrBVKjeDY8pREytojRA15Lx6pGZPq3qhsNE3fOfUJTSn1MouqobL3VRQvdCieUvAg"
+      ],
+      "source": "https://play.google.com/store/apps/details?id=com.sokuma.dartlog&hl=nl",
+      "retrieved": "2026-11-17"
+    },
+    "pl": {
+      "assetLocale": "pl",
+      "urls": [
+        "https://play-lh.googleusercontent.com/dTWXD38wjgYruU6SJ2c65OVFklZKolOXWlGcKKxIPiaG66Pcenb2quTuBOzmUskiO6joKYj-TP0BUgW9PfWZ",
+        "https://play-lh.googleusercontent.com/3HevSLfA35Xk6JC30Szw1SllfqYkkp2C4lyhzZH8tHxttTB_C5s870qL4EiCJ0UtJ4aTaZTHU3TdI0DvqAyh328",
+        "https://play-lh.googleusercontent.com/E6bRbdithW4tHhjCNUElH4Fu9DoRWjrcbxid5j-gsPbjznJaShVVMiFc9-KdzsfTLeABMLBd8pNabOHm0WTMEQ",
+        "https://play-lh.googleusercontent.com/bSU3VZl5NbtNAkPRPI5V_C2LV3FlHdBP1aj2_cZ0vlDYsd66JsdVDYomryEVoUwj1MAiApYDCVSK_Z-D7l3k",
+        "https://play-lh.googleusercontent.com/_G6SSipZ2FbTXc6rnd5LmMgZwblL0-oWlq0ISENvWqVqgYCLMgtVmnvF9MarZuW7oXNpp3igRP9aK4tG6MOK",
+        "https://play-lh.googleusercontent.com/KL_JbYIiTMSUb0erwwCEDDTfcSa9EVqZa9qg7x5DLVia1zMxcSdDNuu9ArBFLpOkqaxk6fwBw_afmjIBembb",
+        "https://play-lh.googleusercontent.com/5KKjFNjYt0VFWeArjQIS-i4H7HyrjrrNKqEGqP8kjIlgZ_T6uiFmKDtSMotLkJXwAa1LlpB56bNusIQoSWaZ",
+        "https://play-lh.googleusercontent.com/fa2EvuGt_-QxIjxzFkuioe5Nxm3toKPKm9N5hHyMgI3o51UaiyFt6qvkrcsojbYSXxrLAFgtBLGrLVYCzHpGDfQ"
+      ],
+      "source": "https://play.google.com/store/apps/details?id=com.sokuma.dartlog&hl=pl",
+      "retrieved": "2026-11-17"
     }
   },
   "batting-log": {
     "ja": {
       "assetLocale": "ja",
       "urls": [
-        "https://play-lh.googleusercontent.com/QZpjThUZf9W2delQFLbkOxTMf9ThRRyojCMejbMWfUspAexJZPPRTCtwhvyQ9OJ5uA-C1MI1mCYAumS2vi01dg8",
-        "https://play-lh.googleusercontent.com/JGNBNeRtWvqBQ0l_gcGgyw29wMKwqUpFm06DNVc1lYyd1wiYcKDC9oL8u-WuR6xzK1h0aEpPKUGFhVzjDYVq"
+        "https://play-lh.googleusercontent.com/pxniglJkpzoD2zwu5sLYzwjIbzQzXZkhi_b2Gwf30s7Xu-chXUU4BsMeR3GzXin9_WSpIi8FlnQ4AMsCoRQW9Ak",
+        "https://play-lh.googleusercontent.com/-bZ2NG5f1N2FQeTMpnJJMBlWaZaB58FLXD75fVTiU4VO871ffECC2XBM5zw2h6i6s74v5xOCoPiTirS8C9M9e_o",
+        "https://play-lh.googleusercontent.com/GcIwyTOUSjs8MIMCkdoyEuf1LQgkc7qGukLe2zHBqrUzaqzQN0E_RHEZJ5NH8ErBcKM0qzLZuDHVVgmICLyQ",
+        "https://play-lh.googleusercontent.com/T1gYM4RmlyBWebqHbJ_lsP6PfOk6pQwtwsEVeioLeETKEbypKKTENcqgX_ZDUbO1obXC4D5q7bqwhswvBPirtuU",
+        "https://play-lh.googleusercontent.com/zxnGXqlyEcLGwVH3UZxgPqP1phLw0Fw4tO4oMjJz3tJo5Am2wDKLPozo3C_DlJ2-z8rbTH6dqneECGKtY6plfA",
+        "https://play-lh.googleusercontent.com/R48b028AJMtltkuW5A7pEDH9pNQAwl0X-323l84MIgrfWxQ2ce0vCOysF9W7JD7gcdH0TuaTShRQV64onK0wlg",
+        "https://play-lh.googleusercontent.com/RWtCcoe5Zsr_1xzXx_7CWYpNCDAY-vEu0U_TQvEjFTjIMv6CXzQTYlfe0m0K81R5m-VIbrQNPmdOiIDNgkH3",
+        "https://play-lh.googleusercontent.com/wvyeag1iBXrIl5AsVU78EYiUWhZiVUw9aZoSQwCCLiqJbo1nhqoSpqd4KmQJhrWqFGaVadpjQgwpdd4of5ag4jg"
       ],
-      "source": "https://play.google.com/store/apps/details?id=com.sokuma.battinglogapp&hl=ja"
+      "source": "https://play.google.com/store/apps/details?id=com.sokuma.battinglogapp&hl=ja",
+      "retrieved": "2026-11-17"
+    },
+    "en": {
+      "assetLocale": "en",
+      "urls": [
+        "https://play-lh.googleusercontent.com/AxSqSRNtb5Qnk6vgKg1cRq0iXmAFMcUQ1mANnEobRaLUoo6WEnO_uhwBAB9ZTV_bj9ewbs89XPbHrjiGohgXQuQ",
+        "https://play-lh.googleusercontent.com/Brl9KR4Rt_2uIsWAi3t36uRbFj3CdEIoxczzBheuw8c80kqb73HtHM0FYiUQbqCAhU5wKl-nDjj3sQM2QGon8g",
+        "https://play-lh.googleusercontent.com/jSgI5yhZhNf5GiBCc6KIZvsy_cOVOHSoddAob_yihl1iQ6lTqx9vFp2B1j6j795Ybfe-oDLfGBKRus3O21xGOew",
+        "https://play-lh.googleusercontent.com/BjiIjVpNTsslGV44YGeyg06tZCcJzNNDJVtrXuYE4Ul9eTWQu2yIiHw4glHakAXS7pzs9zH63Vxhh9IRJmSafw",
+        "https://play-lh.googleusercontent.com/dFXLGPRwFYTLwwTZ66G4BMM8uHodo1LF32I7qHpBlvjF9YfYXVEUj4yjCYTGpbMswCf6V8vgAnfZmgVJOFAr",
+        "https://play-lh.googleusercontent.com/5u6GPn8uR-YaRJqMCPVgbTjmubM0E3WA4r7mY1iD05e6QrBJBteSfYHyW-UfqRhuKVPlI4tLIXpBcIKrgPAIKA",
+        "https://play-lh.googleusercontent.com/RfN_WMQF9GYLZ-sRlpdpCyARJuxtnisF5uKKwTCXgnWp1c1w2H-1GadIvXXp2losUbSa-Gad_D71-6TyNIa59w",
+        "https://play-lh.googleusercontent.com/d0HPO6O3bCurjCi9J9klzcwWAclJMfqpQl_KZ8mp7OXs6hTz_AbYmbnIGThUznZKLFLZMsytfcW3Z4gMqVM-"
+      ],
+      "source": "https://play.google.com/store/apps/details?id=com.sokuma.battinglogapp&hl=en",
+      "retrieved": "2026-11-17"
+    },
+    "es": {
+      "assetLocale": "es",
+      "urls": [
+        "https://play-lh.googleusercontent.com/74uQc1KCq3agmixe-6xP-Z5uumZusaQ4YwIiwxb1qx09FtBpQzNGl5ggP6HWzluSvJiWs0FPTViB8uAAohc2BA",
+        "https://play-lh.googleusercontent.com/GLdXFIXZkaPDUssp2p1g3pc4DHKOg9_x6mR4vUyd5_rtWRrnEGdkTQCJD5j-3IklqyIfhBDqF6VYkG7xp0uaC_w",
+        "https://play-lh.googleusercontent.com/lwSGEsmXYC1jTeY9A71V7U_8BXUvSTzcCBlNBJNz6ILtfjtQOfMsNeFI6V_lzjZCV3kOugTd3QMCgJKLG7X0jQ",
+        "https://play-lh.googleusercontent.com/BUJbUMw5lbbpAJLyIQLUtNt1Fw1fPir__2ueeFxy9nszxsrKkR9HAyfw4jHjf5EFSEMLhmVDE1G9Fb3L8RiFwRE",
+        "https://play-lh.googleusercontent.com/CfIoOH7E3XQGqLIA1RVgGnsOpmt33VPcjTMoGYp9TO_iCweRQJSx_eH_WhTRXfs1vSbYpDbakCF4aDCWSyBL-A",
+        "https://play-lh.googleusercontent.com/GDv0Rww9FjInXk6oW_Oso2zagwG6zX69jCjad9ZpNdcJTQ6vI_B_lpIfdbPUjnZRsvb-ok_JYOEc3xmX4lXavw",
+        "https://play-lh.googleusercontent.com/zFRC7HJrFb7xCECvW3YTzhKU3AHrnajFmz7FCawzxYk2D9VEmHVmreFKAcfXQOes3ygx9m-qZDrlJByos2Eh",
+        "https://play-lh.googleusercontent.com/rYoIe5fFv7cXCy18v4D9esHGQ6P822As1sWSAszO4fBunZRCWpLioZ5DzP6tNB9wlixN0UuDPj673xwy8a8Vrg"
+      ],
+      "source": "https://play.google.com/store/apps/details?id=com.sokuma.battinglogapp&hl=es",
+      "retrieved": "2026-11-17"
+    },
+    "ko": {
+      "assetLocale": "ko",
+      "urls": [
+        "https://play-lh.googleusercontent.com/u8CGk2HxdDiXzZRhQC8i30aY5FbvG6kP_XQp0yzZwhTPJNiBymHSxeKE9NkGeX2MBT2u8OgiSjkNXhW1YrIbPqQ",
+        "https://play-lh.googleusercontent.com/mQKub-vDGmrFreIGLJvi5DBGdQN3eZqA8VDSFYt9RAd0GhPWhjs4KZmuDMUn9LRIdAkiEZpDe9WPSbFkwJJoaQ",
+        "https://play-lh.googleusercontent.com/GIA_RqtF2RkamBRmPIcTkHrVcUch16VSv4v9Wb8TBx6p2RTTH62qiK4y5WHtR92r_WaUz1Jh3tYjYZwcu6uAVA",
+        "https://play-lh.googleusercontent.com/yrFRwedjFiEVfFHQA4nAKmHoOGdyhu6_XoTvj1viIzRLIanajD9E2FJ6o-MlVv2V7XOpJ--mBrHwSENeBucj",
+        "https://play-lh.googleusercontent.com/J2zV7t0P0BhxjSa2H6NXZOvq3jWlADR734UzxPwKfWF5yHdbBunh4k_hipoDjzllZhiDwaZAMVmZw51ZaIWA",
+        "https://play-lh.googleusercontent.com/2OCO65OSatWRGeFIVA3x6WP4HIuRpdeXZE8obFqi9fuB_8wVON-YufCEswqpweHX5eszObJBixKKN3swW1TT7w",
+        "https://play-lh.googleusercontent.com/XjOZLP4NoJruSnVBNX5nKTUoPMJOEaS5v_Cz3nNtMyEc8N6Ic6vx0dS2h2_CZOPP4RSlNdmdjG60GD8NZytscug",
+        "https://play-lh.googleusercontent.com/m5eQsvfC4vhDnKPW_BesF49lx8MfRvqpG7SLuTZd-FLUvQnvUFmVCOR-jqyoV_Ecqrnc6bNejY5YxdCujCl2cB8"
+      ],
+      "source": "https://play.google.com/store/apps/details?id=com.sokuma.battinglogapp&hl=ko",
+      "retrieved": "2026-11-17"
     }
   },
   "baseball-order": {
@@ -88,19 +218,93 @@
       "assetLocale": "ja",
       "urls": [
         "https://play-lh.googleusercontent.com/HDrEAJW6i3TFiqlcKQZDYBhOBs_4NFTzt-BwqNrG2RR_lPNmGoXtHiH9Ig-kht4G-lIfwXv_Nnsq5kQmnaPklw",
-        "https://play-lh.googleusercontent.com/SyZ87WvVbnpWgVpFkleDdGr0cCOywwplJ4wjPSkviq5zjWFVPUFsJg3_54__LMkMkoFJi4Ny_7rUxhcps4cn1A"
+        "https://play-lh.googleusercontent.com/SyZ87WvVbnpWgVpFkleDdGr0cCOywwplJ4wjPSkviq5zjWFVPUFsJg3_54__LMkMkoFJi4Ny_7rUxhcps4cn1A",
+        "https://play-lh.googleusercontent.com/ZjfXG4VYql7v-eDTw9azVyL7GpbjWtnbF5pHCcRlU9Ys40ddrulujaUvRBzWczDdsaO7lZ1TXg_sArLM6BzEA14",
+        "https://play-lh.googleusercontent.com/mGK16-TFD3W_K0LmebfnTpcc7uXUrzfdKZEp_H4bGoJ_2H-objY_vi1sHZDp_2_SzO47t4NshespvwAt9E1ZI1c",
+        "https://play-lh.googleusercontent.com/QTMslwkSfDjOwTIg8gx1ri2YrULOY2T0pUgO4_UZ4pC3dZ2gXBwM_KhsyVgVwGgn1jc73EF27rrbUlcgbq3wBg",
+        "https://play-lh.googleusercontent.com/JzAZhK0wFOqT_3aOYRrMfeXPMHswRpKm-OFsd2PlVmkuCPmCODLhiZcUpI_pDtnjbhk1r70aC2fQm1_nBZxbPNo",
+        "https://play-lh.googleusercontent.com/BdqbjmpAEnyQis3prsjGIcY07bAHp-VJq0KD9r3CH4-dPhQc56mdkFp0fFw__uwcNLso2N3L9sWqOYjJHbmzmw",
+        "https://play-lh.googleusercontent.com/vyrmcg1HxQrSMfjtDDLCyq7db5lLJoxiJybW9i3Y0iUZz9EXRw7fdpgiiH5E09dmrMMPBj5J_D1j0y6MusNA"
       ],
-      "source": "https://play.google.com/store/apps/details?id=com.sokuma.baseballordermaker&hl=ja"
+      "source": "https://play.google.com/store/apps/details?id=com.sokuma.baseballordermaker&hl=ja",
+      "retrieved": "2026-11-17"
+    },
+    "en": {
+      "assetLocale": "en",
+      "urls": [
+        "https://play-lh.googleusercontent.com/ena65sEIAW1MaTnISVP8Ms1iutN_50LSh-DyCuV44y6ozU6Eh4NPQqKNPFAyppLIdKfMF2WmTWUE2GOrnLgJG9s",
+        "https://play-lh.googleusercontent.com/tCWT7sxgWD68-u2pHdmPjTHfIwH1DuBt7xc1UWDw_BzDOtddcPrrBH0GhGZMCOoou3hnPm3YrXKm4noosn2wR-w",
+        "https://play-lh.googleusercontent.com/5xQpUfXz3x0Z1_UPCgnqxosN1VZ-rGylnnsKUeHBn5qNormaqz87-eJ-5v7gm1CHeXlD8UofwIoo45fEKhjA_w",
+        "https://play-lh.googleusercontent.com/SzJq0lNFiUP-3evqJ8jNoPG4SYFtG-DauovsBWGEr4orifYBXtIxNoMC8UOqvbw66sEDuiOeuEvf7WhbJLjnfA",
+        "https://play-lh.googleusercontent.com/daI_opbCwhvxa066t_mbPnxO0FmgigSbXNGqPt4eELn60_kXhelRVxUqzZSPH1eKgnGl-CMNdR-Wk3apt7GWJw",
+        "https://play-lh.googleusercontent.com/gF8xtnn3u9y5COnxHLdEUUH15n93TRi6SuX7MStO8yYqlUXOncO07MyA9oEYjTPPh2S6PP_d8SsBOqVFF4fgVg",
+        "https://play-lh.googleusercontent.com/WLtfkST3Ds_shdUiS2aGDfvI4hBNDVhYVH5PYCWuTFzoIXPHwZgvBuLcwMLQWU1EWSFsbrkSFInhJE9bXW08",
+        "https://play-lh.googleusercontent.com/vt4XdYXmD5VagPb70k-ureV9ocoZLI6vntjfxNbxycxlq6WmBLlcTcskr-1mFCv3eNS7OoxF6KunqyLvmKO37PU"
+      ],
+      "source": "https://play.google.com/store/apps/details?id=com.sokuma.baseballordermaker&hl=en",
+      "retrieved": "2026-11-17"
     }
   },
   "starting-xi": {
     "ja": {
       "assetLocale": "ja",
       "urls": [
-        "https://play-lh.googleusercontent.com/FTFBaJHl0KfEI7lh7SHe7mI76H1PO4-8qNJHxSf-VZRZK6OCWesKWpBcY6wHkBLeCaJ3UZUU6ac_fsOkZ1UpVA",
-        "https://play-lh.googleusercontent.com/oP6jcY1dITXHbGqt-piI_cFMOvfIBkhLyH88YhQXML0JazXWfYG-LAbxkwJOx8iJZWxT-vkagnC0W6z8HHC3"
+        "https://play-lh.googleusercontent.com/sZWi71R_pwfgcJZf2aCNJ0xxtX9VrzhukR7k2LJV051E_XAgiEoerPaZVPwGJ0wZyDPo6hFufnPfcZ8cBvxrQw",
+        "https://play-lh.googleusercontent.com/dAGkURlfvh-w1MSnnIDXt11eLck1Kji6omnTz4bURK-EsB6YxHsO7rv6B7R94YxSI_tkL-wkfnM4pyygHa3LiQ",
+        "https://play-lh.googleusercontent.com/McI1vl5BMwg5C9S1RH7R73ttl4qEPAB3KfQNfDF36RsNMuA2y9dY1ynsDOKWs100GCPIL_m2HluHcVvqmgI8_g",
+        "https://play-lh.googleusercontent.com/yYcsvasp6S2kMjcIq2ok7x2-IAqWqdgrnGioVF8WLha33l0p4BrDZqpCaOBg60mP8dajfjg-OL2ZBoqQg2bCuQ",
+        "https://play-lh.googleusercontent.com/HvabAcLaEGonLXrme3uwl8A0WkItwaopIbrxctg4fqcwImXpiVQk7ITzqr5kEPbq7TEzrdowlOd_jwLofwvz",
+        "https://play-lh.googleusercontent.com/JFnuuD5qDdT4cmoD02KvsF2uA9QBmD54BFRugj1syG-tKV-XbYgllUo6QNr7dPTO0HnWyDZYx29QigN-rfN-FQ",
+        "https://play-lh.googleusercontent.com/3EtdbEPhh1oZEAaZDGFNX8v62xNLFmbFrLUTSG-r21dYxeWXAshQNykJE1zhaGveflixBJLuYBKajX6f4etOGkk",
+        "https://play-lh.googleusercontent.com/Hq1Ip1YCDCrivxvk3Ca_YtsWHeBR_bvvZbigUEDMbVw5NurrzTbHjJoGG_aHdBk_tiaP5TIXa7gm7dd88G1JJg"
       ],
-      "source": "https://play.google.com/store/apps/details?id=com.sokuma.soccerlineupboard&hl=ja"
+      "source": "https://play.google.com/store/apps/details?id=com.sokuma.soccerlineupboard&hl=ja",
+      "retrieved": "2026-11-17"
+    },
+    "en": {
+      "assetLocale": "en",
+      "urls": [
+        "https://play-lh.googleusercontent.com/7K0JLWPR_D_sd1iOD4BMvRuiyov_omUetRQUnxW8i_FiRDhwIEfdDEcmR-R1Kml7i_c_ho10a8-XSyIMmov-Bq0",
+        "https://play-lh.googleusercontent.com/gt93OJ7m25tgv6bqCjMQJYVma0hffusAoqzj6R36FHIGHTD_3DDQSrn_LaTtuGVCR0lkc955SXeOcoYx_NIcvA",
+        "https://play-lh.googleusercontent.com/9rB0i2eNjZC9pW68qZ3r_BsMaeBwXRjl0pLoqFUIg1ZsBsITiFTXCuiaUpO0C_Wjpz9WAoNaazyWRf0dks8gLVY",
+        "https://play-lh.googleusercontent.com/sYIBOyrexjGYspNpHvfbJjZtUDHN_iceB1ECvrnk_NUdy25ehYgDYURIJlABXY_vPWFBSMp28r50QH_iCvZThg",
+        "https://play-lh.googleusercontent.com/WrAXvjLdydbJSOUK0MH_a5UnLlM2gnpNZTY7KbgqwYZyubWCh8SV5iynz8krHyAlePHc73LTR4dGpXiceM5m",
+        "https://play-lh.googleusercontent.com/OwnwT6FtGorkkVnpWhvIV1_TQkxVpElA1FSmmhfAFqHsqBFV3-NOcuFUfhXX-2pT34RPomZyO1arBUzXZzn-",
+        "https://play-lh.googleusercontent.com/rwbV8fdPwLIZ8OhK9HfvuP08lJhTpK4afSP1SBqOXdDcDIboeQ0V5GyeJgvYgBbGHyu45xX6_f0OAAl7Zh0bQQ",
+        "https://play-lh.googleusercontent.com/lHdkHmGXMJkD95JsxGd6O4VMbYWJauNeKRXiB5frIYERhVjeyFqAkuju1wBOY1qW8l8xtmiDK2p3b90e30VA"
+      ],
+      "source": "https://play.google.com/store/apps/details?id=com.sokuma.soccerlineupboard&hl=en",
+      "retrieved": "2026-11-17"
+    },
+    "pt": {
+      "assetLocale": "pt",
+      "urls": [
+        "https://play-lh.googleusercontent.com/tZkzs2wmoE1lZOzaNPP0Eilu30N2c39MOuQp0eNdzf8htB0pAe57RuWjNHXDlHVVb8k7kqxtGOyqv6sjqovpXA",
+        "https://play-lh.googleusercontent.com/M6sT0UCBNu7xfbX4GIJXWRoJZF3z1RDhDRfPVdia_RDxm_YcjsDHNaMalod9-eD17iVKbcShECyPDuavzlL7NxQ",
+        "https://play-lh.googleusercontent.com/SgOCf4A7Oe-8awNf0dXK4zMaCH9uL2VgyCsFUP5xK629KnWStDX9LVHeUoMe-rfeA8E0Ar-Vmcx_4J09pMLmIA",
+        "https://play-lh.googleusercontent.com/G5Mt68IISHyenlaZATuNa36eEj_6juGfN9b7VErV_oyYRNphiBv3mCjo2rXfMSH9ECzbvOBSVM_v7kH71aQ3CXo",
+        "https://play-lh.googleusercontent.com/bN4CTGJomAaPwPdVRii6HbzQyjR0Uy48kRzrPUbqryCxwlnbhoo3qsRFCr96zXHYvs8Ej90mgbTkTTBqa-BwVg",
+        "https://play-lh.googleusercontent.com/9EAiSjG95aPWhLzLPqkizKULoegY7CFu94v8ye422OR1viV0_PZwq8QVcT8Z4CSD7rPWaS0Gsdvnv83zuSWaLw",
+        "https://play-lh.googleusercontent.com/AoSKvspuDwDIS1ECePSj3slnYkLxBAwd7RKh80ndoKeMowo3bL4EgddLatN3asGV4z1HenQ71Xf53DLWiccV",
+        "https://play-lh.googleusercontent.com/SqIvdiNOgzSC_f-rL4A7Zw2JfezbnZs31FP9mJt90LdA9Wr5ha1y8EoYpKP_Q6vztlqaIH294HsNHwxBi0aNeQ"
+      ],
+      "source": "https://play.google.com/store/apps/details?id=com.sokuma.soccerlineupboard&hl=pt_PT",
+      "retrieved": "2026-11-17"
+    },
+    "pt-BR": {
+      "assetLocale": "pt",
+      "urls": [
+        "https://play-lh.googleusercontent.com/tZkzs2wmoE1lZOzaNPP0Eilu30N2c39MOuQp0eNdzf8htB0pAe57RuWjNHXDlHVVb8k7kqxtGOyqv6sjqovpXA",
+        "https://play-lh.googleusercontent.com/M6sT0UCBNu7xfbX4GIJXWRoJZF3z1RDhDRfPVdia_RDxm_YcjsDHNaMalod9-eD17iVKbcShECyPDuavzlL7NxQ",
+        "https://play-lh.googleusercontent.com/SgOCf4A7Oe-8awNf0dXK4zMaCH9uL2VgyCsFUP5xK629KnWStDX9LVHeUoMe-rfeA8E0Ar-Vmcx_4J09pMLmIA",
+        "https://play-lh.googleusercontent.com/G5Mt68IISHyenlaZATuNa36eEj_6juGfN9b7VErV_oyYRNphiBv3mCjo2rXfMSH9ECzbvOBSVM_v7kH71aQ3CXo",
+        "https://play-lh.googleusercontent.com/bN4CTGJomAaPwPdVRii6HbzQyjR0Uy48kRzrPUbqryCxwlnbhoo3qsRFCr96zXHYvs8Ej90mgbTkTTBqa-BwVg",
+        "https://play-lh.googleusercontent.com/9EAiSjG95aPWhLzLPqkizKULoegY7CFu94v8ye422OR1viV0_PZwq8QVcT8Z4CSD7rPWaS0Gsdvnv83zuSWaLw",
+        "https://play-lh.googleusercontent.com/AoSKvspuDwDIS1ECePSj3slnYkLxBAwd7RKh80ndoKeMowo3bL4EgddLatN3asGV4z1HenQ71Xf53DLWiccV",
+        "https://play-lh.googleusercontent.com/SqIvdiNOgzSC_f-rL4A7Zw2JfezbnZs31FP9mJt90LdA9Wr5ha1y8EoYpKP_Q6vztlqaIH294HsNHwxBi0aNeQ"
+      ],
+      "source": "https://play.google.com/store/apps/details?id=com.sokuma.soccerlineupboard&hl=pt_BR",
+      "retrieved": "2026-11-17"
     }
   },
   "motiontag": {
@@ -108,9 +312,63 @@
       "assetLocale": "ja",
       "urls": [
         "https://play-lh.googleusercontent.com/1bQK6h9WtuTfO0bhwSV7HQ_bKMcGWLU9kSu4VlGAqT7w4YoYkLYVp4ix2LvqiWSfyGJAkAQAIBUbGWmMxAqFs3o",
-        "https://play-lh.googleusercontent.com/xF2JIpMrX54rosqtlS9asK6wmETBLOpMddPim8wIoJFPkPww7Hkc5L-eQJIaHI_p1LKY3qzTmEvcCSXSdxLkMw"
+        "https://play-lh.googleusercontent.com/xF2JIpMrX54rosqtlS9asK6wmETBLOpMddPim8wIoJFPkPww7Hkc5L-eQJIaHI_p1LKY3qzTmEvcCSXSdxLkMw",
+        "https://play-lh.googleusercontent.com/Uxmu1wpGPWz_Nrj17F_C1MPX7xaFPnmxNpM-_aaw_nXP7xcaU9_YGQCUedzUf-7a1HjimsD2U7FKP3wLzcVmLA",
+        "https://play-lh.googleusercontent.com/uYaBcHOHxiF_Zxnu6BNBF6f0L74_6jpXOpbgUxKnaeKfIwMS_-az8lPh4yKRA-DyHbCCGDu1_p5FKzgKtbSToPc",
+        "https://play-lh.googleusercontent.com/kTdOpbzXwi83bcfILjcixE1H40WNAqd-WbHoLGUXBA2fKb-lFXdmeg7EY3Xv40Q5Hx2w4gbZk6HyNHB-yOLb",
+        "https://play-lh.googleusercontent.com/tD63RhRZq-hzWXtWwrlr8o9_wwHW2GfsjHfU9PJe5OLY0s-x2GEcpJa2W0mZKiGm0gBcCmu4hndbV9HdScqp7g",
+        "https://play-lh.googleusercontent.com/gnYAl2Q1gwmekeq6GD_8JhUqTPRNGwRE06YoGH6JZL-89KB5wZSRxVKV8nTjhvaxOd-NC49fYUfmpS3rWwCp",
+        "https://play-lh.googleusercontent.com/amuGLJmopwhFhN36THa5QWFH_r7ZztmVYqUbibxtk474ZXaJCvGkCkKZ1S2rfsi6ZLIfV7Kpp0A_dgFBGlSjXtE"
       ],
-      "source": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag&hl=ja"
+      "source": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag&hl=ja",
+      "retrieved": "2026-11-17"
+    },
+    "en": {
+      "assetLocale": "en",
+      "urls": [
+        "https://play-lh.googleusercontent.com/h6V9BdSAIW5MNZKkEujmEwBPO1ib-UIA3XKkb4bncq6Go3ZyLjLT55N7-JJr_X04XBP-c6ciYTeKHg_rkdge",
+        "https://play-lh.googleusercontent.com/bfybXYqBZoM-h9E2iKkDhWUvP03awswtHJtUQ1mRCqw7lwESJvBkrzQV9g3M6TviTtx6mENxUl1K2NPxubdg7PQ",
+        "https://play-lh.googleusercontent.com/ioj0BmjqZptr92QqbGfugi9tZtOotA39X5X-Xb16XuMQNVVsxRrfDRUsY9zGe6XHNOV3tVgZPFTrnYcg4M0m6Tc",
+        "https://play-lh.googleusercontent.com/puXcwm4JyjpTIf7KrLSoqcDePdoVSG9tpv8wQ5I_pFPdoThRE_eA-vcFsi2epmgc69Vkjcv5M9btD5m48Gd0Zyc",
+        "https://play-lh.googleusercontent.com/LY4hLURzbtggm4BJ9OVfHE2TBhqtTluMuV3Wabeh7P6X2-UQpzYODiu-y5sKS0G3KpS0a17B_xaAo8d9m2Ao",
+        "https://play-lh.googleusercontent.com/tGWMgTK4wpsmYESyJHZna8xQZ_c6kiLGqYRe-9Mr3LEPjAiS35E67pHbdQ3-W3_bvacYb7Mluh2DeUHG67WGeQ",
+        "https://play-lh.googleusercontent.com/3BluqwrcpZHR_7eXDEyS98qmKO25WOTt42M4c1WOjbqlBxrpkKscih1nrL2nbLQ2bC8wKwDaA80RRcma77Ovjw",
+        "https://play-lh.googleusercontent.com/kiEgpZfE8_axyNyEaGDRh2wNHrgO5slVCZkWryYHY5zf2KpH2dQ8vJcOt5kDLArUeHJJdjPl9PCMHyERtZua"
+      ],
+      "source": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag&hl=en",
+      "retrieved": "2026-11-17"
+    }
+  },
+  "bowling-note": {
+    "ja": {
+      "assetLocale": "ja",
+      "urls": [
+        "https://play-lh.googleusercontent.com/sqzgxsk_vSBuarOPSDAf4-DRqsLL00dD67bSDC5OXdQKuQoUpXNZ_iORCiVQJ65aj8NqoaJxEtiRjzJ-pS9Yew",
+        "https://play-lh.googleusercontent.com/NADhlb3LDfHpZT-bwfRXaoBhY1_KNR7F531XXmuHwT1oneye4_nB6ZZqi0a1tlHoFq_Hz_7eGOKcTX2iXtShj-g",
+        "https://play-lh.googleusercontent.com/yKS-TZjDsRPbRHB20B9gPSfchCOsZpA5g3dPqQdzkowfzA2MAHnf7OA-LfJd861h78wzcvnrEZYGOQbxwPq2c3w",
+        "https://play-lh.googleusercontent.com/Fs2RupG_2IXUZ0slK80L144AHiv2Q5ABymJRU0YwZGIMNHd2nkqYnJ5GFB_l0tGzubY5g-2wsHYNtOSgwWv3",
+        "https://play-lh.googleusercontent.com/1msqieVspC7UW05UIxd97TYo0uvyJsVXnnFMO1VbCXZbNP5I75i8JuswIAdLAuXd836jPv-wE5WwD_yPL3QBpA",
+        "https://play-lh.googleusercontent.com/kT8Pwbk1144pRhru_SYIXb7WeDilprdgYeYvnvYWrUl86jzub0C94509guTAANSpNyRPKFaBPEBJdMg0NV5w",
+        "https://play-lh.googleusercontent.com/YLJDN19QlvPMMWgEeGpXP7BNHETyiv-F6HbVC28eYczsL41zPyOsQ-EnYkM2OVYyzDb4qcL65HkkUkOpoZfq",
+        "https://play-lh.googleusercontent.com/BpfWijzrcsPL4rPrg8CzayWGpddmb7yDVDu97Ompm0WxWamt9IFRg8V7y6bKFs3LdgOzleyq6BUBlBP0ZDnP"
+      ],
+      "source": "https://play.google.com/store/apps/details?id=com.sokuma.bowlingnote&hl=ja",
+      "retrieved": "2026-11-17"
+    },
+    "en": {
+      "assetLocale": "en",
+      "urls": [
+        "https://play-lh.googleusercontent.com/3bJb9CP1z0yrEma_CmvaojkSs49oQDtDYJBhuYxZEWcIUY7vID7aW94z6PWAStePxmn2ZkLkqSzpG0OXT28r",
+        "https://play-lh.googleusercontent.com/htBhR9sZ69wp8RDxPiaLMGKAGjwswWslQw5K6Ocf2XdhAj4ia-KkBWCStsmf9uzsLiukfDwQG5GMbGLoSVJOHQ",
+        "https://play-lh.googleusercontent.com/Q2cV8umuHn_TdnwEVdipSduCqRA_8V8duWD-UNvdHIbQsUiEUCDBb_O2_0MPsI8uccpq53W1Sd9_ApSvdzHp",
+        "https://play-lh.googleusercontent.com/RqW9IG0Guo8goiUw-cmYCyoccsn00QaRXPpsDylD0JQnUK1V_mAGVwib1j1BeNOrpWKVI5cShDAO7Qkk0mS0ZFw",
+        "https://play-lh.googleusercontent.com/dZF67w3m0-WsvEgRN5rYxq30W_-MrvuMq6G41HqizxA5A_3G73ONkUSr86PVIqJCywxTsySq5dIQX5vWCczM",
+        "https://play-lh.googleusercontent.com/NRBG3NFSliaE7INdvDSGeIOJ7yX8QwuB-4u9wHXHpbFGPvhqI9er_-hNoJhIswWuP-cNWfnzHwG1Vx-VC_WKTQ",
+        "https://play-lh.googleusercontent.com/hPZ5Z3D3sd3F1qyp4W8-EGIMer0xTYAlWmc9FfWNb6BLrrA9bIS-6N-bVNpRw50dK47nRepHtkV83LjBTFPG",
+        "https://play-lh.googleusercontent.com/zDdjoe1Vz65MbSSZLUyL0qrKEXSpRPZKj97sHK_ZAcoJCdWSysuddDG5NFWV9lTQcbOFsNLZVx8-XX27f2T85Nw"
+      ],
+      "source": "https://play.google.com/store/apps/details?id=com.sokuma.bowlingnote&hl=en",
+      "retrieved": "2026-11-17"
     }
   }
 }

@@ -61,13 +61,13 @@ try {
   });
   viewer.addEventListener('click', event => { if (event.target === viewer || event.target === strip || event.target.classList.contains('viewer-slide')) viewer.close(); });
   viewer.addEventListener('close', () => { document.documentElement.classList.remove('viewer-open'); strip.replaceChildren(); });
-  const openViewer = (paths, alts, start, ui) => {
+  const openViewer = (paths, alts, start, ui, size = [640, 1138]) => {
     viewer.replaceChildren();
     viewer.setAttribute('aria-label', ui.preview);
     strip.replaceChildren(...paths.map((path, i) => {
       const slide = node('div', 'viewer-slide');
       const image = node('img');
-      image.src = path; image.alt = alts[i]; image.width = 640; image.height = 1138; image.decoding = 'async';
+      image.src = path; image.alt = alts[i]; [image.width, image.height] = size; image.decoding = 'async';
       slide.append(image);
       return slide;
     }));
@@ -121,13 +121,13 @@ try {
       const shot = node('button', 'shot');
       shot.type = 'button';
       shot.setAttribute('aria-label', `${alts[i]} — ${ui.enlarge}`);
-      shot.addEventListener('click', () => openViewer(images.paths, alts, i, ui));
+      shot.addEventListener('click', () => openViewer(images.paths, alts, i, ui, images.size));
       const image = node('img', 'screen');
       image.src = path;
       image.alt = '';
       image.loading = eager && i < 2 ? 'eager' : 'lazy';
       image.decoding = 'async';
-      image.width = 640; image.height = 1138;
+      [image.width, image.height] = images.size || [640, 1138];
       shot.append(image);
       gallery.append(shot);
     }

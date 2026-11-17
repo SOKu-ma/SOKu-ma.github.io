@@ -33,8 +33,7 @@ SO-KUMA Labs の公式サイトを公開するための GitHub Pages リポジ�
 
 ボウリングノート（`bowling-note`）は 2026-11-17 時点で Android のみ公開のため、`stores` は `android` だけです。カードの対応OS表示とストアボタンも Google Play のみになります。
 アプリ側（`bowling_note/lib/app/app_links.dart`）は既に `/apps/?from=bowling-note` を開くので、紹介元表示がそのまま有効になります。
-公式ストアのスクリーンショットはまだ取り込んでいないため `screenshots` は空で、カードではアイコンを大きく表示しています。
-App Store 公開後は `stores.ios`（`https://apps.apple.com/app/id6832171984`）を、画像を用意したら `screenshots` を追加してください。
+App Store 公開後は `stores.ios`（`https://apps.apple.com/app/id6832171984`）を追加してください。
 
 ### Local build / preview
 
@@ -84,8 +83,9 @@ Google Play の現地語説明は自動翻訳が含まれる場合があるた�
 
 `screenshots` は言語をキーに `{paths: [...], language: "ja", source: "公式URL"}` を持つマップです。
 `en` は必須。言語完全一致 → 同一基底言語 → 英語の順で選び、異なる言語に戻った場合は注記を表示します。
-日本語画像は5アプリすべて、DartLog は de/es/fr/it/nl/pl/pt/pt-BR にも公式画像があります。
-ほかは確認できた英語画像を使用。画像は公式ストアから保存した原本で、文字の加工はしません。
+2026-11-17 に全6アプリの Google Play 掲載画像（各8枚）を18言語の `hl` で取り直しました。英語と同じ画像の言語、ストアの既定（日本語）がそのまま出ている言語は保存せず、ページ側の英語 fallback に任せます。
+言語別の画像があるのは、日本語（全アプリ）、DartLog の de/es/fr/it/nl/pl/pt(pt-BR共通)、野球打率ノートの es/ko、Starting XI の pt(pt-BR共通) です。
+画像は公式ストアの原本を幅640pxの WebP（品質80）にしただけで、文字の加工はしません。各組の `size` が実寸です（野球打率ノート・ボウリングノートは 640×1280、ほかは 640×1138）。
 `locale-sources.json` / `ios-locale-sources.json` / `image-locales.json` が照合・画像出典記録です。
 詳しい紹介文/画像の fallback 表は作業ディレクトリの `evidence/localization-coverage.md` にあります。
 アラビア語UIはRTLに切替し、画像の向きは維持します。
