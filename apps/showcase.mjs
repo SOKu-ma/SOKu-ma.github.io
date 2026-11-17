@@ -1,4 +1,4 @@
-import { resolveState, storeEntries, storeBadge, safeStoreUrl, selectScreenshots, selectCopy, groupApps, categoriesOf, platformsOf } from './state.mjs';
+import { resolveState, storeEntries, storeBadge, safeStoreUrl, selectScreenshots, selectCopy, groupApps, categoriesOf, platformsOf, isNew } from './state.mjs';
 
 const node = (tag, className, text) => {
   const element = document.createElement(tag);
@@ -171,6 +171,7 @@ try {
     const title = node('h3', null, copy.name);
     title.dir = 'auto';
     const meta = node('p', 'card-meta');
+    if (isNew(app)) { const badge = node('span', 'new-badge', 'NEW'); badge.lang = 'en'; meta.append(badge); }
     meta.append(node('span', 'chip', ui.categories[app.category] || app.category));
     const platforms = node('span', 'platforms');
     platforms.lang = 'en';
@@ -200,7 +201,7 @@ try {
     document.title = `${ui.eyebrow} — ${ui.collection}`;
     document.querySelectorAll('[data-i18n]').forEach(element => { element.textContent = ui[element.dataset.i18n] || catalog.ui.en[element.dataset.i18n]; });
 
-    const groups = groupApps(catalog.apps, state.source);
+    const groups = groupApps(catalog.apps, state.source, state.platform);
     document.querySelector('#hero-count').textContent = format(ui.count, { n: catalog.apps.length });
 
     // Hero: decorative icon collage so visitors see at a glance what kind of apps these are.

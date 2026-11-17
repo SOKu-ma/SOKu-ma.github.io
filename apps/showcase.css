@@ -241,3 +241,5 @@ html[dir="rtl"] h1, html[dir="rtl"] h3 { letter-spacing: normal; }
   .viewer-slide img { max-height: calc(100dvh - 108px); }
   .viewer .nav-prev, .viewer .nav-next { display: none; }
 }
+
+.new-badge { padding: 2px 8px; border-radius: 999px; background: var(--ink); color: var(--bg); font-size: 10px; font-weight: 800; letter-spacing: .08em; }

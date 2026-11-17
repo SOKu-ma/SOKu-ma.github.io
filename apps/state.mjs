@@ -40,9 +40,18 @@ export function selectCopy(copy, lang) {
  return { ...copy.en, ...selected, fallback:!copy[lang] && !copy[lang.split('-')[0]] };
 }
 
-export function groupApps(apps, sourceId) {
+// Catalog order is the recommended order. Apps not on the visitor's platform move to the end (stable).
+export function orderApps(apps, platform) {
+ if (!platform) return apps;
+ return [...apps].sort((a, b) => Number(!a.stores?.[platform]) - Number(!b.stores?.[platform]));
+}
+export function groupApps(apps, sourceId, platform = null) {
  const source = apps.find(app => app.id === sourceId) || null;
- return {source, others: source ? apps.filter(app => app.id !== source.id) : apps};
+ const ordered = orderApps(apps, platform);
+ return {source, others: source ? ordered.filter(app => app.id !== source.id) : ordered};
+}
+export function isNew(app, today = new Date()) {
+ return Boolean(app.newUntil) && today.toISOString().slice(0, 10) <= app.newUntil;
 }
 
 export function categoriesOf(apps) {

@@ -653,6 +653,580 @@
   },
   "apps": [
     {
+      "id": "starting-xi",
+      "aliases": [
+        "com.sokuma.soccerlineupboard",
+        "starting_xi",
+        "soccer_lineup_board",
+        "soccer-lineup"
+      ],
+      "category": "FOOTBALL",
+      "icon": "assets/starting-xi/icon.webp",
+      "screenshots": {
+        "ja": {
+          "paths": [
+            "assets/starting-xi/ja/screen-1.webp",
+            "assets/starting-xi/ja/screen-2.webp",
+            "assets/starting-xi/ja/screen-3.webp",
+            "assets/starting-xi/ja/screen-4.webp",
+            "assets/starting-xi/ja/screen-5.webp",
+            "assets/starting-xi/ja/screen-6.webp",
+            "assets/starting-xi/ja/screen-7.webp",
+            "assets/starting-xi/ja/screen-8.webp"
+          ],
+          "language": "ja",
+          "source": "https://play.google.com/store/apps/details?id=com.sokuma.soccerlineupboard&hl=ja",
+          "size": [
+            640,
+            1138
+          ]
+        },
+        "en": {
+          "paths": [
+            "assets/starting-xi/screen-1.webp",
+            "assets/starting-xi/screen-2.webp",
+            "assets/starting-xi/screen-3.webp",
+            "assets/starting-xi/screen-4.webp",
+            "assets/starting-xi/screen-5.webp",
+            "assets/starting-xi/screen-6.webp",
+            "assets/starting-xi/screen-7.webp",
+            "assets/starting-xi/screen-8.webp"
+          ],
+          "language": "en",
+          "source": "https://play.google.com/store/apps/details?id=com.sokuma.soccerlineupboard&hl=en",
+          "size": [
+            640,
+            1138
+          ]
+        },
+        "pt": {
+          "paths": [
+            "assets/starting-xi/pt/screen-1.webp",
+            "assets/starting-xi/pt/screen-2.webp",
+            "assets/starting-xi/pt/screen-3.webp",
+            "assets/starting-xi/pt/screen-4.webp",
+            "assets/starting-xi/pt/screen-5.webp",
+            "assets/starting-xi/pt/screen-6.webp",
+            "assets/starting-xi/pt/screen-7.webp",
+            "assets/starting-xi/pt/screen-8.webp"
+          ],
+          "language": "pt",
+          "source": "https://play.google.com/store/apps/details?id=com.sokuma.soccerlineupboard&hl=pt_PT",
+          "size": [
+            640,
+            1138
+          ]
+        },
+        "pt-BR": {
+          "paths": [
+            "assets/starting-xi/pt/screen-1.webp",
+            "assets/starting-xi/pt/screen-2.webp",
+            "assets/starting-xi/pt/screen-3.webp",
+            "assets/starting-xi/pt/screen-4.webp",
+            "assets/starting-xi/pt/screen-5.webp",
+            "assets/starting-xi/pt/screen-6.webp",
+            "assets/starting-xi/pt/screen-7.webp",
+            "assets/starting-xi/pt/screen-8.webp"
+          ],
+          "language": "pt",
+          "source": "https://play.google.com/store/apps/details?id=com.sokuma.soccerlineupboard&hl=pt_BR",
+          "size": [
+            640,
+            1138
+          ]
+        }
+      },
+      "stores": {
+        "android": "https://play.google.com/store/apps/details?id=com.sokuma.soccerlineupboard",
+        "ios": "https://apps.apple.com/app/id6768674146"
+      },
+      "copy": {
+        "ja": {
+          "name": "サッカーフォーメーションボード",
+          "description": "スタメン表や戦術ボードを作成し、画像で共有できます。",
+          "source": "repository:soccer_lineup_board/release_notes/2.4.0/store_text.md#ja"
+        },
+        "en": {
+          "name": "Soccer Lineup: Starting XI",
+          "description": "Create soccer lineups and tactics boards, then share them as images.",
+          "source": "repository:soccer_lineup_board/release_notes/2.4.0/store_text.md#en-US"
+        },
+        "es": {
+          "name": "Pizarra de Alineación de Fútbol",
+          "description": "Arma tu alineación y pizarra táctica de fútbol 7, 9 y 11. Comparte como imagen.",
+          "source": "repository:soccer_lineup_board/release_notes/2.4.0/store_text.md#es-419"
+        },
+        "ko": {
+          "name": "축구 라인업 보드",
+          "description": "축구 라인업과 전술 보드를 만들고 이미지로 공유하세요.",
+          "source": "repository:soccer_lineup_board/release_notes/2.4.0/store_text.md#ko"
+        },
+        "zh-TW": {
+          "name": "足球陣型板",
+          "description": "建立足球陣容與戰術板，並以圖片分享。",
+          "source": "repository:soccer_lineup_board/release_notes/2.4.0/store_text.md#zh-Hant"
+        },
+        "en-GB": {
+          "name": "Soccer Lineup: Starting XI",
+          "description": "Create soccer lineups and tactics boards, then share them as images.",
+          "source": "repository:soccer_lineup_board/release_notes/2.4.0/store_text.md#en-US"
+        },
+        "zh-CN": {
+          "name": "足球阵容与战术",
+          "description": "创建足球阵容和战术板，并以图片分享。",
+          "source": "repository:soccer_lineup_board/release_notes/2.4.0/store_text.md#zh-Hans"
+        },
+        "de": {
+          "name": "Fußball Aufstellung & Taktik",
+          "description": "Erstelle Aufstellungen und Taktiktafeln und teile sie als Bilder.",
+          "source": "repository:soccer_lineup_board/release_notes/2.4.0/store_text.md#de-DE"
+        },
+        "bn": {
+          "name": "ফুটবল লাইনআপ ও কৌশল",
+          "description": "ফুটবল লাইনআপ ও কৌশল বোর্ড তৈরি করে ছবি হিসেবে শেয়ার করুন।",
+          "source": "repository:soccer_lineup_board/release_notes/2.4.0/store_text.md#bn"
+        },
+        "it": {
+          "name": "Formazioni Calcio e Tattica",
+          "description": "Crea formazioni e lavagne tattiche, poi condividile come immagini.",
+          "source": "repository:soccer_lineup_board/release_notes/2.4.0/store_text.md#it"
+        },
+        "pt": {
+          "name": "Escalação Futebol e Tática",
+          "description": "Monte escalações de futebol, society e futsal e compartilhe como imagem.",
+          "source": "repository:soccer_lineup_board/release_notes/2.4.0/store_text.md#pt-BR"
+        },
+        "fr": {
+          "name": "Compo Football & Tactique",
+          "description": "Créez compos et tableaux tactiques, puis partagez-les en images.",
+          "source": "repository:soccer_lineup_board/release_notes/2.4.0/store_text.md#fr-FR"
+        },
+        "pt-BR": {
+          "name": "Escalação Futebol e Tática",
+          "description": "Monte escalações de futebol, society e futsal e compartilhe como imagem.",
+          "source": "repository:soccer_lineup_board/release_notes/2.4.0/store_text.md#pt-BR"
+        },
+        "ar": {
+          "name": "تشكيلة كرة القدم والتكتيك",
+          "description": "أنشئ تشكيلات كرة القدم واللوحات التكتيكية وشاركها كصور.",
+          "source": "repository:soccer_lineup_board/release_notes/2.4.0/store_text.md#ar"
+        },
+        "tr": {
+          "name": "Futbol Kadrosu ve Taktik",
+          "description": "Futbol kadroları ve taktik tahtaları oluşturup görsel olarak paylaşın.",
+          "source": "repository:soccer_lineup_board/release_notes/2.4.0/store_text.md#tr"
+        },
+        "id": {
+          "name": "Susunan Pemain & Taktik",
+          "description": "Buat susunan pemain dan papan taktik, lalu bagikan sebagai gambar.",
+          "source": "repository:soccer_lineup_board/release_notes/2.4.0/store_text.md#id"
+        }
+      },
+      "verifiedAppLocales": {
+        "androidCode": [
+          "ar",
+          "bn",
+          "de",
+          "en",
+          "en-GB",
+          "es",
+          "fr",
+          "id",
+          "it",
+          "ja",
+          "ko",
+          "pt",
+          "pt-BR",
+          "tr",
+          "zh",
+          "zh-Hans",
+          "zh-Hant"
+        ],
+        "iosPublished": [
+          "EN",
+          "FR",
+          "DE",
+          "IT",
+          "JA",
+          "PT",
+          "ES"
+        ]
+      },
+      "descriptionLocaleSource": "Existing app/sibling copy or official store listing for a verified app language; Google may automatically translate store text. Missing language falls back to English."
+    },
+    {
+      "id": "batting-log",
+      "aliases": [
+        "com.sokuma.battinglogapp",
+        "batting_log",
+        "batting",
+        "batting_log_app"
+      ],
+      "category": "BASEBALL",
+      "icon": "assets/batting-log/icon.webp",
+      "screenshots": {
+        "ja": {
+          "paths": [
+            "assets/batting-log/ja/screen-1.webp",
+            "assets/batting-log/ja/screen-2.webp",
+            "assets/batting-log/ja/screen-3.webp",
+            "assets/batting-log/ja/screen-4.webp",
+            "assets/batting-log/ja/screen-5.webp",
+            "assets/batting-log/ja/screen-6.webp",
+            "assets/batting-log/ja/screen-7.webp",
+            "assets/batting-log/ja/screen-8.webp"
+          ],
+          "language": "ja",
+          "source": "https://play.google.com/store/apps/details?id=com.sokuma.battinglogapp&hl=ja",
+          "size": [
+            640,
+            1280
+          ]
+        },
+        "en": {
+          "paths": [
+            "assets/batting-log/screen-1.webp",
+            "assets/batting-log/screen-2.webp",
+            "assets/batting-log/screen-3.webp",
+            "assets/batting-log/screen-4.webp",
+            "assets/batting-log/screen-5.webp",
+            "assets/batting-log/screen-6.webp",
+            "assets/batting-log/screen-7.webp",
+            "assets/batting-log/screen-8.webp"
+          ],
+          "language": "en",
+          "source": "https://play.google.com/store/apps/details?id=com.sokuma.battinglogapp&hl=en",
+          "size": [
+            640,
+            1280
+          ]
+        },
+        "es": {
+          "paths": [
+            "assets/batting-log/es/screen-1.webp",
+            "assets/batting-log/es/screen-2.webp",
+            "assets/batting-log/es/screen-3.webp",
+            "assets/batting-log/es/screen-4.webp",
+            "assets/batting-log/es/screen-5.webp",
+            "assets/batting-log/es/screen-6.webp",
+            "assets/batting-log/es/screen-7.webp",
+            "assets/batting-log/es/screen-8.webp"
+          ],
+          "language": "es",
+          "source": "https://play.google.com/store/apps/details?id=com.sokuma.battinglogapp&hl=es",
+          "size": [
+            640,
+            1280
+          ]
+        },
+        "ko": {
+          "paths": [
+            "assets/batting-log/ko/screen-1.webp",
+            "assets/batting-log/ko/screen-2.webp",
+            "assets/batting-log/ko/screen-3.webp",
+            "assets/batting-log/ko/screen-4.webp",
+            "assets/batting-log/ko/screen-5.webp",
+            "assets/batting-log/ko/screen-6.webp",
+            "assets/batting-log/ko/screen-7.webp",
+            "assets/batting-log/ko/screen-8.webp"
+          ],
+          "language": "ko",
+          "source": "https://play.google.com/store/apps/details?id=com.sokuma.battinglogapp&hl=ko",
+          "size": [
+            640,
+            1280
+          ]
+        }
+      },
+      "stores": {
+        "android": "https://play.google.com/store/apps/details?id=com.sokuma.battinglogapp",
+        "ios": "https://apps.apple.com/app/id6761696678"
+      },
+      "copy": {
+        "ja": {
+          "name": "野球打率ノート",
+          "description": "打席の結果を記録し、打率などの打撃成績を確認できます。"
+        },
+        "en": {
+          "name": "Baseball Batting Log & Stats",
+          "description": "Record at-bats and view batting averages and other stats."
+        },
+        "es": {
+          "name": "Registro de Bateo",
+          "description": "Registra tus turnos al bate y revisa tus estadísticas."
+        },
+        "ko": {
+          "name": "타격 기록",
+          "description": "타석을 기록하고 타율과 성적 변화를 확인하세요."
+        },
+        "zh-TW": {
+          "name": "打擊紀錄",
+          "description": "記錄打席，回顧打擊率與成績變化。"
+        },
+        "en-GB": {
+          "name": "Baseball Batting Log & Stats",
+          "description": "Record at-bats and view batting averages and other stats."
+        },
+        "zh-CN": {
+          "name": "Baseball Batting Log & Stats",
+          "description": "记录击球和练习情况；自动跟踪平均击球率、OPS、上垒率、长打率、击球分布图和趋势。",
+          "source": "https://play.google.com/store/apps/details?id=com.sokuma.battinglogapp&hl=zh_CN"
+        }
+      },
+      "verifiedAppLocales": {
+        "androidCode": [
+          "en",
+          "es",
+          "es-419",
+          "ja",
+          "ko",
+          "zh",
+          "zh-TW"
+        ],
+        "iosPublished": [
+          "EN",
+          "JA",
+          "KO",
+          "ZH",
+          "ES",
+          "ZH"
+        ]
+      },
+      "descriptionLocaleSource": "Existing app/sibling copy or official store listing for a verified app language; Google may automatically translate store text. Missing language falls back to English."
+    },
+    {
+      "id": "baseball-order",
+      "aliases": [
+        "com.sokuma.baseballordermaker",
+        "baseball_order",
+        "baseball_order_maker"
+      ],
+      "category": "BASEBALL",
+      "icon": "assets/baseball-order/icon.webp",
+      "screenshots": {
+        "ja": {
+          "paths": [
+            "assets/baseball-order/ja/screen-1.webp",
+            "assets/baseball-order/ja/screen-2.webp",
+            "assets/baseball-order/ja/screen-3.webp",
+            "assets/baseball-order/ja/screen-4.webp",
+            "assets/baseball-order/ja/screen-5.webp",
+            "assets/baseball-order/ja/screen-6.webp",
+            "assets/baseball-order/ja/screen-7.webp",
+            "assets/baseball-order/ja/screen-8.webp"
+          ],
+          "language": "ja",
+          "source": "https://play.google.com/store/apps/details?id=com.sokuma.baseballordermaker&hl=ja",
+          "size": [
+            640,
+            1138
+          ]
+        },
+        "en": {
+          "paths": [
+            "assets/baseball-order/screen-1.webp",
+            "assets/baseball-order/screen-2.webp",
+            "assets/baseball-order/screen-3.webp",
+            "assets/baseball-order/screen-4.webp",
+            "assets/baseball-order/screen-5.webp",
+            "assets/baseball-order/screen-6.webp",
+            "assets/baseball-order/screen-7.webp",
+            "assets/baseball-order/screen-8.webp"
+          ],
+          "language": "en",
+          "source": "https://play.google.com/store/apps/details?id=com.sokuma.baseballordermaker&hl=en",
+          "size": [
+            640,
+            1138
+          ]
+        }
+      },
+      "stores": {
+        "android": "https://play.google.com/store/apps/details?id=com.sokuma.baseballordermaker",
+        "ios": "https://apps.apple.com/app/id6754637753"
+      },
+      "copy": {
+        "ja": {
+          "name": "野球オーダー表",
+          "description": "打順・スタメン表を作成して共有できます。"
+        },
+        "en": {
+          "name": "Baseball Lineup Maker",
+          "description": "Create and share batting orders and starting lineups."
+        },
+        "es": {
+          "name": "Creador de lineups de béisbol",
+          "description": "Crea y comparte rápidamente tarjetas de lineup y órdenes al bate."
+        },
+        "ko": {
+          "name": "야구 라인업 메이커",
+          "description": "라인업 카드와 타순을 빠르게 만들고 공유합니다."
+        },
+        "zh-TW": {
+          "name": "棒球打序製作器",
+          "description": "快速建立並分享先發名單與打序表。"
+        },
+        "en-GB": {
+          "name": "Baseball Lineup Maker",
+          "description": "Create and share batting orders and starting lineups."
+        },
+        "zh-CN": {
+          "name": "Baseball Lineup Maker",
+          "description": "快速创建阵容、管理名单、检查位置并分享清晰的图片。",
+          "source": "https://play.google.com/store/apps/details?id=com.sokuma.baseballordermaker&hl=zh_CN"
+        }
+      },
+      "verifiedAppLocales": {
+        "androidCode": [
+          "en",
+          "es",
+          "ja",
+          "ko",
+          "zh",
+          "zh-TW"
+        ],
+        "iosPublished": [
+          "EN",
+          "JA",
+          "KO",
+          "ES",
+          "ZH"
+        ]
+      },
+      "descriptionLocaleSource": "Existing app/sibling copy or official store listing for a verified app language; Google may automatically translate store text. Missing language falls back to English."
+    },
+    {
+      "id": "motiontag",
+      "aliases": [
+        "com.sokuma.motiontag",
+        "motiontag",
+        "motion-tag",
+        "motion_tag"
+      ],
+      "category": "VIDEO ANALYSIS",
+      "icon": "assets/motiontag/icon.webp",
+      "screenshots": {
+        "ja": {
+          "paths": [
+            "assets/motiontag/ja/screen-1.webp",
+            "assets/motiontag/ja/screen-2.webp",
+            "assets/motiontag/ja/screen-3.webp",
+            "assets/motiontag/ja/screen-4.webp",
+            "assets/motiontag/ja/screen-5.webp",
+            "assets/motiontag/ja/screen-6.webp",
+            "assets/motiontag/ja/screen-7.webp",
+            "assets/motiontag/ja/screen-8.webp"
+          ],
+          "language": "ja",
+          "source": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag&hl=ja",
+          "size": [
+            640,
+            1138
+          ]
+        },
+        "en": {
+          "paths": [
+            "assets/motiontag/screen-1.webp",
+            "assets/motiontag/screen-2.webp",
+            "assets/motiontag/screen-3.webp",
+            "assets/motiontag/screen-4.webp",
+            "assets/motiontag/screen-5.webp",
+            "assets/motiontag/screen-6.webp",
+            "assets/motiontag/screen-7.webp",
+            "assets/motiontag/screen-8.webp"
+          ],
+          "language": "en",
+          "source": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag&hl=en",
+          "size": [
+            640,
+            1138
+          ]
+        }
+      },
+      "stores": {
+        "android": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag",
+        "ios": "https://apps.apple.com/app/id6796528948"
+      },
+      "copy": {
+        "ja": {
+          "name": "モーションタグ",
+          "description": "動画の比較とスロー再生で、フォームを分析できます。"
+        },
+        "en": {
+          "name": "MotionTagger: Video Form Coach",
+          "description": "Compare videos and use slow motion to analyze technique."
+        },
+        "es": {
+          "name": "Motion Tag: análisis de vídeo de técnica",
+          "description": "Analiza la técnica deportiva comparando vídeos y con cámara lenta."
+        },
+        "ko": {
+          "name": "모션 태그: 폼 영상 분석",
+          "description": "영상 비교와 슬로 모션으로 스포츠 동작을 분석합니다."
+        },
+        "zh-TW": {
+          "name": "Motion Tag：動作影片分析",
+          "description": "透過影片比較與慢動作分析運動姿勢。"
+        },
+        "en-GB": {
+          "name": "MotionTagger: Video Form Coach",
+          "description": "Compare videos and use slow motion to analyze technique."
+        },
+        "zh-CN": {
+          "name": "MotionTagger：动作视频分析",
+          "description": "录下运动训练，使用慢速播放、逐帧查看、区间循环、标注与双视频同步对比，分析姿势与动作；拍摄标记和训练记录也能集中整理，随时回顾进步。",
+          "source": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag&hl=zh_CN"
+        },
+        "de": {
+          "name": "MotionTagger: Bewegungsanalyse",
+          "description": "Training filmen, zwei Videos vergleichen und Bewegungen in Zeitlupe prüfen.",
+          "source": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag&hl=de"
+        },
+        "fr": {
+          "name": "MotionTagger : Analyse vidéo",
+          "description": "Filmez l'entraînement, comparez deux vidéos et analysez chaque geste au ralenti.",
+          "source": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag&hl=fr"
+        },
+        "it": {
+          "name": "MotionTagger: Analisi tecnica",
+          "description": "Registra l'allenamento, confronta due video e rivedi ogni gesto al rallentatore.",
+          "source": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag&hl=it"
+        },
+        "pt": {
+          "name": "MotionTagger: Análise técnica",
+          "description": "Grave o treino, compare dois vídeos e revise cada movimento em câmera lenta.",
+          "source": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag&hl=pt"
+        },
+        "pt-BR": {
+          "name": "MotionTagger: Análise técnica",
+          "description": "Grave o treino, compare dois vídeos e revise cada movimento em câmera lenta.",
+          "source": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag&hl=pt_BR"
+        },
+        "nl": {
+          "name": "MotionTagger: Bewegingsanalyse",
+          "description": "Film je training, vergelijk twee video's en bekijk elke beweging in slow motion.",
+          "source": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag&hl=nl"
+        }
+      },
+      "verifiedAppLocales": {
+        "androidCode": null,
+        "iosPublished": [
+          "NL",
+          "EN",
+          "FR",
+          "DE",
+          "IT",
+          "JA",
+          "KO",
+          "PT",
+          "ZH",
+          "ES",
+          "ZH"
+        ]
+      },
+      "descriptionLocaleSource": "Existing app/sibling copy or official store listing for a verified app language; Google may automatically translate store text. Missing language falls back to English."
+    },
+    {
       "id": "dartlog",
       "aliases": [
         "com.sokuma.dartlog",
@@ -939,580 +1513,6 @@
       "descriptionLocaleSource": "Existing app/sibling copy or official store listing for a verified app language; Google may automatically translate store text. Missing language falls back to English."
     },
     {
-      "id": "batting-log",
-      "aliases": [
-        "com.sokuma.battinglogapp",
-        "batting_log",
-        "batting",
-        "batting_log_app"
-      ],
-      "category": "BASEBALL",
-      "icon": "assets/batting-log/icon.webp",
-      "screenshots": {
-        "ja": {
-          "paths": [
-            "assets/batting-log/ja/screen-1.webp",
-            "assets/batting-log/ja/screen-2.webp",
-            "assets/batting-log/ja/screen-3.webp",
-            "assets/batting-log/ja/screen-4.webp",
-            "assets/batting-log/ja/screen-5.webp",
-            "assets/batting-log/ja/screen-6.webp",
-            "assets/batting-log/ja/screen-7.webp",
-            "assets/batting-log/ja/screen-8.webp"
-          ],
-          "language": "ja",
-          "source": "https://play.google.com/store/apps/details?id=com.sokuma.battinglogapp&hl=ja",
-          "size": [
-            640,
-            1280
-          ]
-        },
-        "en": {
-          "paths": [
-            "assets/batting-log/screen-1.webp",
-            "assets/batting-log/screen-2.webp",
-            "assets/batting-log/screen-3.webp",
-            "assets/batting-log/screen-4.webp",
-            "assets/batting-log/screen-5.webp",
-            "assets/batting-log/screen-6.webp",
-            "assets/batting-log/screen-7.webp",
-            "assets/batting-log/screen-8.webp"
-          ],
-          "language": "en",
-          "source": "https://play.google.com/store/apps/details?id=com.sokuma.battinglogapp&hl=en",
-          "size": [
-            640,
-            1280
-          ]
-        },
-        "es": {
-          "paths": [
-            "assets/batting-log/es/screen-1.webp",
-            "assets/batting-log/es/screen-2.webp",
-            "assets/batting-log/es/screen-3.webp",
-            "assets/batting-log/es/screen-4.webp",
-            "assets/batting-log/es/screen-5.webp",
-            "assets/batting-log/es/screen-6.webp",
-            "assets/batting-log/es/screen-7.webp",
-            "assets/batting-log/es/screen-8.webp"
-          ],
-          "language": "es",
-          "source": "https://play.google.com/store/apps/details?id=com.sokuma.battinglogapp&hl=es",
-          "size": [
-            640,
-            1280
-          ]
-        },
-        "ko": {
-          "paths": [
-            "assets/batting-log/ko/screen-1.webp",
-            "assets/batting-log/ko/screen-2.webp",
-            "assets/batting-log/ko/screen-3.webp",
-            "assets/batting-log/ko/screen-4.webp",
-            "assets/batting-log/ko/screen-5.webp",
-            "assets/batting-log/ko/screen-6.webp",
-            "assets/batting-log/ko/screen-7.webp",
-            "assets/batting-log/ko/screen-8.webp"
-          ],
-          "language": "ko",
-          "source": "https://play.google.com/store/apps/details?id=com.sokuma.battinglogapp&hl=ko",
-          "size": [
-            640,
-            1280
-          ]
-        }
-      },
-      "stores": {
-        "android": "https://play.google.com/store/apps/details?id=com.sokuma.battinglogapp",
-        "ios": "https://apps.apple.com/app/id6761696678"
-      },
-      "copy": {
-        "ja": {
-          "name": "野球打率ノート",
-          "description": "打席の結果を記録し、打率などの打撃成績を確認できます。"
-        },
-        "en": {
-          "name": "Baseball Batting Log & Stats",
-          "description": "Record at-bats and view batting averages and other stats."
-        },
-        "es": {
-          "name": "Registro de Bateo",
-          "description": "Registra tus turnos al bate y revisa tus estadísticas."
-        },
-        "ko": {
-          "name": "타격 기록",
-          "description": "타석을 기록하고 타율과 성적 변화를 확인하세요."
-        },
-        "zh-TW": {
-          "name": "打擊紀錄",
-          "description": "記錄打席，回顧打擊率與成績變化。"
-        },
-        "en-GB": {
-          "name": "Baseball Batting Log & Stats",
-          "description": "Record at-bats and view batting averages and other stats."
-        },
-        "zh-CN": {
-          "name": "Baseball Batting Log & Stats",
-          "description": "记录击球和练习情况；自动跟踪平均击球率、OPS、上垒率、长打率、击球分布图和趋势。",
-          "source": "https://play.google.com/store/apps/details?id=com.sokuma.battinglogapp&hl=zh_CN"
-        }
-      },
-      "verifiedAppLocales": {
-        "androidCode": [
-          "en",
-          "es",
-          "es-419",
-          "ja",
-          "ko",
-          "zh",
-          "zh-TW"
-        ],
-        "iosPublished": [
-          "EN",
-          "JA",
-          "KO",
-          "ZH",
-          "ES",
-          "ZH"
-        ]
-      },
-      "descriptionLocaleSource": "Existing app/sibling copy or official store listing for a verified app language; Google may automatically translate store text. Missing language falls back to English."
-    },
-    {
-      "id": "baseball-order",
-      "aliases": [
-        "com.sokuma.baseballordermaker",
-        "baseball_order",
-        "baseball_order_maker"
-      ],
-      "category": "BASEBALL",
-      "icon": "assets/baseball-order/icon.webp",
-      "screenshots": {
-        "ja": {
-          "paths": [
-            "assets/baseball-order/ja/screen-1.webp",
-            "assets/baseball-order/ja/screen-2.webp",
-            "assets/baseball-order/ja/screen-3.webp",
-            "assets/baseball-order/ja/screen-4.webp",
-            "assets/baseball-order/ja/screen-5.webp",
-            "assets/baseball-order/ja/screen-6.webp",
-            "assets/baseball-order/ja/screen-7.webp",
-            "assets/baseball-order/ja/screen-8.webp"
-          ],
-          "language": "ja",
-          "source": "https://play.google.com/store/apps/details?id=com.sokuma.baseballordermaker&hl=ja",
-          "size": [
-            640,
-            1138
-          ]
-        },
-        "en": {
-          "paths": [
-            "assets/baseball-order/screen-1.webp",
-            "assets/baseball-order/screen-2.webp",
-            "assets/baseball-order/screen-3.webp",
-            "assets/baseball-order/screen-4.webp",
-            "assets/baseball-order/screen-5.webp",
-            "assets/baseball-order/screen-6.webp",
-            "assets/baseball-order/screen-7.webp",
-            "assets/baseball-order/screen-8.webp"
-          ],
-          "language": "en",
-          "source": "https://play.google.com/store/apps/details?id=com.sokuma.baseballordermaker&hl=en",
-          "size": [
-            640,
-            1138
-          ]
-        }
-      },
-      "stores": {
-        "android": "https://play.google.com/store/apps/details?id=com.sokuma.baseballordermaker",
-        "ios": "https://apps.apple.com/app/id6754637753"
-      },
-      "copy": {
-        "ja": {
-          "name": "野球オーダー表",
-          "description": "打順・スタメン表を作成して共有できます。"
-        },
-        "en": {
-          "name": "Baseball Lineup Maker",
-          "description": "Create and share batting orders and starting lineups."
-        },
-        "es": {
-          "name": "Creador de lineups de béisbol",
-          "description": "Crea y comparte rápidamente tarjetas de lineup y órdenes al bate."
-        },
-        "ko": {
-          "name": "야구 라인업 메이커",
-          "description": "라인업 카드와 타순을 빠르게 만들고 공유합니다."
-        },
-        "zh-TW": {
-          "name": "棒球打序製作器",
-          "description": "快速建立並分享先發名單與打序表。"
-        },
-        "en-GB": {
-          "name": "Baseball Lineup Maker",
-          "description": "Create and share batting orders and starting lineups."
-        },
-        "zh-CN": {
-          "name": "Baseball Lineup Maker",
-          "description": "快速创建阵容、管理名单、检查位置并分享清晰的图片。",
-          "source": "https://play.google.com/store/apps/details?id=com.sokuma.baseballordermaker&hl=zh_CN"
-        }
-      },
-      "verifiedAppLocales": {
-        "androidCode": [
-          "en",
-          "es",
-          "ja",
-          "ko",
-          "zh",
-          "zh-TW"
-        ],
-        "iosPublished": [
-          "EN",
-          "JA",
-          "KO",
-          "ES",
-          "ZH"
-        ]
-      },
-      "descriptionLocaleSource": "Existing app/sibling copy or official store listing for a verified app language; Google may automatically translate store text. Missing language falls back to English."
-    },
-    {
-      "id": "starting-xi",
-      "aliases": [
-        "com.sokuma.soccerlineupboard",
-        "starting_xi",
-        "soccer_lineup_board",
-        "soccer-lineup"
-      ],
-      "category": "FOOTBALL",
-      "icon": "assets/starting-xi/icon.webp",
-      "screenshots": {
-        "ja": {
-          "paths": [
-            "assets/starting-xi/ja/screen-1.webp",
-            "assets/starting-xi/ja/screen-2.webp",
-            "assets/starting-xi/ja/screen-3.webp",
-            "assets/starting-xi/ja/screen-4.webp",
-            "assets/starting-xi/ja/screen-5.webp",
-            "assets/starting-xi/ja/screen-6.webp",
-            "assets/starting-xi/ja/screen-7.webp",
-            "assets/starting-xi/ja/screen-8.webp"
-          ],
-          "language": "ja",
-          "source": "https://play.google.com/store/apps/details?id=com.sokuma.soccerlineupboard&hl=ja",
-          "size": [
-            640,
-            1138
-          ]
-        },
-        "en": {
-          "paths": [
-            "assets/starting-xi/screen-1.webp",
-            "assets/starting-xi/screen-2.webp",
-            "assets/starting-xi/screen-3.webp",
-            "assets/starting-xi/screen-4.webp",
-            "assets/starting-xi/screen-5.webp",
-            "assets/starting-xi/screen-6.webp",
-            "assets/starting-xi/screen-7.webp",
-            "assets/starting-xi/screen-8.webp"
-          ],
-          "language": "en",
-          "source": "https://play.google.com/store/apps/details?id=com.sokuma.soccerlineupboard&hl=en",
-          "size": [
-            640,
-            1138
-          ]
-        },
-        "pt": {
-          "paths": [
-            "assets/starting-xi/pt/screen-1.webp",
-            "assets/starting-xi/pt/screen-2.webp",
-            "assets/starting-xi/pt/screen-3.webp",
-            "assets/starting-xi/pt/screen-4.webp",
-            "assets/starting-xi/pt/screen-5.webp",
-            "assets/starting-xi/pt/screen-6.webp",
-            "assets/starting-xi/pt/screen-7.webp",
-            "assets/starting-xi/pt/screen-8.webp"
-          ],
-          "language": "pt",
-          "source": "https://play.google.com/store/apps/details?id=com.sokuma.soccerlineupboard&hl=pt_PT",
-          "size": [
-            640,
-            1138
-          ]
-        },
-        "pt-BR": {
-          "paths": [
-            "assets/starting-xi/pt/screen-1.webp",
-            "assets/starting-xi/pt/screen-2.webp",
-            "assets/starting-xi/pt/screen-3.webp",
-            "assets/starting-xi/pt/screen-4.webp",
-            "assets/starting-xi/pt/screen-5.webp",
-            "assets/starting-xi/pt/screen-6.webp",
-            "assets/starting-xi/pt/screen-7.webp",
-            "assets/starting-xi/pt/screen-8.webp"
-          ],
-          "language": "pt",
-          "source": "https://play.google.com/store/apps/details?id=com.sokuma.soccerlineupboard&hl=pt_BR",
-          "size": [
-            640,
-            1138
-          ]
-        }
-      },
-      "stores": {
-        "android": "https://play.google.com/store/apps/details?id=com.sokuma.soccerlineupboard",
-        "ios": "https://apps.apple.com/app/id6768674146"
-      },
-      "copy": {
-        "ja": {
-          "name": "サッカーフォーメーションボード",
-          "description": "スタメン表や戦術ボードを作成し、画像で共有できます。",
-          "source": "repository:soccer_lineup_board/release_notes/2.4.0/store_text.md#ja"
-        },
-        "en": {
-          "name": "Soccer Lineup: Starting XI",
-          "description": "Create soccer lineups and tactics boards, then share them as images.",
-          "source": "repository:soccer_lineup_board/release_notes/2.4.0/store_text.md#en-US"
-        },
-        "es": {
-          "name": "Pizarra de Alineación de Fútbol",
-          "description": "Arma tu alineación y pizarra táctica de fútbol 7, 9 y 11. Comparte como imagen.",
-          "source": "repository:soccer_lineup_board/release_notes/2.4.0/store_text.md#es-419"
-        },
-        "ko": {
-          "name": "축구 라인업 보드",
-          "description": "축구 라인업과 전술 보드를 만들고 이미지로 공유하세요.",
-          "source": "repository:soccer_lineup_board/release_notes/2.4.0/store_text.md#ko"
-        },
-        "zh-TW": {
-          "name": "足球陣型板",
-          "description": "建立足球陣容與戰術板，並以圖片分享。",
-          "source": "repository:soccer_lineup_board/release_notes/2.4.0/store_text.md#zh-Hant"
-        },
-        "en-GB": {
-          "name": "Soccer Lineup: Starting XI",
-          "description": "Create soccer lineups and tactics boards, then share them as images.",
-          "source": "repository:soccer_lineup_board/release_notes/2.4.0/store_text.md#en-US"
-        },
-        "zh-CN": {
-          "name": "足球阵容与战术",
-          "description": "创建足球阵容和战术板，并以图片分享。",
-          "source": "repository:soccer_lineup_board/release_notes/2.4.0/store_text.md#zh-Hans"
-        },
-        "de": {
-          "name": "Fußball Aufstellung & Taktik",
-          "description": "Erstelle Aufstellungen und Taktiktafeln und teile sie als Bilder.",
-          "source": "repository:soccer_lineup_board/release_notes/2.4.0/store_text.md#de-DE"
-        },
-        "bn": {
-          "name": "ফুটবল লাইনআপ ও কৌশল",
-          "description": "ফুটবল লাইনআপ ও কৌশল বোর্ড তৈরি করে ছবি হিসেবে শেয়ার করুন।",
-          "source": "repository:soccer_lineup_board/release_notes/2.4.0/store_text.md#bn"
-        },
-        "it": {
-          "name": "Formazioni Calcio e Tattica",
-          "description": "Crea formazioni e lavagne tattiche, poi condividile come immagini.",
-          "source": "repository:soccer_lineup_board/release_notes/2.4.0/store_text.md#it"
-        },
-        "pt": {
-          "name": "Escalação Futebol e Tática",
-          "description": "Monte escalações de futebol, society e futsal e compartilhe como imagem.",
-          "source": "repository:soccer_lineup_board/release_notes/2.4.0/store_text.md#pt-BR"
-        },
-        "fr": {
-          "name": "Compo Football & Tactique",
-          "description": "Créez compos et tableaux tactiques, puis partagez-les en images.",
-          "source": "repository:soccer_lineup_board/release_notes/2.4.0/store_text.md#fr-FR"
-        },
-        "pt-BR": {
-          "name": "Escalação Futebol e Tática",
-          "description": "Monte escalações de futebol, society e futsal e compartilhe como imagem.",
-          "source": "repository:soccer_lineup_board/release_notes/2.4.0/store_text.md#pt-BR"
-        },
-        "ar": {
-          "name": "تشكيلة كرة القدم والتكتيك",
-          "description": "أنشئ تشكيلات كرة القدم واللوحات التكتيكية وشاركها كصور.",
-          "source": "repository:soccer_lineup_board/release_notes/2.4.0/store_text.md#ar"
-        },
-        "tr": {
-          "name": "Futbol Kadrosu ve Taktik",
-          "description": "Futbol kadroları ve taktik tahtaları oluşturup görsel olarak paylaşın.",
-          "source": "repository:soccer_lineup_board/release_notes/2.4.0/store_text.md#tr"
-        },
-        "id": {
-          "name": "Susunan Pemain & Taktik",
-          "description": "Buat susunan pemain dan papan taktik, lalu bagikan sebagai gambar.",
-          "source": "repository:soccer_lineup_board/release_notes/2.4.0/store_text.md#id"
-        }
-      },
-      "verifiedAppLocales": {
-        "androidCode": [
-          "ar",
-          "bn",
-          "de",
-          "en",
-          "en-GB",
-          "es",
-          "fr",
-          "id",
-          "it",
-          "ja",
-          "ko",
-          "pt",
-          "pt-BR",
-          "tr",
-          "zh",
-          "zh-Hans",
-          "zh-Hant"
-        ],
-        "iosPublished": [
-          "EN",
-          "FR",
-          "DE",
-          "IT",
-          "JA",
-          "PT",
-          "ES"
-        ]
-      },
-      "descriptionLocaleSource": "Existing app/sibling copy or official store listing for a verified app language; Google may automatically translate store text. Missing language falls back to English."
-    },
-    {
-      "id": "motiontag",
-      "aliases": [
-        "com.sokuma.motiontag",
-        "motiontag",
-        "motion-tag",
-        "motion_tag"
-      ],
-      "category": "VIDEO ANALYSIS",
-      "icon": "assets/motiontag/icon.webp",
-      "screenshots": {
-        "ja": {
-          "paths": [
-            "assets/motiontag/ja/screen-1.webp",
-            "assets/motiontag/ja/screen-2.webp",
-            "assets/motiontag/ja/screen-3.webp",
-            "assets/motiontag/ja/screen-4.webp",
-            "assets/motiontag/ja/screen-5.webp",
-            "assets/motiontag/ja/screen-6.webp",
-            "assets/motiontag/ja/screen-7.webp",
-            "assets/motiontag/ja/screen-8.webp"
-          ],
-          "language": "ja",
-          "source": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag&hl=ja",
-          "size": [
-            640,
-            1138
-          ]
-        },
-        "en": {
-          "paths": [
-            "assets/motiontag/screen-1.webp",
-            "assets/motiontag/screen-2.webp",
-            "assets/motiontag/screen-3.webp",
-            "assets/motiontag/screen-4.webp",
-            "assets/motiontag/screen-5.webp",
-            "assets/motiontag/screen-6.webp",
-            "assets/motiontag/screen-7.webp",
-            "assets/motiontag/screen-8.webp"
-          ],
-          "language": "en",
-          "source": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag&hl=en",
-          "size": [
-            640,
-            1138
-          ]
-        }
-      },
-      "stores": {
-        "android": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag",
-        "ios": "https://apps.apple.com/app/id6796528948"
-      },
-      "copy": {
-        "ja": {
-          "name": "モーションタグ",
-          "description": "動画の比較とスロー再生で、フォームを分析できます。"
-        },
-        "en": {
-          "name": "MotionTagger: Video Form Coach",
-          "description": "Compare videos and use slow motion to analyze technique."
-        },
-        "es": {
-          "name": "Motion Tag: análisis de vídeo de técnica",
-          "description": "Analiza la técnica deportiva comparando vídeos y con cámara lenta."
-        },
-        "ko": {
-          "name": "모션 태그: 폼 영상 분석",
-          "description": "영상 비교와 슬로 모션으로 스포츠 동작을 분석합니다."
-        },
-        "zh-TW": {
-          "name": "Motion Tag：動作影片分析",
-          "description": "透過影片比較與慢動作分析運動姿勢。"
-        },
-        "en-GB": {
-          "name": "MotionTagger: Video Form Coach",
-          "description": "Compare videos and use slow motion to analyze technique."
-        },
-        "zh-CN": {
-          "name": "MotionTagger：动作视频分析",
-          "description": "录下运动训练，使用慢速播放、逐帧查看、区间循环、标注与双视频同步对比，分析姿势与动作；拍摄标记和训练记录也能集中整理，随时回顾进步。",
-          "source": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag&hl=zh_CN"
-        },
-        "de": {
-          "name": "MotionTagger: Bewegungsanalyse",
-          "description": "Training filmen, zwei Videos vergleichen und Bewegungen in Zeitlupe prüfen.",
-          "source": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag&hl=de"
-        },
-        "fr": {
-          "name": "MotionTagger : Analyse vidéo",
-          "description": "Filmez l'entraînement, comparez deux vidéos et analysez chaque geste au ralenti.",
-          "source": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag&hl=fr"
-        },
-        "it": {
-          "name": "MotionTagger: Analisi tecnica",
-          "description": "Registra l'allenamento, confronta due video e rivedi ogni gesto al rallentatore.",
-          "source": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag&hl=it"
-        },
-        "pt": {
-          "name": "MotionTagger: Análise técnica",
-          "description": "Grave o treino, compare dois vídeos e revise cada movimento em câmera lenta.",
-          "source": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag&hl=pt"
-        },
-        "pt-BR": {
-          "name": "MotionTagger: Análise técnica",
-          "description": "Grave o treino, compare dois vídeos e revise cada movimento em câmera lenta.",
-          "source": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag&hl=pt_BR"
-        },
-        "nl": {
-          "name": "MotionTagger: Bewegingsanalyse",
-          "description": "Film je training, vergelijk twee video's en bekijk elke beweging in slow motion.",
-          "source": "https://play.google.com/store/apps/details?id=com.sokuma.motiontag&hl=nl"
-        }
-      },
-      "verifiedAppLocales": {
-        "androidCode": null,
-        "iosPublished": [
-          "NL",
-          "EN",
-          "FR",
-          "DE",
-          "IT",
-          "JA",
-          "KO",
-          "PT",
-          "ZH",
-          "ES",
-          "ZH"
-        ]
-      },
-      "descriptionLocaleSource": "Existing app/sibling copy or official store listing for a verified app language; Google may automatically translate store text. Missing language falls back to English."
-    },
-    {
       "id": "bowling-note",
       "aliases": [
         "com.sokuma.bowlingnote",
@@ -1580,7 +1580,8 @@
           "ja"
         ]
       },
-      "descriptionLocaleSource": "Store text source of truth in the app repository (Japanese primary, English US). Android only as of 2026-11-17; iOS link is added after the App Store listing is public. Other languages fall back to English."
+      "descriptionLocaleSource": "Store text source of truth in the app repository (Japanese primary, English US). Android only as of 2026-11-17; iOS link is added after the App Store listing is public. Other languages fall back to English.",
+      "newUntil": "2027-01-31"
     }
   ]
 }
