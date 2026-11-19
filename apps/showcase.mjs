@@ -206,6 +206,10 @@ try {
 
     // Hero: decorative icon collage so visitors see at a glance what kind of apps these are.
     const heroIcons = document.querySelector('#hero-icons');
+    // Column counts follow the number of apps so the last row is never a single orphan icon.
+    const iconCount = catalog.apps.length;
+    heroIcons.style.setProperty('--cols-wide', iconCount <= 6 ? 3 : 4);
+    heroIcons.style.setProperty('--cols-narrow', iconCount <= 8 ? iconCount : Math.ceil(iconCount / 2));
     heroIcons.replaceChildren(...catalog.apps.map((app, i) => {
       const tile = node('span', 'hero-icon');
       tile.style.setProperty('--i', i);

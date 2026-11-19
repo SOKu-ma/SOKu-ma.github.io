@@ -41,7 +41,8 @@
         "BASEBALL": "野球",
         "FOOTBALL": "サッカー",
         "VIDEO ANALYSIS": "動画分析",
-        "BOWLING": "ボウリング"
+        "BOWLING": "ボウリング",
+        "OTHER": "その他"
       },
       "imageFallback": "この言語の画像がないため、英語の画像を表示しています。",
       "copyFallback": "この言語の紹介文がないため、英語を表示しています。",
@@ -76,7 +77,8 @@
         "BASEBALL": "BASEBALL",
         "FOOTBALL": "FOOTBALL",
         "VIDEO ANALYSIS": "VIDEO ANALYSIS",
-        "BOWLING": "BOWLING"
+        "BOWLING": "BOWLING",
+        "OTHER": "OTHER"
       },
       "imageFallback": "English images: localized previews unavailable.",
       "copyFallback": "English description: translation unavailable.",
@@ -111,7 +113,8 @@
         "BASEBALL": "BÉISBOL",
         "FOOTBALL": "FÚTBOL",
         "VIDEO ANALYSIS": "ANÁLISIS DE VÍDEO",
-        "BOWLING": "BOLOS"
+        "BOWLING": "BOLOS",
+        "OTHER": "OTROS"
       },
       "imageFallback": "Imágenes en inglés: no hay vistas localizadas.",
       "copyFallback": "Descripción en inglés: traducción no disponible.",
@@ -146,7 +149,8 @@
         "BASEBALL": "야구",
         "FOOTBALL": "축구",
         "VIDEO ANALYSIS": "영상 분석",
-        "BOWLING": "볼링"
+        "BOWLING": "볼링",
+        "OTHER": "기타"
       },
       "imageFallback": "번역된 이미지가 없어 영어 이미지를 표시합니다.",
       "copyFallback": "번역된 소개가 없어 영어로 표시합니다.",
@@ -181,7 +185,8 @@
         "BASEBALL": "棒球",
         "FOOTBALL": "足球",
         "VIDEO ANALYSIS": "影片分析",
-        "BOWLING": "保齡球"
+        "BOWLING": "保齡球",
+        "OTHER": "其他"
       },
       "imageFallback": "此語言的圖片尚未提供，因此顯示英文圖片。",
       "copyFallback": "此語言的介紹尚未提供，因此顯示英文。",
@@ -218,7 +223,8 @@
         "BASEBALL": "BASEBALL",
         "FOOTBALL": "FUSSBALL",
         "VIDEO ANALYSIS": "VIDEOANALYSE",
-        "BOWLING": "BOWLING"
+        "BOWLING": "BOWLING",
+        "OTHER": "SONSTIGES"
       },
       "sourceHeading": "Deine App",
       "otherApps": "Weitere Apps",
@@ -253,7 +259,8 @@
         "BASEBALL": "BASEBALL",
         "FOOTBALL": "FOOTBALL",
         "VIDEO ANALYSIS": "ANALYSE VIDÉO",
-        "BOWLING": "BOWLING"
+        "BOWLING": "BOWLING",
+        "OTHER": "AUTRES"
       },
       "sourceHeading": "Votre app",
       "otherApps": "D’autres applications",
@@ -288,7 +295,8 @@
         "BASEBALL": "BASEBALL",
         "FOOTBALL": "CALCIO",
         "VIDEO ANALYSIS": "ANALISI VIDEO",
-        "BOWLING": "BOWLING"
+        "BOWLING": "BOWLING",
+        "OTHER": "ALTRO"
       },
       "sourceHeading": "La tua app",
       "otherApps": "Altre app",
@@ -323,7 +331,8 @@
         "BASEBALL": "BASEBOL",
         "FOOTBALL": "FUTEBOL",
         "VIDEO ANALYSIS": "ANÁLISE DE VÍDEO",
-        "BOWLING": "BOWLING"
+        "BOWLING": "BOWLING",
+        "OTHER": "OUTROS"
       },
       "sourceHeading": "A sua aplicação",
       "otherApps": "Outras aplicações",
@@ -358,7 +367,8 @@
         "BASEBALL": "BEISEBOL",
         "FOOTBALL": "FUTEBOL",
         "VIDEO ANALYSIS": "ANÁLISE DE VÍDEO",
-        "BOWLING": "BOLICHE"
+        "BOWLING": "BOLICHE",
+        "OTHER": "OUTROS"
       },
       "sourceHeading": "Seu app",
       "otherApps": "Outros apps",
@@ -393,7 +403,8 @@
         "BASEBALL": "棒球",
         "FOOTBALL": "足球",
         "VIDEO ANALYSIS": "视频分析",
-        "BOWLING": "保龄球"
+        "BOWLING": "保龄球",
+        "OTHER": "其他"
       },
       "sourceHeading": "您正在使用的应用",
       "otherApps": "其他应用",
@@ -428,7 +439,8 @@
         "BASEBALL": "البيسبول",
         "FOOTBALL": "كرة القدم",
         "VIDEO ANALYSIS": "تحليل الفيديو",
-        "BOWLING": "البولينغ"
+        "BOWLING": "البولينغ",
+        "OTHER": "أخرى"
       },
       "sourceHeading": "تطبيقك",
       "otherApps": "تطبيقات أخرى",
@@ -463,7 +475,8 @@
         "BASEBALL": "বেসবল",
         "FOOTBALL": "ফুটবল",
         "VIDEO ANALYSIS": "ভিডিও বিশ্লেষণ",
-        "BOWLING": "বোলিং"
+        "BOWLING": "বোলিং",
+        "OTHER": "অন্যান্য"
       },
       "sourceHeading": "আপনার অ্যাপ",
       "otherApps": "অন্যান্য অ্যাপ",
@@ -498,7 +511,8 @@
         "BASEBALL": "BISBOL",
         "FOOTBALL": "SEPAK BOLA",
         "VIDEO ANALYSIS": "ANALISIS VIDEO",
-        "BOWLING": "BOWLING"
+        "BOWLING": "BOWLING",
+        "OTHER": "LAINNYA"
       },
       "sourceHeading": "Aplikasi Anda",
       "otherApps": "Aplikasi lainnya",
@@ -533,7 +547,8 @@
         "BASEBALL": "BEYZBOL",
         "FOOTBALL": "FUTBOL",
         "VIDEO ANALYSIS": "VİDEO ANALİZİ",
-        "BOWLING": "BOWLING"
+        "BOWLING": "BOWLING",
+        "OTHER": "DİĞER"
       },
       "sourceHeading": "Uygulamanız",
       "otherApps": "Diğer uygulamalar",
@@ -568,7 +583,8 @@
         "BASEBALL": "HONKBAL",
         "FOOTBALL": "VOETBAL",
         "VIDEO ANALYSIS": "VIDEOANALYSE",
-        "BOWLING": "BOWLING"
+        "BOWLING": "BOWLING",
+        "OTHER": "OVERIG"
       },
       "sourceHeading": "Jouw app",
       "otherApps": "Andere apps",
@@ -603,7 +619,8 @@
         "BASEBALL": "BASEBALL",
         "FOOTBALL": "PIŁKA NOŻNA",
         "VIDEO ANALYSIS": "ANALIZA WIDEO",
-        "BOWLING": "KRĘGLE"
+        "BOWLING": "KRĘGLE",
+        "OTHER": "INNE"
       },
       "sourceHeading": "Twoja aplikacja",
       "otherApps": "Inne aplikacje",
@@ -638,7 +655,8 @@
         "BASEBALL": "BASEBALL",
         "FOOTBALL": "FOOTBALL",
         "VIDEO ANALYSIS": "VIDEO ANALYSIS",
-        "BOWLING": "BOWLING"
+        "BOWLING": "BOWLING",
+        "OTHER": "OTHER"
       },
       "sourceHeading": "Your app",
       "otherApps": "Other apps",
@@ -1583,6 +1601,78 @@
       },
       "descriptionLocaleSource": "Store text source of truth in the app repository (Japanese primary, English US). Android only as of 2026-11-17; iOS link is added after the App Store listing is public. Other languages fall back to English.",
       "newUntil": "2027-01-31"
+    },
+    {
+      "id": "kansen-album",
+      "aliases": [
+        "com.sokuma.kansenAlbum",
+        "com.sokuma.kansenalbum",
+        "kansen_album",
+        "kansenalbum"
+      ],
+      "category": "OTHER",
+      "icon": "assets/kansen-album/icon.webp",
+      "screenshots": {
+        "ja": {
+          "paths": [
+            "assets/kansen-album/ja/screen-1.webp",
+            "assets/kansen-album/ja/screen-2.webp",
+            "assets/kansen-album/ja/screen-3.webp",
+            "assets/kansen-album/ja/screen-4.webp",
+            "assets/kansen-album/ja/screen-5.webp",
+            "assets/kansen-album/ja/screen-6.webp",
+            "assets/kansen-album/ja/screen-7.webp",
+            "assets/kansen-album/ja/screen-8.webp"
+          ],
+          "language": "ja",
+          "source": "Local copy of the Google Play release images (~/AppStoreAssets/kansen_album/1.0.0/release/android/<locale>/phone), resized to 640px wide.",
+          "size": [
+            640,
+            1138
+          ]
+        },
+        "en": {
+          "paths": [
+            "assets/kansen-album/screen-1.webp",
+            "assets/kansen-album/screen-2.webp",
+            "assets/kansen-album/screen-3.webp",
+            "assets/kansen-album/screen-4.webp",
+            "assets/kansen-album/screen-5.webp",
+            "assets/kansen-album/screen-6.webp",
+            "assets/kansen-album/screen-7.webp",
+            "assets/kansen-album/screen-8.webp"
+          ],
+          "language": "en",
+          "source": "Local copy of the Google Play release images (~/AppStoreAssets/kansen_album/1.0.0/release/android/<locale>/phone), resized to 640px wide.",
+          "size": [
+            640,
+            1138
+          ]
+        }
+      },
+      "stores": {
+        "android": "https://play.google.com/store/apps/details?id=com.sokuma.kansenAlbum",
+        "ios": "https://apps.apple.com/app/id6820014593"
+      },
+      "copy": {
+        "ja": {
+          "name": "観戦アルバム",
+          "description": "写真の撮影場所と日時から、行った試合やライブを見つけて半券にし、1冊のアルバムにまとめます。",
+          "source": "repository:kansen_album/release_notes/1.0.0/store_text.md#ja"
+        },
+        "en": {
+          "name": "Ticket Stub Diary - Game Log",
+          "description": "Finds the games and concerts you've been to from your photos and turns each visit into a ticket stub.",
+          "source": "repository:kansen_album/release_notes/1.0.0/store_text.md#en-US"
+        }
+      },
+      "verifiedAppLocales": {
+        "androidCode": [
+          "en",
+          "ja"
+        ]
+      },
+      "descriptionLocaleSource": "Store text source of truth in the app repository (Japanese primary, English US). Listed on both stores (iOS 1.0.0 released 2026-10-20, confirmed via the official lookup on 2026-11-20). Other languages fall back to English."
     }
   ]
 }
