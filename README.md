@@ -34,9 +34,8 @@ SO-KUMA Labs の公式サイトを公開するための GitHub Pages リポジ�
 スクリーンショットは何枚でも登録できます。カードでは2枚ずつ見え、3枚以上なら左右ボタン（PC）・横スワイプ（スマホ）と「n / 全体」の表示が出ます。画像をタップすると全画面の拡大表示になり、左右キー・スワイプで全枚数を送れます（Esc・×で閉じる）。
 紹介元カードはストアボタンを省いて上部に横長で表示します。将来のアプリも同じデータ形式で追加できます。
 
-ボウリングノート（`bowling-note`）は 2026-11-17 時点で Android のみ公開のため、`stores` は `android` だけです。カードの対応OS表示とストアボタンも Google Play のみになります。
+ボウリングノート（`bowling-note`）は 2026-11-17 に Android、2026-11-19 に iOS で公開されました。iOS のリンク（id6832171984）は 2026-11-19 に公式ストアの掲載で確認して追加しました。
 アプリ側（`bowling_note/lib/app/app_links.dart`）は既に `/apps/?from=bowling-note` を開くので、紹介元表示がそのまま有効になります。
-App Store 公開後は `stores.ios`（`https://apps.apple.com/app/id6832171984`）を追加してください。
 
 ### Local build / preview
 
