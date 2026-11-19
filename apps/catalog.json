@@ -1522,7 +1522,8 @@
       "category": "BOWLING",
       "icon": "assets/bowling-note/icon.webp",
       "stores": {
-        "android": "https://play.google.com/store/apps/details?id=com.sokuma.bowlingnote"
+        "android": "https://play.google.com/store/apps/details?id=com.sokuma.bowlingnote",
+        "ios": "https://apps.apple.com/app/id6832171984"
       },
       "copy": {
         "ja": {
