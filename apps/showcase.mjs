@@ -1,4 +1,4 @@
-import { resolveState, storeEntries, storeBadge, safeStoreUrl, selectScreenshots, selectCopy, groupApps, categoriesOf, platformsOf, isNew } from './state.mjs';
+import { resolveState, storeEntries, storeBadge, campaignStoreUrl, selectScreenshots, selectCopy, groupApps, categoriesOf, platformsOf, isNew } from './state.mjs';
 
 const node = (tag, className, text) => {
   const element = document.createElement(tag);
@@ -82,7 +82,7 @@ try {
   const storeLinks = (app, copy, state, ui) => {
     const stores = node('div', 'stores');
     for (const [platform, url] of storeEntries(app.stores, state.platform)) {
-      const href = safeStoreUrl(url);
+      const href = campaignStoreUrl(url, state.source);
       if (!href) continue;
       const name = platform === 'ios' ? 'App Store' : 'Google Play';
       const link = node('a', `store store-${platform}`);
