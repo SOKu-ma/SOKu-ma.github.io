@@ -29,6 +29,26 @@ export function safeStoreUrl(value) {
   try { const url = new URL(value); return url.protocol === 'https:' && ['apps.apple.com', 'play.google.com'].includes(url.hostname) ? url.href : null; } catch { return null; }
 }
 
+// Store-side attribution, no cookies or analytics on this page.
+// App Store Connect: pt (provider token, shared by every app of this developer) + ct (campaign).
+// Play Console: install referrer with UTM values.
+// The campaign is the recognised source app ID, or "direct" when the page was opened without one.
+export const APP_STORE_PROVIDER_TOKEN = '122938945';
+export function campaignStoreUrl(value, sourceId) {
+  const safe = safeStoreUrl(value);
+  if (!safe) return null;
+  const url = new URL(safe);
+  const campaign = `apps_${sourceId || 'direct'}`;
+  if (url.hostname === 'apps.apple.com') {
+    url.searchParams.set('pt', APP_STORE_PROVIDER_TOKEN);
+    url.searchParams.set('ct', campaign);
+    url.searchParams.set('mt', '8');
+  } else {
+    url.searchParams.set('referrer', new URLSearchParams({ utm_source: 'so-kuma_apps', utm_medium: 'apps_page', utm_campaign: campaign }).toString());
+  }
+  return url.href;
+}
+
 export function selectScreenshots(screenshots = {}, lang) {
  const base=lang.split('-')[0];
  const selected=screenshots[lang] || screenshots[base] || screenshots.en;
@@ -59,4 +79,22 @@ export function categoriesOf(apps) {
 }
 export function platformsOf(stores) {
  return ['ios', 'android'].filter(platform => safeStoreUrl(stores?.[platform] || ''));
+}
+
+// Store availability. Apps without `regions` are offered in every country.
+export function isJapanOnly(app) {
+  return Array.isArray(app.regions) && app.regions.length === 1 && app.regions[0] === 'JP';
+}
+// Cookieless tap counting (Umami data attributes). Only coarse, non-personal values:
+// which app and store, the page language, the source app, and whether the app is Japan only.
+// Taps on Japan-only apps from non-Japanese pages show demand in countries the app is not offered in.
+export function storeClickData(app, platform, state) {
+  return {
+    'umami-event': 'store_click',
+    'umami-event-app': app.id,
+    'umami-event-store': platform,
+    'umami-event-lang': state.lang,
+    'umami-event-from': state.source || 'direct',
+    'umami-event-region': isJapanOnly(app) ? 'jp_only' : 'global',
+  };
 }
