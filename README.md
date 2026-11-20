@@ -24,6 +24,15 @@ SO-KUMA Labs の公式サイトを公開するための GitHub Pages リポジ�
 トップ・Privacy・Support の既存導線を維持し、ナビゲーションに Apps を追加しています。
 外部フォント・解析サービス・Cookie・個人情報収集は追加していません。
 
+### ストアでの流入元の計測
+
+ページには解析タグを入れず、ストアのリンクに流入元を付けて、ストア側でインストール数を見ます（`apps/state.mjs` の `campaignStoreUrl`）。
+
+- App Store: `pt=122938945`（開発者アカウント共通の提供元トークン）と `ct=apps_<紹介元のID>` を付けます。App Store Connect の「アプリ分析 → 獲得 → キャンペーン」で見ます。
+- Google Play: `referrer` に `utm_source=so-kuma_apps` / `utm_medium=apps_page` / `utm_campaign=apps_<紹介元のID>` を付けます。Play Console の「ユーザー獲得レポート」で見ます。
+- 紹介元のIDは `from` を `catalog.json` の `id` / `aliases` で解決した値です。`from` がない、または一覧にないアプリから来たときは `apps_direct` になります。
+- 一覧ページを開いた回数は、各アプリ側の Analytics（設定画面のタップのイベント）で見ます。
+
 2026-11-17 にデザインを刷新しました。初めて来た人に「SO-KUMA」が何か伝わるよう、ヒーローに
 「スポーツの記録と上達を、もっと手軽に。」という見出しと、SO-KUMA Labs が何を作っているかの一文、全アプリのアイコンを置いています（文言は `catalog.json` の `ui.*.title` / `eyebrow` / `intro`）。
 一覧は同じ大きさのカードのグリッド（PC 3列・タブレット 2列・スマホ 1列）。各カードは実スクリーンショット → アイコン・名前・カテゴリ・対応OS → 用途の一文 → ストア導線の順です。
