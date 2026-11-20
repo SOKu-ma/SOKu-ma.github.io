@@ -80,3 +80,21 @@ export function categoriesOf(apps) {
 export function platformsOf(stores) {
  return ['ios', 'android'].filter(platform => safeStoreUrl(stores?.[platform] || ''));
 }
+
+// Store availability. Apps without `regions` are offered in every country.
+export function isJapanOnly(app) {
+  return Array.isArray(app.regions) && app.regions.length === 1 && app.regions[0] === 'JP';
+}
+// Cookieless tap counting (Umami data attributes). Only coarse, non-personal values:
+// which app and store, the page language, the source app, and whether the app is Japan only.
+// Taps on Japan-only apps from non-Japanese pages show demand in countries the app is not offered in.
+export function storeClickData(app, platform, state) {
+  return {
+    'umami-event': 'store_click',
+    'umami-event-app': app.id,
+    'umami-event-store': platform,
+    'umami-event-lang': state.lang,
+    'umami-event-from': state.source || 'direct',
+    'umami-event-region': isJapanOnly(app) ? 'jp_only' : 'global',
+  };
+}

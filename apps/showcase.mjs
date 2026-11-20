@@ -1,4 +1,4 @@
-import { resolveState, storeEntries, storeBadge, campaignStoreUrl, selectScreenshots, selectCopy, groupApps, categoriesOf, platformsOf, isNew } from './state.mjs';
+import { resolveState, storeEntries, storeBadge, campaignStoreUrl, selectScreenshots, selectCopy, groupApps, categoriesOf, platformsOf, isNew, isJapanOnly, storeClickData } from './state.mjs';
 
 const node = (tag, className, text) => {
   const element = document.createElement(tag);
@@ -88,6 +88,7 @@ try {
       const link = node('a', `store store-${platform}`);
       link.href = href;
       link.setAttribute('aria-label', format(ui.store, { name: copy.name, store: name }));
+      for (const [key, value] of Object.entries(storeClickData(app, platform, state))) link.setAttribute(`data-${key}`, value);
       const badge = node('img', 'badge');
       badge.src = storeBadge(platform, state.lang);
       badge.alt = '';
@@ -178,6 +179,8 @@ try {
     platforms.dir = 'ltr';
     platforms.textContent = platformsOf(app.stores).map(p => PLATFORM_LABEL[p]).join(' · ');
     meta.append(platforms);
+    // Japan-only apps stay listed so taps from other countries show demand; say so before the store tells them.
+    if (isJapanOnly(app) && state.lang !== 'ja') meta.append(node('span', 'region-note', ui.regionJapanOnly || catalog.ui.en.regionJapanOnly));
     titles.append(title, meta);
     head.append(icon, titles);
 

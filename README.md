@@ -22,7 +22,7 @@ SO-KUMA Labs の公式サイトを公開するための GitHub Pages リポジ�
 
 `/apps/` はビルド不要で GitHub Pages の root 配信に追加できる静的ページです。
 トップ・Privacy・Support の既存導線を維持し、ナビゲーションに Apps を追加しています。
-外部フォント・解析サービス・Cookie・個人情報収集は追加していません。
+外部フォント・Cookie・個人情報収集は追加していません。アクセス解析は、Cookie を使わない Umami（下記）だけを入れています。
 
 ### ストアでの流入元の計測
 
@@ -32,6 +32,14 @@ SO-KUMA Labs の公式サイトを公開するための GitHub Pages リポジ�
 - Google Play: `referrer` に `utm_source=so-kuma_apps` / `utm_medium=apps_page` / `utm_campaign=apps_<紹介元のID>` を付けます。Play Console の「ユーザー獲得レポート」で見ます。
 - 紹介元のIDは `from` を `catalog.json` の `id` / `aliases` で解決した値です。`from` がない、または一覧にないアプリから来たときは `apps_direct` になります。
 - 一覧ページを開いた回数は、各アプリ側の Analytics（設定画面のタップのイベント）で見ます。
+
+### サイトのアクセス解析（Umami）
+
+- 全ページに Umami（Cookie なし、Hobby プラン、データは米国、保存は6か月）のタグを入れています。`data-domains="www.so-kuma.com"` なので、ローカルのプレビューでは送りません
+- ストアのボタンには `store_click` イベントを付けています（`apps/state.mjs` の `storeClickData`）。値は `app`・`store`（ios / android）・`lang`・`from`（紹介元、なければ direct）・`region`（jp_only / global）だけです
+- 日本でしか配信していないアプリ（`regions: ["JP"]`。2026-11-20 時点でボウリングノートと観戦アルバム）も一覧に出し、日本語以外の表示では「Japan only」などを添えます。日本語以外のページからの `region=jp_only` のタップ数を、海外のニーズの目安にします
+- 6か月より前のデータは消えるので、判断に使う数字は数か月ごとに書き出します
+- プライバシーポリシーの「5. 外部サービス」に記載しています
 
 2026-11-17 にデザインを刷新しました。初めて来た人に「SO-KUMA」が何か伝わるよう、ヒーローに
 「スポーツの記録と上達を、もっと手軽に。」という見出しと、SO-KUMA Labs が何を作っているかの一文、全アプリのアイコンを置いています（文言は `catalog.json` の `ui.*.title` / `eyebrow` / `intro`）。

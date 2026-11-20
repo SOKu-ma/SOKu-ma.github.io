@@ -54,7 +54,8 @@
       "previous": "前へ",
       "next": "次へ",
       "close": "閉じる",
-      "enlarge": "拡大して見る"
+      "enlarge": "拡大して見る",
+      "regionJapanOnly": "日本のみ"
     },
     "en": {
       "title": "Simple apps for tracking and improving at your sport.",
@@ -90,7 +91,8 @@
       "previous": "Previous",
       "next": "Next",
       "close": "Close",
-      "enlarge": "View larger"
+      "enlarge": "View larger",
+      "regionJapanOnly": "Japan only"
     },
     "es": {
       "title": "Apps sencillas para registrar y mejorar en tu deporte.",
@@ -126,7 +128,8 @@
       "previous": "Anterior",
       "next": "Siguiente",
       "close": "Cerrar",
-      "enlarge": "Ver más grande"
+      "enlarge": "Ver más grande",
+      "regionJapanOnly": "Solo en Japón"
     },
     "ko": {
       "title": "내 스포츠를 기록하고 실력을 키우는 간편한 앱.",
@@ -162,7 +165,8 @@
       "previous": "이전",
       "next": "다음",
       "close": "닫기",
-      "enlarge": "크게 보기"
+      "enlarge": "크게 보기",
+      "regionJapanOnly": "일본 전용"
     },
     "zh-TW": {
       "title": "輕鬆記錄運動、持續進步的 App。",
@@ -198,7 +202,8 @@
       "previous": "上一張",
       "next": "下一張",
       "close": "關閉",
-      "enlarge": "放大檢視"
+      "enlarge": "放大檢視",
+      "regionJapanOnly": "僅限日本"
     },
     "de": {
       "title": "Einfache Apps, um deinen Sport festzuhalten und besser zu werden.",
@@ -234,7 +239,8 @@
       "previous": "Zurück",
       "next": "Weiter",
       "close": "Schließen",
-      "enlarge": "Größer anzeigen"
+      "enlarge": "Größer anzeigen",
+      "regionJapanOnly": "Nur in Japan"
     },
     "fr": {
       "title": "Des apps simples pour suivre votre sport et progresser.",
@@ -270,7 +276,8 @@
       "previous": "Précédent",
       "next": "Suivant",
       "close": "Fermer",
-      "enlarge": "Agrandir"
+      "enlarge": "Agrandir",
+      "regionJapanOnly": "Japon uniquement"
     },
     "it": {
       "title": "App semplici per registrare il tuo sport e migliorare.",
@@ -306,7 +313,8 @@
       "previous": "Precedente",
       "next": "Successiva",
       "close": "Chiudi",
-      "enlarge": "Ingrandisci"
+      "enlarge": "Ingrandisci",
+      "regionJapanOnly": "Solo in Giappone"
     },
     "pt": {
       "title": "Apps simples para registar o seu desporto e evoluir.",
@@ -342,7 +350,8 @@
       "previous": "Anterior",
       "next": "Seguinte",
       "close": "Fechar",
-      "enlarge": "Ver maior"
+      "enlarge": "Ver maior",
+      "regionJapanOnly": "Apenas no Japão"
     },
     "pt-BR": {
       "title": "Apps simples para registrar seu esporte e evoluir.",
@@ -378,7 +387,8 @@
       "previous": "Anterior",
       "next": "Próxima",
       "close": "Fechar",
-      "enlarge": "Ver maior"
+      "enlarge": "Ver maior",
+      "regionJapanOnly": "Apenas no Japão"
     },
     "zh-CN": {
       "title": "轻松记录运动、持续进步的应用。",
@@ -414,7 +424,8 @@
       "previous": "上一张",
       "next": "下一张",
       "close": "关闭",
-      "enlarge": "放大查看"
+      "enlarge": "放大查看",
+      "regionJapanOnly": "仅限日本"
     },
     "ar": {
       "title": "تطبيقات بسيطة لتسجيل رياضتك والتحسّن فيها.",
@@ -450,7 +461,8 @@
       "previous": "السابق",
       "next": "التالي",
       "close": "إغلاق",
-      "enlarge": "عرض بحجم أكبر"
+      "enlarge": "عرض بحجم أكبر",
+      "regionJapanOnly": "اليابان فقط"
     },
     "bn": {
       "title": "আপনার খেলা রেকর্ড করতে ও উন্নতি করতে সহজ অ্যাপ।",
@@ -486,7 +498,8 @@
       "previous": "আগের",
       "next": "পরের",
       "close": "বন্ধ করুন",
-      "enlarge": "বড় করে দেখুন"
+      "enlarge": "বড় করে দেখুন",
+      "regionJapanOnly": "শুধু জাপানে"
     },
     "id": {
       "title": "Aplikasi sederhana untuk mencatat olahraga dan terus berkembang.",
@@ -522,7 +535,8 @@
       "previous": "Sebelumnya",
       "next": "Berikutnya",
       "close": "Tutup",
-      "enlarge": "Lihat lebih besar"
+      "enlarge": "Lihat lebih besar",
+      "regionJapanOnly": "Hanya Jepang"
     },
     "tr": {
       "title": "Sporunu kaydetmen ve gelişmen için basit uygulamalar.",
@@ -558,7 +572,8 @@
       "previous": "Önceki",
       "next": "Sonraki",
       "close": "Kapat",
-      "enlarge": "Büyüt"
+      "enlarge": "Büyüt",
+      "regionJapanOnly": "Yalnızca Japonya"
     },
     "nl": {
       "title": "Eenvoudige apps om je sport bij te houden en beter te worden.",
@@ -594,7 +609,8 @@
       "previous": "Vorige",
       "next": "Volgende",
       "close": "Sluiten",
-      "enlarge": "Groter bekijken"
+      "enlarge": "Groter bekijken",
+      "regionJapanOnly": "Alleen in Japan"
     },
     "pl": {
       "title": "Proste aplikacje do zapisywania treningów i robienia postępów.",
@@ -630,7 +646,8 @@
       "previous": "Poprzedni",
       "next": "Następny",
       "close": "Zamknij",
-      "enlarge": "Powiększ"
+      "enlarge": "Powiększ",
+      "regionJapanOnly": "Tylko w Japonii"
     },
     "en-GB": {
       "title": "Simple apps for tracking and improving at your sport.",
@@ -666,7 +683,8 @@
       "previous": "Previous",
       "next": "Next",
       "close": "Close",
-      "enlarge": "View larger"
+      "enlarge": "View larger",
+      "regionJapanOnly": "Japan only"
     }
   },
   "apps": [
@@ -1600,7 +1618,10 @@
         ]
       },
       "descriptionLocaleSource": "Store text source of truth in the app repository (Japanese primary, English US). Android only as of 2026-11-17; iOS link is added after the App Store listing is public. Other languages fall back to English.",
-      "newUntil": "2027-01-31"
+      "newUntil": "2027-01-31",
+      "regions": [
+        "JP"
+      ]
     },
     {
       "id": "kansen-album",
@@ -1672,7 +1693,10 @@
           "ja"
         ]
       },
-      "descriptionLocaleSource": "Store text source of truth in the app repository (Japanese primary, English US). Listed on both stores (iOS 1.0.0 released 2026-10-20, confirmed via the official lookup on 2026-11-20). Other languages fall back to English."
+      "descriptionLocaleSource": "Store text source of truth in the app repository (Japanese primary, English US). Listed on both stores (iOS 1.0.0 released 2026-10-20, confirmed via the official lookup on 2026-11-20). Other languages fall back to English.",
+      "regions": [
+        "JP"
+      ]
     }
   ]
 }
