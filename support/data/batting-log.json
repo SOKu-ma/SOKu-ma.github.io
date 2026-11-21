@@ -1,0 +1,347 @@
+{
+  "id": "batting-log",
+  "faq": [
+    {
+      "id": "data",
+      "title": { "ja": "データと機種変更", "en": "Data and switching phones" },
+      "items": [
+        {
+          "id": "transfer",
+          "q": { "ja": "機種変更のとき、記録を引き継ぐには？", "en": "How do I move my records to a new phone?" },
+          "a": {
+            "ja": [
+              "バックアップのファイルを書き出し、新しい端末で読み込みます。Android と iPhone の間でも移せます。",
+              [
+                "古い端末で「設定」→「バックアップと復元」→「バックアップと復元を開く」を開きます。",
+                "「バックアップを書き出す」を押し、Google ドライブや iCloud Drive などに保存します。",
+                "新しい端末で同じ画面を開き、「バックアップから復元」でそのファイルを選びます。"
+              ],
+              "復元すると、その端末の記録はバックアップの内容に置き換わります。今ある記録と合わせることはできません。"
+            ],
+            "en": [
+              "Export a backup file and import it on the new phone. This also works between Android and iPhone.",
+              [
+                "On the old phone, open Settings → Backup & Restore → Open backup and restore.",
+                "Tap “Export backup” and save the file to Google Drive, iCloud Drive or similar.",
+                "On the new phone, open the same screen and choose the file with “Restore from backup”."
+              ],
+              "Restoring replaces the records on that phone with the backup. It cannot be merged with existing records."
+            ]
+          }
+        },
+        {
+          "id": "backup-scope",
+          "q": { "ja": "バックアップには何が入りますか？", "en": "What does a backup include?" },
+          "a": {
+            "ja": [
+              "選手、所属チーム、試合、打席、練習の記録が入ります。",
+              "共有データと参加の状態、プレミアムプランの状態、端末ごとの設定は入りません。プレミアムプランは、新しい端末で「購入の復元」を行ってください。"
+            ],
+            "en": [
+              "Players, teams, games, at-bats and practice records.",
+              "Shared data and joined shares, your Premium status and device settings are not included. For Premium, use “Restore Purchases” on the new phone."
+            ]
+          }
+        },
+        {
+          "id": "sync",
+          "q": { "ja": "記録は自動でクラウドに保存されますか？", "en": "Are my records saved to the cloud automatically?" },
+          "a": {
+            "ja": [
+              "いいえ。記録は端末の中に保存されます。アプリを削除すると記録も消えます。",
+              "大事な記録は、ときどき「バックアップを書き出す」で保存しておくことをおすすめします。"
+            ],
+            "en": [
+              "No. Records are stored on your phone. Deleting the app deletes them.",
+              "We recommend saving a file with “Export backup” from time to time."
+            ]
+          }
+        },
+        {
+          "id": "login",
+          "q": { "ja": "アカウントの登録は必要ですか？", "en": "Do I need an account?" },
+          "a": {
+            "ja": [
+              "記録するだけなら不要です。",
+              "招待コードで記録を共有する側だけ、Apple または Google でのログインが必要です。"
+            ],
+            "en": [
+              "Not for recording.",
+              "Only the person who shares records with an invite code needs to sign in with Apple or Google."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "premium",
+      "title": { "ja": "プレミアムプラン", "en": "Premium" },
+      "items": [
+        {
+          "id": "premium-features",
+          "q": { "ja": "無料とプレミアムプランの違いは？", "en": "What is the difference between free and Premium?" },
+          "a": {
+            "ja": [
+              "無料でも、選手1人ぶんの試合・練習の記録と基本の成績を使えます。",
+              "プレミアムプランでは、複数の選手（最大5人）、選手ごとに複数の所属チーム、スプレーチャートやコース別・球種別などの詳しい分析、細かい期間・条件での絞り込み、カスタム練習メニューなどが使えます。",
+              "プランは月額と年額の2つです。価格はアプリ内の「プレミアムプラン」の画面で確認できます。"
+            ],
+            "en": [
+              "The free version covers game and practice records for one player, with basic stats.",
+              "Premium adds multiple players (up to 5), multiple teams per player, detailed analysis such as spray charts and zone / pitch-type breakdowns, finer period and condition filters, and custom practice menus.",
+              "There is a monthly plan and a yearly plan. Prices are shown on the Premium screen in the app."
+            ]
+          }
+        },
+        {
+          "id": "restore-purchase",
+          "q": { "ja": "機種変更や再インストールのあと、プレミアムプランを戻すには？", "en": "How do I get Premium back after reinstalling or switching phones?" },
+          "a": {
+            "ja": [
+              "購入したときと同じ Apple ID / Google アカウントでストアにログインした状態で、「設定」→「プレミアムプラン」→「購入の復元」を押してください。",
+              "「購入の復元」は、プレミアムプランが有効でないときだけ表示されます。"
+            ],
+            "en": [
+              "Make sure the store is signed in with the Apple ID / Google account you purchased with, then tap Settings → Premium → Restore Purchases.",
+              "“Restore Purchases” is shown only while Premium is not active."
+            ]
+          }
+        },
+        {
+          "id": "cancel-ios",
+          "platform": "ios",
+          "q": { "ja": "プレミアムプランを解約するには？", "en": "How do I cancel Premium?" },
+          "a": {
+            "ja": [
+              "解約は iPhone の設定から行います。アプリを削除しただけでは解約されません。",
+              [
+                "iPhone の「設定」を開き、いちばん上の自分の名前を押します。",
+                "「サブスクリプション」を押します。",
+                "このアプリを選び、「サブスクリプションをキャンセルする」を押します。"
+              ]
+            ],
+            "en": [
+              "Cancel from the iPhone Settings app. Deleting the app does not cancel the subscription.",
+              [
+                "Open Settings on your iPhone and tap your name at the top.",
+                "Tap Subscriptions.",
+                "Choose this app and tap Cancel Subscription."
+              ]
+            ]
+          }
+        },
+        {
+          "id": "cancel-android",
+          "platform": "android",
+          "q": { "ja": "プレミアムプランを解約するには？", "en": "How do I cancel Premium?" },
+          "a": {
+            "ja": [
+              "解約は Google Play から行います。アプリを削除しただけでは解約されません。",
+              [
+                "Google Play ストアを開き、右上のプロフィールのアイコンを押します。",
+                "「お支払いと定期購入」→「定期購入」を押します。",
+                "このアプリを選び、「定期購入を解約」を押します。"
+              ]
+            ],
+            "en": [
+              "Cancel from Google Play. Deleting the app does not cancel the subscription.",
+              [
+                "Open the Google Play Store and tap your profile icon at the top right.",
+                "Tap Payments & subscriptions → Subscriptions.",
+                "Choose this app and tap Cancel subscription."
+              ]
+            ]
+          }
+        },
+        {
+          "id": "after-cancel",
+          "q": { "ja": "解約すると、記録は消えますか？", "en": "Will I lose my records if I cancel?" },
+          "a": {
+            "ja": [
+              "消えません。プレミアムプランだけの機能や2人目以降の選手は使えなくなりますが、記録は端末に残ります。もう一度プレミアムプランに入ると、また使えるようになります。"
+            ],
+            "en": [
+              "No. Premium-only features and additional players become locked, but the records stay on your phone. They are available again when you rejoin Premium."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "share",
+      "title": { "ja": "データ共有", "en": "Data sharing" },
+      "items": [
+        {
+          "id": "share-start",
+          "q": { "ja": "家族やコーチに記録を見てもらうには？", "en": "How do I let family or a coach see the records?" },
+          "a": {
+            "ja": [
+              "招待コードを発行して、相手に渡します。相手は記録を見るだけで、編集はできません。",
+              [
+                "「設定」→「データ共有」→「招待コードで共有」を開き、「共有する」タブを選びます。",
+                "Apple または Google でログインし、「共有コードを発行」を押します。",
+                "リンクを送る、「コードを表示」で二次元コードを見せる、「コピー」でコードを送る、のどれかで相手に渡します。"
+              ],
+              "招待コードの有効期限は30日です。"
+            ],
+            "en": [
+              "Create an invite code and give it to them. They can view the records but cannot edit them.",
+              [
+                "Open Settings → Data Sharing → Share with Invite Code and choose the Share tab.",
+                "Sign in with Apple or Google, then tap “Create Invite Code”.",
+                "Send the link, show the QR code with “Show Code”, or send the code with “Copy”."
+              ],
+              "An invite code is valid for 30 days."
+            ]
+          }
+        },
+        {
+          "id": "share-join",
+          "q": { "ja": "招待コードを受け取りました。どうすれば見られますか？", "en": "I received an invite code. How do I view the records?" },
+          "a": {
+            "ja": [
+              "招待のリンクを開けば、そのまま参加できます。",
+              "コードだけを受け取ったときは、「設定」→「データ共有」→「招待コードで共有」の「参加する」タブで、「コードを読み取る」を使うか、コードを入力して「共有に参加」を押してください。"
+            ],
+            "en": [
+              "Opening the invite link joins the share directly.",
+              "If you only have the code, open Settings → Data Sharing → Share with Invite Code, choose the Join tab, then use “Scan Code” or type the code and tap “Join Shared Data”."
+            ]
+          }
+        },
+        {
+          "id": "share-update",
+          "q": { "ja": "記録を追加したのに、相手の画面に出ません", "en": "I added records, but the other person cannot see them" },
+          "a": {
+            "ja": [
+              "共有データは自動では更新されません。共有する側の画面で「最新データを反映」を押してください。",
+              "無料のあいだは、1日に反映できる回数に上限があります。プレミアムプランでは制限がありません。"
+            ],
+            "en": [
+              "Shared data is not updated automatically. On the sharing side, tap “Reflect Latest Data”.",
+              "On the free version there is a daily limit on updates. Premium has no limit."
+            ]
+          }
+        },
+        {
+          "id": "share-stop",
+          "q": { "ja": "共有をやめるには？", "en": "How do I stop sharing?" },
+          "a": {
+            "ja": [
+              "共有する側は「共有を停止」を、参加している側は「この共有を削除」を押してください。",
+              "ログインしたアカウントごと消したいときは、「アカウントメニュー」→「アカウントを削除」を使います。端末の中の記録は残ります。"
+            ],
+            "en": [
+              "The sharing side taps “Stop Sharing”. The joining side taps “Remove this share”.",
+              "To delete the sign-in account itself, use Account menu → Delete Account. The records on your phone remain."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "records",
+      "title": { "ja": "記録と成績", "en": "Records and stats" },
+      "items": [
+        {
+          "id": "at-bats",
+          "q": { "ja": "打率や出塁率は、どう計算していますか？", "en": "How are batting average and on-base percentage calculated?" },
+          "a": {
+            "ja": [
+              "打率は 安打 ÷ 打数 です。四球・死球・犠打・犠飛は打数に入れません。失策・野選・併殺は打数に入ります。",
+              "出塁率は（安打＋四球＋死球）÷（打数＋四球＋死球＋犠飛）です。"
+            ],
+            "en": [
+              "Batting average is hits ÷ at-bats. Walks, hit-by-pitches, sacrifice bunts and sacrifice flies are not at-bats. Errors, fielder's choices and double plays are.",
+              "On-base percentage is (hits + walks + hit-by-pitches) ÷ (at-bats + walks + hit-by-pitches + sacrifice flies)."
+            ]
+          }
+        },
+        {
+          "id": "edit-delete",
+          "q": { "ja": "まちがえた記録を直す・消すには？", "en": "How do I fix or delete a wrong record?" },
+          "a": {
+            "ja": [
+              "打席は、その打席を開いて「打席を編集」または「打席を削除」を使います。",
+              "「試合を削除」を使うと、その試合の打席もすべて消えます。「この選手を削除」は元に戻せません。"
+            ],
+            "en": [
+              "Open the at-bat and use “Edit At-Bat” or “Delete At-Bat”.",
+              "“Delete Game” also deletes every at-bat in that game. “Delete this player” cannot be undone."
+            ]
+          }
+        },
+        {
+          "id": "export",
+          "q": { "ja": "成績をほかの人に送ったり、書き出したりできますか？", "en": "Can I send or export my stats?" },
+          "a": {
+            "ja": [
+              "「成績画像をシェア」で、成績を画像にして送れます。",
+              "CSV などの表の形式での書き出しには対応していません。記録をまるごと保存したいときは、バックアップのファイルを使ってください。"
+            ],
+            "en": [
+              "“Share stat image” turns your stats into an image you can send.",
+              "Export to CSV or other table formats is not available. To keep a full copy of your records, use the backup file."
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "roadmap": [
+    {
+      "id": "share-auto-update",
+      "status": "planned",
+      "title": { "ja": "共有データの自動更新", "en": "Automatic updates for shared data" },
+      "note": { "ja": "記録を保存したら、相手の画面にも自動で届くようにします。", "en": "Saved records reach the other person without a manual update." }
+    },
+    {
+      "id": "multi-device-sync",
+      "status": "planned",
+      "title": { "ja": "複数の端末での同期", "en": "Sync across devices" },
+      "note": { "ja": "スマホとタブレットなどで、同じ記録を使えるようにします。", "en": "Use the same records on a phone and a tablet." }
+    },
+    {
+      "id": "team-edit",
+      "status": "planned",
+      "title": { "ja": "家族・チームでの共同編集", "en": "Editing together with family or a team" },
+      "note": { "ja": "見るだけでなく、ほかの人も記録を入力できるようにします。", "en": "Others can enter records too, not only view them." }
+    },
+    {
+      "id": "pitch-by-pitch",
+      "status": "planned",
+      "title": { "ja": "投球の1球ごとの記録", "en": "Pitch-by-pitch records" },
+      "note": { "ja": "投手として投げた球種や配球を、1球ずつ残せるようにします。", "en": "Log pitch types and sequences for your own pitching." }
+    },
+    {
+      "id": "pitching-practice",
+      "status": "planned",
+      "title": { "ja": "投球練習の記録", "en": "Pitching practice records" }
+    },
+    {
+      "id": "combined-share-image",
+      "status": "planned",
+      "title": { "ja": "打撃と投球をまとめた成績画像", "en": "One stat image for batting and pitching" }
+    },
+    {
+      "id": "widget-pitching",
+      "status": "planned",
+      "title": { "ja": "ウィジェットに投手成績を表示", "en": "Pitching stats on the home screen widget" }
+    },
+    {
+      "id": "game-notes-reminder",
+      "status": "done",
+      "title": { "ja": "試合の「良かったこと」と、終了の押し忘れ通知", "en": "“What went well” notes and a game-end reminder" }
+    },
+    {
+      "id": "pitching-stats",
+      "status": "done",
+      "title": { "ja": "投手成績の記録", "en": "Pitching records" }
+    },
+    {
+      "id": "home-widget",
+      "status": "done",
+      "title": { "ja": "ホーム画面ウィジェット", "en": "Home screen widget" }
+    }
+  ]
+}
