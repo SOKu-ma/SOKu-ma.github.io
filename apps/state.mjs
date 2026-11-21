@@ -63,7 +63,9 @@ export function selectCopy(copy, lang) {
 // Catalog order is the recommended order. Apps not on the visitor's platform move to the end (stable).
 export function orderApps(apps, platform) {
  if (!platform) return apps;
- return [...apps].sort((a, b) => Number(!a.stores?.[platform]) - Number(!b.stores?.[platform]));
+ // A store that is only "coming soon" keeps the recommended position, so OTHER stays last.
+ const offered = app => Boolean(app.stores?.[platform]) || upcomingStores(app).includes(platform);
+ return [...apps].sort((a, b) => Number(!offered(a)) - Number(!offered(b)));
 }
 export function groupApps(apps, sourceId, platform = null) {
  const source = apps.find(app => app.id === sourceId) || null;
