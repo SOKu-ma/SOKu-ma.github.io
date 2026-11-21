@@ -11,6 +11,7 @@ SO-KUMA Labs の公式サイトを公開するための GitHub Pages リポジ�
 - `index.html`: トップページ
 - `privacy/index.html`: プライバシーポリシー
 - `support/index.html`: サポートページ
+- `support/<アプリのID>/index.html`: アプリ別のサポートページ（よくある質問・今後の予定・ご意見）
 - `styles.css`: 共通スタイル
 - `favicon.svg`: サイトアイコン
 
@@ -56,6 +57,31 @@ SO-KUMA Labs の公式サイトを公開するための GitHub Pages リポジ�
 
 ボウリングノート（`bowling-note`）は 2026-11-17 に Android、2026-11-19 に iOS で公開されました。iOS のリンク（id6832171984）は 2026-11-19 に公式ストアの掲載で確認して追加しました。
 アプリ側（`bowling_note/lib/app/app_links.dart`）は既に `/apps/?from=bowling-note` を開くので、紹介元表示がそのまま有効になります。
+
+## アプリ別のサポートページ
+
+`/support/<アプリのID>/` に、よくある質問・今後の予定・ご意見の窓口をまとめています（2026-11-21 追加、最初は野球打率ノート）。
+中身をサイトに置くのは、アプリの更新や審査なしで直せるようにするためです。
+
+- 開き方：`/support/batting-log/?from=<紹介元>&lang=<言語>&platform=<ios|android>&v=<アプリのバージョン>`。`from`・`lang`・`platform` は `/apps/` と同じ決まりです。`#faq`・`#roadmap`・`#feedback`、または `#faq-<質問のID>` で、その場所を開いた状態にできます
+- 言語は日本語と英語だけです。ほかの言語は英語で表示します（`support/state.mjs` の `SUPPORT_LANGUAGES`）
+- アプリを足すとき：`support/data/<ID>.json` を書き、`support/batting-log/index.html` を `support/<ID>/index.html` に写して `data-app`・`title`・`description` を変えます。ID は `apps/catalog.json` と同じものです。`npm run build` と `npm test` が、文言の抜けとページの有無を確かめます
+- データの形（`support/data/<ID>.json`）
+  - `faq`：見出しごとのまとまり。質問は `q`、答えは `a`（文字列は段落、配列は番号つきの手順）。`platform` を付けた質問は、その OS でだけ出します
+  - `roadmap`：`status` は `in_progress`（対応中）・`planned`（検討中）・`done`（対応済み）。日付は書きません
+- 画面の文言は `support/data/ui.json` です
+
+### 投票と計測（Umami）
+
+送る値は、アプリ・項目のID・ページの言語・紹介元・OS だけです（`support/state.mjs` の `eventData`）。
+
+- `roadmap_vote`（`item`）：「ほしい」を押したとき。同じ端末では1回だけ送ります（`localStorage` の `sk-vote:<アプリ>:<項目>`）
+- `faq_open`（`question`）：質問を開いたとき。1回の表示につき質問ごとに1回
+- `faq_helpful`（`question`・`value` = yes / no）：「役に立ちましたか？」の答え
+- `feedback_click`（`via` = mail）：メールのボタン
+
+票数は `support/votes.json`（`{"updated":"YYYY-MM-DD","apps":{"<アプリ>":{"<項目>":数}}}`）から読みます。10票未満の項目は数を出しません（`VOTE_DISPLAY_MIN`）。
+2026-11-21 時点では、このファイルを更新する仕組みはまだありません（中身は空で、票数は表示されません）。Umami の API から定期的に書き出す予定です。そのときは訪問者ごとに1票で数え、同じ地域からの短時間の集中に上限をかけます。Umami の保存は6か月なので、累計はこのファイルに持たせます。
 
 ### Local build / preview
 
