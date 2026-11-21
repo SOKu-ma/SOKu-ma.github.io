@@ -42,6 +42,7 @@
         "FOOTBALL": "サッカー",
         "VIDEO ANALYSIS": "動画分析",
         "BOWLING": "ボウリング",
+        "VOLLEYBALL": "バレーボール",
         "OTHER": "その他"
       },
       "imageFallback": "この言語の画像がないため、英語の画像を表示しています。",
@@ -79,6 +80,7 @@
         "FOOTBALL": "FOOTBALL",
         "VIDEO ANALYSIS": "VIDEO ANALYSIS",
         "BOWLING": "BOWLING",
+        "VOLLEYBALL": "VOLLEYBALL",
         "OTHER": "OTHER"
       },
       "imageFallback": "English images: localized previews unavailable.",
@@ -116,6 +118,7 @@
         "FOOTBALL": "FÚTBOL",
         "VIDEO ANALYSIS": "ANÁLISIS DE VÍDEO",
         "BOWLING": "BOLOS",
+        "VOLLEYBALL": "VOLEIBOL",
         "OTHER": "OTROS"
       },
       "imageFallback": "Imágenes en inglés: no hay vistas localizadas.",
@@ -153,6 +156,7 @@
         "FOOTBALL": "축구",
         "VIDEO ANALYSIS": "영상 분석",
         "BOWLING": "볼링",
+        "VOLLEYBALL": "배구",
         "OTHER": "기타"
       },
       "imageFallback": "번역된 이미지가 없어 영어 이미지를 표시합니다.",
@@ -190,6 +194,7 @@
         "FOOTBALL": "足球",
         "VIDEO ANALYSIS": "影片分析",
         "BOWLING": "保齡球",
+        "VOLLEYBALL": "排球",
         "OTHER": "其他"
       },
       "imageFallback": "此語言的圖片尚未提供，因此顯示英文圖片。",
@@ -229,6 +234,7 @@
         "FOOTBALL": "FUSSBALL",
         "VIDEO ANALYSIS": "VIDEOANALYSE",
         "BOWLING": "BOWLING",
+        "VOLLEYBALL": "VOLLEYBALL",
         "OTHER": "SONSTIGES"
       },
       "sourceHeading": "Deine App",
@@ -266,6 +272,7 @@
         "FOOTBALL": "FOOTBALL",
         "VIDEO ANALYSIS": "ANALYSE VIDÉO",
         "BOWLING": "BOWLING",
+        "VOLLEYBALL": "VOLLEY-BALL",
         "OTHER": "AUTRES"
       },
       "sourceHeading": "Votre app",
@@ -303,6 +310,7 @@
         "FOOTBALL": "CALCIO",
         "VIDEO ANALYSIS": "ANALISI VIDEO",
         "BOWLING": "BOWLING",
+        "VOLLEYBALL": "PALLAVOLO",
         "OTHER": "ALTRO"
       },
       "sourceHeading": "La tua app",
@@ -340,6 +348,7 @@
         "FOOTBALL": "FUTEBOL",
         "VIDEO ANALYSIS": "ANÁLISE DE VÍDEO",
         "BOWLING": "BOWLING",
+        "VOLLEYBALL": "VOLEIBOL",
         "OTHER": "OUTROS"
       },
       "sourceHeading": "A sua aplicação",
@@ -377,6 +386,7 @@
         "FOOTBALL": "FUTEBOL",
         "VIDEO ANALYSIS": "ANÁLISE DE VÍDEO",
         "BOWLING": "BOLICHE",
+        "VOLLEYBALL": "VÔLEI",
         "OTHER": "OUTROS"
       },
       "sourceHeading": "Seu app",
@@ -414,6 +424,7 @@
         "FOOTBALL": "足球",
         "VIDEO ANALYSIS": "视频分析",
         "BOWLING": "保龄球",
+        "VOLLEYBALL": "排球",
         "OTHER": "其他"
       },
       "sourceHeading": "您正在使用的应用",
@@ -451,6 +462,7 @@
         "FOOTBALL": "كرة القدم",
         "VIDEO ANALYSIS": "تحليل الفيديو",
         "BOWLING": "البولينغ",
+        "VOLLEYBALL": "الكرة الطائرة",
         "OTHER": "أخرى"
       },
       "sourceHeading": "تطبيقك",
@@ -488,6 +500,7 @@
         "FOOTBALL": "ফুটবল",
         "VIDEO ANALYSIS": "ভিডিও বিশ্লেষণ",
         "BOWLING": "বোলিং",
+        "VOLLEYBALL": "ভলিবল",
         "OTHER": "অন্যান্য"
       },
       "sourceHeading": "আপনার অ্যাপ",
@@ -525,6 +538,7 @@
         "FOOTBALL": "SEPAK BOLA",
         "VIDEO ANALYSIS": "ANALISIS VIDEO",
         "BOWLING": "BOWLING",
+        "VOLLEYBALL": "BOLA VOLI",
         "OTHER": "LAINNYA"
       },
       "sourceHeading": "Aplikasi Anda",
@@ -562,6 +576,7 @@
         "FOOTBALL": "FUTBOL",
         "VIDEO ANALYSIS": "VİDEO ANALİZİ",
         "BOWLING": "BOWLING",
+        "VOLLEYBALL": "VOLEYBOL",
         "OTHER": "DİĞER"
       },
       "sourceHeading": "Uygulamanız",
@@ -599,6 +614,7 @@
         "FOOTBALL": "VOETBAL",
         "VIDEO ANALYSIS": "VIDEOANALYSE",
         "BOWLING": "BOWLING",
+        "VOLLEYBALL": "VOLLEYBAL",
         "OTHER": "OVERIG"
       },
       "sourceHeading": "Jouw app",
@@ -636,6 +652,7 @@
         "FOOTBALL": "PIŁKA NOŻNA",
         "VIDEO ANALYSIS": "ANALIZA WIDEO",
         "BOWLING": "KRĘGLE",
+        "VOLLEYBALL": "SIATKÓWKA",
         "OTHER": "INNE"
       },
       "sourceHeading": "Twoja aplikacja",
@@ -673,6 +690,7 @@
         "FOOTBALL": "FOOTBALL",
         "VIDEO ANALYSIS": "VIDEO ANALYSIS",
         "BOWLING": "BOWLING",
+        "VOLLEYBALL": "VOLLEYBALL",
         "OTHER": "OTHER"
       },
       "sourceHeading": "Your app",
@@ -1622,6 +1640,121 @@
       "regions": [
         "JP"
       ]
+    },
+    {
+      "id": "volley-scoreboard",
+      "aliases": [
+        "com.sokuma.volleyscoreboard",
+        "volley_scoreboard",
+        "volleyscoreboard"
+      ],
+      "category": "VOLLEYBALL",
+      "icon": "assets/volley-scoreboard/icon.webp",
+      "screenshots": {
+        "ja": {
+          "paths": [
+            "assets/volley-scoreboard/ja/screen-1.webp",
+            "assets/volley-scoreboard/ja/screen-2.webp",
+            "assets/volley-scoreboard/ja/screen-3.webp",
+            "assets/volley-scoreboard/ja/screen-4.webp",
+            "assets/volley-scoreboard/ja/screen-5.webp",
+            "assets/volley-scoreboard/ja/screen-6.webp",
+            "assets/volley-scoreboard/ja/screen-7.webp"
+          ],
+          "language": "ja",
+          "source": "Google Play phone images generated by sports_scoreboard/apps/volley_scoreboard/tool/store_screenshots_test.dart (docs/store/screenshots/<locale>/play-phone), resized to 640px wide.",
+          "size": [
+            640,
+            1138
+          ]
+        },
+        "en": {
+          "paths": [
+            "assets/volley-scoreboard/screen-1.webp",
+            "assets/volley-scoreboard/screen-2.webp",
+            "assets/volley-scoreboard/screen-3.webp",
+            "assets/volley-scoreboard/screen-4.webp",
+            "assets/volley-scoreboard/screen-5.webp",
+            "assets/volley-scoreboard/screen-6.webp",
+            "assets/volley-scoreboard/screen-7.webp"
+          ],
+          "language": "en",
+          "source": "Google Play phone images generated by sports_scoreboard/apps/volley_scoreboard/tool/store_screenshots_test.dart (docs/store/screenshots/<locale>/play-phone), resized to 640px wide.",
+          "size": [
+            640,
+            1138
+          ]
+        },
+        "es": {
+          "paths": [
+            "assets/volley-scoreboard/es/screen-1.webp",
+            "assets/volley-scoreboard/es/screen-2.webp",
+            "assets/volley-scoreboard/es/screen-3.webp",
+            "assets/volley-scoreboard/es/screen-4.webp",
+            "assets/volley-scoreboard/es/screen-5.webp",
+            "assets/volley-scoreboard/es/screen-6.webp",
+            "assets/volley-scoreboard/es/screen-7.webp"
+          ],
+          "language": "es",
+          "source": "Google Play phone images generated by sports_scoreboard/apps/volley_scoreboard/tool/store_screenshots_test.dart (docs/store/screenshots/<locale>/play-phone), resized to 640px wide.",
+          "size": [
+            640,
+            1138
+          ]
+        },
+        "pt-BR": {
+          "paths": [
+            "assets/volley-scoreboard/pt-BR/screen-1.webp",
+            "assets/volley-scoreboard/pt-BR/screen-2.webp",
+            "assets/volley-scoreboard/pt-BR/screen-3.webp",
+            "assets/volley-scoreboard/pt-BR/screen-4.webp",
+            "assets/volley-scoreboard/pt-BR/screen-5.webp",
+            "assets/volley-scoreboard/pt-BR/screen-6.webp",
+            "assets/volley-scoreboard/pt-BR/screen-7.webp"
+          ],
+          "language": "pt-BR",
+          "source": "Google Play phone images generated by sports_scoreboard/apps/volley_scoreboard/tool/store_screenshots_test.dart (docs/store/screenshots/<locale>/play-phone), resized to 640px wide.",
+          "size": [
+            640,
+            1138
+          ]
+        }
+      },
+      "stores": {
+        "android": "https://play.google.com/store/apps/details?id=com.sokuma.volleyscoreboard"
+      },
+      "copy": {
+        "ja": {
+          "name": "バレーボール得点板",
+          "description": "タップで1点、取り消しも1回。6人制・9人制・ソフトバレーのルール入りのバレーボール得点板です。",
+          "source": "repository:sports_scoreboard/apps/volley_scoreboard/release_notes/1.0.0/store_text.md#ja"
+        },
+        "en": {
+          "name": "Volleyball Scoreboard Keeper",
+          "description": "Volleyball scoreboard & score keeper. Tap to score, tap to undo, resume anytime.",
+          "source": "repository:sports_scoreboard/apps/volley_scoreboard/release_notes/1.0.0/store_text.md#en-US"
+        },
+        "es": {
+          "name": "Marcador de Vóley y Voleibol",
+          "description": "Marcador de voleibol y contador de puntos: un toque, un punto.",
+          "source": "repository:sports_scoreboard/apps/volley_scoreboard/release_notes/1.0.0/store_text.md#es-ES"
+        },
+        "pt-BR": {
+          "name": "Placar de Vôlei: Marcador",
+          "description": "Placar de vôlei e contador de pontos: um toque, um ponto.",
+          "source": "repository:sports_scoreboard/apps/volley_scoreboard/release_notes/1.0.0/store_text.md#pt-BR"
+        }
+      },
+      "verifiedAppLocales": {
+        "androidCode": [
+          "en",
+          "es",
+          "ja",
+          "pt-BR"
+        ]
+      },
+      "descriptionLocaleSource": "Store text source of truth in the app repository (Japanese primary; English US, Spanish Spain, Portuguese Brazil). Android only as of 2026-11-21; iOS link is added after the App Store listing is public (not found via the official lookup on 2026-11-21). Other languages fall back to English.",
+      "newUntil": "2027-02-28"
     },
     {
       "id": "kansen-album",
