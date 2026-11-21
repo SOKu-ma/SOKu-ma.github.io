@@ -47,7 +47,7 @@ SO-KUMA Labs の公式サイトを公開するための GitHub Pages リポジ�
 表示順は `apps` 配列の順（2026-11-17 時点は伸びている順：サッカー → 野球打率ノート → 野球オーダー表 → モーションタグ → ダーツログ → ボウリングノート）。
 観戦アルバム（`kansen-album`）はスポーツの上達向けではないので、カテゴリ「その他」（`OTHER`）で最後に置いています（2026-11-20 追加。画像は手元のストア用画像 `~/AppStoreAssets/kansen_album/1.0.0/release/android` から作成）。
 
-バレーボール得点板（`volley-scoreboard`、カテゴリ `VOLLEYBALL`）は観戦アルバムのすぐ上に置いています（2026-11-21 追加）。2026-11-21 時点では Google Play だけなので、iPhone で見ると Google Play だけのアプリとして最後に回ります。App Store に公開されたら `stores.ios` を足してください。画像は sports_scoreboard の `docs/store/screenshots/<言語>/play-phone`（Google Play の7枚。iOS だけの連携の画面は入れない）から、日本語・英語・スペイン語・ポルトガル語（ブラジル）の4言語分を作成しています。
+バレーボール得点板（`volley-scoreboard`、カテゴリ `VOLLEYBALL`）は観戦アルバムのすぐ上に置いています（2026-11-21 追加）。2026-11-21 時点では Google Play だけなので、iPhone で見ると Google Play だけのアプリとして最後に回ります。App Store は審査中のため `upcomingStores: ["ios"]` で「App Store 版は審査中です」（ほかの言語は「近日公開」）と出しています。公開されたら `stores.ios` を足してください（リンクがあると審査中の表示は自動で消えます）。画像は sports_scoreboard の `docs/store/screenshots/<言語>/play-phone`（Google Play の7枚。iOS だけの連携の画面は入れない）から、日本語・英語・スペイン語・ポルトガル語（ブラジル）の4言語分を作成しています。
 ただし見ている端末（`platform` またはUAから推定）のストアに出ていないアプリは、順番を保ったまま末尾に回します。
 `newUntil`（YYYY-MM-DD）を入れたアプリは、その日まで名前の下に「NEW」を出します（ボウリングノートは 2027-01-31 まで）。
 カテゴリの絞り込みボタン（URLには残さない表示上の切替）、ダークモード、追従ヘッダーに対応しています。

@@ -1,4 +1,4 @@
-import { resolveState, storeEntries, storeBadge, campaignStoreUrl, selectScreenshots, selectCopy, groupApps, categoriesOf, platformsOf, isNew, isJapanOnly, storeClickData } from './state.mjs';
+import { resolveState, storeEntries, storeBadge, campaignStoreUrl, selectScreenshots, selectCopy, groupApps, categoriesOf, platformsOf, isNew, isJapanOnly, upcomingStores, storeClickData } from './state.mjs';
 
 const node = (tag, className, text) => {
   const element = document.createElement(tag);
@@ -97,6 +97,11 @@ try {
       if (platform === 'ios') { badge.width = 120; badge.height = 40; } else { badge.width = 140; badge.height = 54; }
       link.append(badge);
       stores.append(link);
+    }
+    // A store still in review gets a plain note instead of a link, so iPhone visitors know it is on the way.
+    for (const platform of upcomingStores(app)) {
+      const name = platform === 'ios' ? 'App Store' : 'Google Play';
+      stores.append(node('span', `store-upcoming store-upcoming-${platform}`, format(ui.storeUpcoming || catalog.ui.en.storeUpcoming, { store: name })));
     }
     return stores;
   };

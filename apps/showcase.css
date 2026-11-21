@@ -134,6 +134,7 @@ h3 { margin: 0; font-size: 19px; line-height: 1.35; letter-spacing: -.01em; font
 .badge { display: block; width: auto; }
 .store-ios .badge { height: 40px; }
 .store-android .badge { height: 54px; }
+.store-upcoming { display: inline-flex; align-items: center; margin: 10px; padding: 8px 14px; border: 1px dashed var(--line-strong); border-radius: 8px; font-size: 13px; font-weight: 600; line-height: 1.4; color: var(--muted); }
 
 /* Source app card: horizontal on wide screens */
 .app-card.source-card { flex-direction: row-reverse; align-items: stretch; background: linear-gradient(120deg, rgb(214 237 136 / 40%), var(--surface) 55%); border-color: rgb(185 217 90 / 50%); }

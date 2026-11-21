@@ -56,7 +56,8 @@
       "next": "次へ",
       "close": "閉じる",
       "enlarge": "拡大して見る",
-      "regionJapanOnly": "日本のみ"
+      "regionJapanOnly": "日本のみ",
+      "storeUpcoming": "{store} 版は審査中です"
     },
     "en": {
       "title": "Simple apps for tracking and improving at your sport.",
@@ -94,7 +95,8 @@
       "next": "Next",
       "close": "Close",
       "enlarge": "View larger",
-      "regionJapanOnly": "Japan only"
+      "regionJapanOnly": "Japan only",
+      "storeUpcoming": "Coming soon to the {store}"
     },
     "es": {
       "title": "Apps sencillas para registrar y mejorar en tu deporte.",
@@ -132,7 +134,8 @@
       "next": "Siguiente",
       "close": "Cerrar",
       "enlarge": "Ver más grande",
-      "regionJapanOnly": "Solo en Japón"
+      "regionJapanOnly": "Solo en Japón",
+      "storeUpcoming": "Próximamente en {store}"
     },
     "ko": {
       "title": "내 스포츠를 기록하고 실력을 키우는 간편한 앱.",
@@ -170,7 +173,8 @@
       "next": "다음",
       "close": "닫기",
       "enlarge": "크게 보기",
-      "regionJapanOnly": "일본 전용"
+      "regionJapanOnly": "일본 전용",
+      "storeUpcoming": "{store} 출시 예정"
     },
     "zh-TW": {
       "title": "輕鬆記錄運動、持續進步的 App。",
@@ -208,7 +212,8 @@
       "next": "下一張",
       "close": "關閉",
       "enlarge": "放大檢視",
-      "regionJapanOnly": "僅限日本"
+      "regionJapanOnly": "僅限日本",
+      "storeUpcoming": "即將登陸 {store}"
     },
     "de": {
       "title": "Einfache Apps, um deinen Sport festzuhalten und besser zu werden.",
@@ -246,7 +251,8 @@
       "next": "Weiter",
       "close": "Schließen",
       "enlarge": "Größer anzeigen",
-      "regionJapanOnly": "Nur in Japan"
+      "regionJapanOnly": "Nur in Japan",
+      "storeUpcoming": "Bald im {store}"
     },
     "fr": {
       "title": "Des apps simples pour suivre votre sport et progresser.",
@@ -284,7 +290,8 @@
       "next": "Suivant",
       "close": "Fermer",
       "enlarge": "Agrandir",
-      "regionJapanOnly": "Japon uniquement"
+      "regionJapanOnly": "Japon uniquement",
+      "storeUpcoming": "Bientôt sur l’{store}"
     },
     "it": {
       "title": "App semplici per registrare il tuo sport e migliorare.",
@@ -322,7 +329,8 @@
       "next": "Successiva",
       "close": "Chiudi",
       "enlarge": "Ingrandisci",
-      "regionJapanOnly": "Solo in Giappone"
+      "regionJapanOnly": "Solo in Giappone",
+      "storeUpcoming": "Presto su {store}"
     },
     "pt": {
       "title": "Apps simples para registar o seu desporto e evoluir.",
@@ -360,7 +368,8 @@
       "next": "Seguinte",
       "close": "Fechar",
       "enlarge": "Ver maior",
-      "regionJapanOnly": "Apenas no Japão"
+      "regionJapanOnly": "Apenas no Japão",
+      "storeUpcoming": "Brevemente na {store}"
     },
     "pt-BR": {
       "title": "Apps simples para registrar seu esporte e evoluir.",
@@ -398,7 +407,8 @@
       "next": "Próxima",
       "close": "Fechar",
       "enlarge": "Ver maior",
-      "regionJapanOnly": "Apenas no Japão"
+      "regionJapanOnly": "Apenas no Japão",
+      "storeUpcoming": "Em breve na {store}"
     },
     "zh-CN": {
       "title": "轻松记录运动、持续进步的应用。",
@@ -436,7 +446,8 @@
       "next": "下一张",
       "close": "关闭",
       "enlarge": "放大查看",
-      "regionJapanOnly": "仅限日本"
+      "regionJapanOnly": "仅限日本",
+      "storeUpcoming": "即将登陆 {store}"
     },
     "ar": {
       "title": "تطبيقات بسيطة لتسجيل رياضتك والتحسّن فيها.",
@@ -474,7 +485,8 @@
       "next": "التالي",
       "close": "إغلاق",
       "enlarge": "عرض بحجم أكبر",
-      "regionJapanOnly": "اليابان فقط"
+      "regionJapanOnly": "اليابان فقط",
+      "storeUpcoming": "قريبًا على {store}"
     },
     "bn": {
       "title": "আপনার খেলা রেকর্ড করতে ও উন্নতি করতে সহজ অ্যাপ।",
@@ -512,7 +524,8 @@
       "next": "পরের",
       "close": "বন্ধ করুন",
       "enlarge": "বড় করে দেখুন",
-      "regionJapanOnly": "শুধু জাপানে"
+      "regionJapanOnly": "শুধু জাপানে",
+      "storeUpcoming": "{store}-এ শীঘ্রই আসছে"
     },
     "id": {
       "title": "Aplikasi sederhana untuk mencatat olahraga dan terus berkembang.",
@@ -550,7 +563,8 @@
       "next": "Berikutnya",
       "close": "Tutup",
       "enlarge": "Lihat lebih besar",
-      "regionJapanOnly": "Hanya Jepang"
+      "regionJapanOnly": "Hanya Jepang",
+      "storeUpcoming": "Segera hadir di {store}"
     },
     "tr": {
       "title": "Sporunu kaydetmen ve gelişmen için basit uygulamalar.",
@@ -588,7 +602,8 @@
       "next": "Sonraki",
       "close": "Kapat",
       "enlarge": "Büyüt",
-      "regionJapanOnly": "Yalnızca Japonya"
+      "regionJapanOnly": "Yalnızca Japonya",
+      "storeUpcoming": "Yakında {store}’da"
     },
     "nl": {
       "title": "Eenvoudige apps om je sport bij te houden en beter te worden.",
@@ -626,7 +641,8 @@
       "next": "Volgende",
       "close": "Sluiten",
       "enlarge": "Groter bekijken",
-      "regionJapanOnly": "Alleen in Japan"
+      "regionJapanOnly": "Alleen in Japan",
+      "storeUpcoming": "Binnenkort in de {store}"
     },
     "pl": {
       "title": "Proste aplikacje do zapisywania treningów i robienia postępów.",
@@ -664,7 +680,8 @@
       "next": "Następny",
       "close": "Zamknij",
       "enlarge": "Powiększ",
-      "regionJapanOnly": "Tylko w Japonii"
+      "regionJapanOnly": "Tylko w Japonii",
+      "storeUpcoming": "Wkrótce w {store}"
     },
     "en-GB": {
       "title": "Simple apps for tracking and improving at your sport.",
@@ -702,7 +719,8 @@
       "next": "Next",
       "close": "Close",
       "enlarge": "View larger",
-      "regionJapanOnly": "Japan only"
+      "regionJapanOnly": "Japan only",
+      "storeUpcoming": "Coming soon to the {store}"
     }
   },
   "apps": [
@@ -1723,6 +1741,9 @@
       "stores": {
         "android": "https://play.google.com/store/apps/details?id=com.sokuma.volleyscoreboard"
       },
+      "upcomingStores": [
+        "ios"
+      ],
       "copy": {
         "ja": {
           "name": "バレーボール得点板",
