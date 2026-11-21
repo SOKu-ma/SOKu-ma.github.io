@@ -82,6 +82,8 @@ export function platformsOf(stores) {
 }
 
 // Store availability. Apps without `regions` are offered in every country.
+// Stores still in review: shown as a note, never as a link, and only while the store URL is missing.
+export function upcomingStores(app) { return (Array.isArray(app.upcomingStores) ? app.upcomingStores : []).filter(platform => ['ios', 'android'].includes(platform) && !app.stores?.[platform]); }
 export function isJapanOnly(app) {
   return Array.isArray(app.regions) && app.regions.length === 1 && app.regions[0] === 'JP';
 }
