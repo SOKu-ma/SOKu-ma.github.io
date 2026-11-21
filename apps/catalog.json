@@ -1739,11 +1739,9 @@
         }
       },
       "stores": {
-        "android": "https://play.google.com/store/apps/details?id=com.sokuma.volleyscoreboard"
+        "android": "https://play.google.com/store/apps/details?id=com.sokuma.volleyscoreboard",
+        "ios": "https://apps.apple.com/app/id6836651675"
       },
-      "upcomingStores": [
-        "ios"
-      ],
       "copy": {
         "ja": {
           "name": "バレーボール得点板",
@@ -1774,7 +1772,7 @@
           "pt-BR"
         ]
       },
-      "descriptionLocaleSource": "Store text source of truth in the app repository (Japanese primary; English US, Spanish Spain, Portuguese Brazil). Android only as of 2026-11-21; iOS link is added after the App Store listing is public (not found via the official lookup on 2026-11-21). Other languages fall back to English.",
+      "descriptionLocaleSource": "Store text source of truth in the app repository (Japanese primary; English US, Spanish Spain, Portuguese Brazil). Listed on both stores (iOS 1.0.0 released 2026-11-21, confirmed via the official lookup on 2026-11-22). Screenshots are the Google Play set (7 images, without the iOS-only device link scene). Other languages fall back to English.",
       "newUntil": "2027-02-28"
     },
     {
