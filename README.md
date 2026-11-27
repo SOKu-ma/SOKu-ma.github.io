@@ -31,6 +31,7 @@ SO-KUMA Labs の公式サイトを公開するための GitHub Pages リポジ�
 - App Store: `pt=122938945`（開発者アカウント共通の提供元トークン）と `ct=apps_<紹介元のID>` を付けます。App Store Connect の「アプリ分析 → 獲得 → キャンペーン」で見ます。
 - Google Play: `referrer` に `utm_source=so-kuma_apps` / `utm_medium=apps_page` / `utm_campaign=apps_<紹介元のID>` を付けます。Play Console の「ユーザー獲得レポート」で見ます。
 - 紹介元のIDは `from` を `catalog.json` の `id` / `aliases` で解決した値です。`from` がない、または一覧にないアプリから来たときは `apps_direct` になります。
+- 記事やSNSからのリンクは `?app=<アプリID>&ref=note&lang=ja` の形にします。`app` のアプリが一覧の先頭（ストアボタン付き）に来て、ページもそのカードの位置で開きます。キャンペーンは `note_<アプリID>`（例: `note_starting-xi`）になり、Umami の `store_click` にも `ref` が付きます。`ref` は `note`・`zenn`・`x`・`threads` だけを受け付けます
 - 一覧ページを開いた回数は、各アプリ側の Analytics（設定画面のタップのイベント）で見ます。
 
 ### サイトのアクセス解析（Umami）

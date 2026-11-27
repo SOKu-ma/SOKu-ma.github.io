@@ -13,10 +13,17 @@ export function resolveState(search, languages, catalog, browserLanguages = [], 
   const lang = matchLanguage(params.get('lang'), languages) || browserLanguages.map(value => matchLanguage(value, languages)).find(Boolean) || 'en';
   const from = params.get('from')?.toLowerCase();
   const source = catalog.find(app => app.id === from || app.aliases.includes(from))?.id || null;
+  // `app`: the app an article links to, shown first (with store buttons). `ref`: where the visitor came from.
+  const wanted = params.get('app')?.toLowerCase();
+  const pick = catalog.find(app => app.id === wanted || app.aliases.includes(wanted))?.id || null;
+  const refValue = params.get('ref')?.toLowerCase();
+  const ref = KNOWN_REFS.includes(refValue) ? refValue : null;
   const requested = params.get('platform')?.toLowerCase();
   const platform = ['ios', 'android'].includes(requested) ? requested : /android/i.test(userAgent) ? 'android' : /iphone|ipad|ipod/i.test(userAgent) || (/Macintosh/i.test(userAgent) && touchPoints > 1) ? 'ios' : null;
-  return { lang, source, platform };
+  return { lang, source, platform, pick: pick === source ? null : pick, ref };
 }
+// Outside referrers we count separately from app-to-app links (articles, posts).
+export const KNOWN_REFS = ['note', 'zenn', 'x', 'threads'];
 export function storeEntries(stores, platform) {
   return Object.entries(stores).sort(([a], [b]) => (a === platform ? -1 : b === platform ? 1 : a === 'ios' ? -1 : 1));
 }
@@ -34,11 +41,15 @@ export function safeStoreUrl(value) {
 // Play Console: install referrer with UTM values.
 // The campaign is the recognised source app ID, or "direct" when the page was opened without one.
 export const APP_STORE_PROVIDER_TOKEN = '122938945';
-export function campaignStoreUrl(value, sourceId) {
+// With a known `ref` (e.g. a note article) the campaign is `<ref>_<app>`, e.g. note_starting-xi.
+export function campaignName(sourceId, ref = null, pick = null) {
+  return ref ? `${ref}_${pick || sourceId || 'direct'}` : `apps_${sourceId || 'direct'}`;
+}
+export function campaignStoreUrl(value, sourceId, ref = null, pick = null) {
   const safe = safeStoreUrl(value);
   if (!safe) return null;
   const url = new URL(safe);
-  const campaign = `apps_${sourceId || 'direct'}`;
+  const campaign = campaignName(sourceId, ref, pick);
   if (url.hostname === 'apps.apple.com') {
     url.searchParams.set('pt', APP_STORE_PROVIDER_TOKEN);
     url.searchParams.set('ct', campaign);
@@ -67,10 +78,13 @@ export function orderApps(apps, platform) {
  const offered = app => Boolean(app.stores?.[platform]) || upcomingStores(app).includes(platform);
  return [...apps].sort((a, b) => Number(!offered(a)) - Number(!offered(b)));
 }
-export function groupApps(apps, sourceId, platform = null) {
+export function groupApps(apps, sourceId, platform = null, pickId = null) {
  const source = apps.find(app => app.id === sourceId) || null;
  const ordered = orderApps(apps, platform);
- return {source, others: source ? ordered.filter(app => app.id !== source.id) : ordered};
+ const others = source ? ordered.filter(app => app.id !== source.id) : ordered;
+ // The app an article points to goes first among the others (it keeps its store buttons).
+ const pick = others.find(app => app.id === pickId);
+ return {source, others: pick ? [pick, ...others.filter(app => app !== pick)] : others};
 }
 export function isNew(app, today = new Date()) {
  return Boolean(app.newUntil) && today.toISOString().slice(0, 10) <= app.newUntil;
@@ -100,5 +114,6 @@ export function storeClickData(app, platform, state) {
     'umami-event-lang': state.lang,
     'umami-event-from': state.source || 'direct',
     'umami-event-region': isJapanOnly(app) ? 'jp_only' : 'global',
+    ...(state.ref ? { 'umami-event-ref': state.ref } : {}),
   };
 }
