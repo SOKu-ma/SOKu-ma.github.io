@@ -82,7 +82,7 @@ try {
   const storeLinks = (app, copy, state, ui) => {
     const stores = node('div', 'stores');
     for (const [platform, url] of storeEntries(app.stores, state.platform)) {
-      const href = campaignStoreUrl(url, state.source);
+      const href = campaignStoreUrl(url, state.source, state.ref, state.pick);
       if (!href) continue;
       const name = platform === 'ios' ? 'App Store' : 'Google Play';
       const link = node('a', `store store-${platform}`);
@@ -209,7 +209,7 @@ try {
     document.title = `${ui.eyebrow} — ${ui.collection}`;
     document.querySelectorAll('[data-i18n]').forEach(element => { element.textContent = ui[element.dataset.i18n] || catalog.ui.en[element.dataset.i18n]; });
 
-    const groups = groupApps(catalog.apps, state.source, state.platform);
+    const groups = groupApps(catalog.apps, state.source, state.platform, state.pick);
     document.querySelector('#hero-count').textContent = format(ui.count, { n: catalog.apps.length });
 
     // Hero: decorative icon collage so visitors see at a glance what kind of apps these are.
@@ -257,6 +257,8 @@ try {
     if (!visible.length) cards.push(node('p', 'empty', ui.empty));
     container.classList.toggle('animate', firstRender);
     container.replaceChildren(...cards);
+    // Coming from an article: open the page at the app it talked about, not at the hero.
+    if (firstRender && state.pick) document.getElementById(state.pick)?.scrollIntoView({ block: 'start' });
     firstRender = false;
 
     const all = document.querySelector('#all-apps');
