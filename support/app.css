@@ -1,0 +1,66 @@
+/* Per-app support pages. Tokens, header and footer come from ../apps/showcase.css. */
+.support { width: min(760px, 100% - 32px); padding-block: 40px 72px; }
+.support h1 { font-size: clamp(26px, 5vw, 36px); line-height: 1.25; letter-spacing: -.02em; }
+.support h2 { margin: 0 0 8px; font-size: 22px; letter-spacing: -.01em; }
+.support :is(p, li, summary) { overflow-wrap: anywhere; }
+:lang(ja) .support :is(h1, h2, p, li, summary) { word-break: auto-phrase; }
+
+.app-head { display: flex; align-items: center; gap: 16px; }
+.app-icon { flex: none; width: 72px; height: 72px; border-radius: 22%; box-shadow: 0 0 0 1px var(--line-strong); }
+.app-kicker { margin: 0 0 2px; font-size: 13px; font-weight: 600; color: var(--muted); }
+
+.jump { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 24px; }
+.pill { font: inherit; font-size: 13px; font-weight: 600; padding: 8px 14px; border: 1px solid var(--line-strong); border-radius: 999px; background: var(--surface); color: var(--ink); cursor: pointer; }
+.pill:hover { border-color: var(--muted); }
+
+.block { margin-top: 56px; }
+.block-lead { margin: 0; color: var(--muted); font-size: 15px; }
+.group-title { margin: 28px 0 10px; font-size: 13px; font-weight: 700; color: var(--muted); }
+.fine { margin: 16px 0 0; font-size: 12px; line-height: 1.7; color: var(--muted); }
+.text-link { color: var(--accent-ink); font-weight: 600; text-decoration: underline; text-underline-offset: 3px; }
+
+/* FAQ */
+.faq-list { border: 1px solid var(--line); border-radius: 18px; background: var(--surface); overflow: hidden; }
+.faq-item + .faq-item { border-top: 1px solid var(--line); }
+.faq-item summary { display: flex; align-items: center; justify-content: space-between; gap: 16px; padding: 16px 18px; font-weight: 600; cursor: pointer; list-style: none; }
+.faq-item summary::-webkit-details-marker { display: none; }
+.faq-item summary::after { content: ""; flex: none; width: 8px; height: 8px; border-right: 2px solid var(--muted); border-bottom: 2px solid var(--muted); transform: rotate(45deg); transition: transform .2s ease; }
+.faq-item[open] summary::after { transform: rotate(-135deg); }
+.faq-item summary:focus-visible { outline: 3px solid var(--focus); outline-offset: -3px; border-radius: 14px; }
+.faq-answer { padding: 0 18px; font-size: 15px; line-height: 1.8; }
+.faq-answer p { margin: 0 0 10px; }
+.faq-answer ol { margin: 0 0 10px; padding-inline-start: 22px; }
+.faq-answer li + li { margin-top: 4px; }
+.helpful { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin: 6px 18px 16px; padding-top: 12px; border-top: 1px dashed var(--line-strong); }
+.helpful-label { font-size: 13px; color: var(--muted); }
+.helpful .pill { padding: 5px 14px; }
+
+/* Roadmap */
+.status { display: flex; align-items: center; gap: 8px; }
+.status::before { content: ""; width: 8px; height: 8px; border-radius: 50%; background: var(--muted); }
+.status-in_progress::before { background: var(--accent-strong); box-shadow: 0 0 0 4px rgb(214 237 136 / 35%); }
+.status-done::before { background: none; border: 2px solid var(--muted); }
+.roadmap-list { margin: 0; padding: 0; list-style: none; border: 1px solid var(--line); border-radius: 18px; background: var(--surface); overflow: hidden; }
+.roadmap-item { display: flex; align-items: center; justify-content: space-between; gap: 16px; padding: 14px 18px; }
+.roadmap-item + .roadmap-item { border-top: 1px solid var(--line); }
+.roadmap-text { min-width: 0; }
+.roadmap-title { margin: 0; font-weight: 600; }
+.roadmap-note { margin: 2px 0 0; font-size: 13px; line-height: 1.6; color: var(--muted); }
+.vote { flex: none; display: inline-flex; align-items: center; gap: 8px; font: inherit; font-size: 13px; font-weight: 700; padding: 8px 14px; border: 1px solid var(--line-strong); border-radius: 999px; background: var(--surface); color: var(--ink); cursor: pointer; }
+.vote:hover { border-color: var(--muted); }
+.vote[aria-pressed="true"] { background: var(--accent); border-color: var(--accent-strong); color: #2f4a07; cursor: default; }
+.vote-count { font-variant-numeric: tabular-nums; font-weight: 600; opacity: .8; }
+
+/* Feedback */
+.actions { display: flex; flex-wrap: wrap; align-items: center; gap: 14px 24px; margin-top: 20px; }
+#error, .support noscript p { margin-top: 24px; padding: 16px; border-radius: 12px; background: var(--surface-2); }
+
+@media (max-width: 760px) {
+  .support { padding-block: 28px 56px; }
+  .app-icon { width: 60px; height: 60px; }
+  .block { margin-top: 44px; }
+  /* The support link in the header is hidden on phones by showcase.css; this page has it in the footer too. */
+}
+@media (max-width: 420px) {
+  .roadmap-item { align-items: flex-start; flex-direction: column; gap: 10px; }
+}

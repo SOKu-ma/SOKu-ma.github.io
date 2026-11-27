@@ -1,4 +1,4 @@
-import {readFile,stat,rm,mkdir,cp} from 'node:fs/promises';
+import {readFile,readdir,stat,rm,mkdir,cp} from 'node:fs/promises';
 const catalog=JSON.parse(await readFile('apps/catalog.json','utf8'));
 const ids=new Set();
 for(const app of catalog.apps){
@@ -11,6 +11,13 @@ for(const app of catalog.apps){
 }
 const {storeBadge}=await import('../apps/state.mjs');
 for(const lang of Object.keys(catalog.languages))for(const platform of ['ios','android'])await stat('apps/'+storeBadge(platform,lang));
+// Per-app support pages: every data file must be valid and have its page.
+const {validateSupportData}=await import('../support/state.mjs');
+for(const file of (await readdir('support/data')).filter(name=>name.endsWith('.json')&&name!=='ui.json')){
+ const data=JSON.parse(await readFile('support/data/'+file,'utf8'));
+ const problems=validateSupportData(data,catalog.apps);if(problems.length)throw new Error(`Support data ${file}: ${problems.join('; ')}`);
+ await stat(`support/${data.id}/index.html`);
+}
 await rm('dist',{recursive:true,force:true});await mkdir('dist');
 for(const path of ['index.html','styles.css','favicon.svg','CNAME','privacy','support','apps']) await cp(path,'dist/'+path,{recursive:true});
 console.log(`Static build verified: ${catalog.apps.length} apps / ${Object.keys(catalog.languages).length} languages`);
